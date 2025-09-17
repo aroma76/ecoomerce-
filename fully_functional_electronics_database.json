@@ -1,0 +1,5545 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "brand": "Apple",
+      "name": "iPhone 16 Pro Max",
+      "category": "smartphones",
+      "price": 159900,
+      "originalPrice": 169900,
+      "image": "https://images.unsplash.com/photo-1511707171647?w=400",
+      "specs": "6.9\" Super Retina XDR, A18 Pro, 48MP Pro Camera System, Titanium",
+      "storage": "256GB",
+      "rating": 4.1,
+      "reviews": 2958,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 159900,
+          "delivery": "Free",
+          "emi": "\u20b913,325/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Apple+iPhone+16+Pro+Max"
+        },
+        {
+          "name": "Amazon",
+          "price": 167027,
+          "delivery": "Free",
+          "emi": "\u20b913,918/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+Max"
+        },
+        {
+          "name": "Croma",
+          "price": 158123,
+          "delivery": "\u20b999",
+          "emi": "\u20b913,176/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Apple+iPhone+16+Pro+Max"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 157947,
+          "delivery": "Free",
+          "emi": "\u20b913,162/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Apple+iPhone+16+Pro+Max"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 165942,
+          "delivery": "\u20b9150",
+          "emi": "\u20b913,828/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Apple+iPhone+16+Pro+Max"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "brand": "Apple",
+      "name": "iPhone 16 Pro",
+      "category": "smartphones",
+      "price": 134900,
+      "originalPrice": 144900,
+      "image": "https://images.unsplash.com/photo-1511707171660?w=400",
+      "specs": "6.3\" Super Retina XDR, A18 Pro, 48MP Pro Camera System, Titanium",
+      "storage": "128GB",
+      "rating": 4.4,
+      "reviews": 3150,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 134900,
+          "delivery": "Free",
+          "emi": "\u20b911,241/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Apple+iPhone+16+Pro"
+        },
+        {
+          "name": "Amazon",
+          "price": 142938,
+          "delivery": "Free",
+          "emi": "\u20b911,911/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro"
+        },
+        {
+          "name": "Croma",
+          "price": 135737,
+          "delivery": "\u20b999",
+          "emi": "\u20b911,311/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Apple+iPhone+16+Pro"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 135223,
+          "delivery": "Free",
+          "emi": "\u20b911,268/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Apple+iPhone+16+Pro"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 136410,
+          "delivery": "\u20b9150",
+          "emi": "\u20b911,367/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Apple+iPhone+16+Pro"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "brand": "Apple",
+      "name": "iPhone 16 Plus",
+      "category": "smartphones",
+      "price": 99900,
+      "originalPrice": 109900,
+      "image": "https://images.unsplash.com/photo-1511707171673?w=400",
+      "specs": "6.7\" Super Retina XDR, A18, 48MP Dual Camera, Aluminum",
+      "storage": "128GB",
+      "rating": 4.3,
+      "reviews": 536,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 99900,
+          "delivery": "Free",
+          "emi": "\u20b98,325/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Apple+iPhone+16+Plus"
+        },
+        {
+          "name": "Amazon",
+          "price": 105743,
+          "delivery": "Free",
+          "emi": "\u20b98,811/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Apple+iPhone+16+Plus"
+        },
+        {
+          "name": "Croma",
+          "price": 98293,
+          "delivery": "\u20b999",
+          "emi": "\u20b98,191/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Apple+iPhone+16+Plus"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 97924,
+          "delivery": "Free",
+          "emi": "\u20b98,160/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Apple+iPhone+16+Plus"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 101125,
+          "delivery": "\u20b9150",
+          "emi": "\u20b98,427/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Apple+iPhone+16+Plus"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "brand": "Apple",
+      "name": "iPhone 16",
+      "category": "smartphones",
+      "price": 79900,
+      "originalPrice": 89900,
+      "image": "https://images.unsplash.com/photo-1511707171686?w=400",
+      "specs": "6.1\" Super Retina XDR, A18, 48MP Dual Camera, Aluminum",
+      "storage": "128GB",
+      "rating": 4.7,
+      "reviews": 5738,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 79900,
+          "delivery": "Free",
+          "emi": "\u20b96,658/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Apple+iPhone+16"
+        },
+        {
+          "name": "Amazon",
+          "price": 81798,
+          "delivery": "Free",
+          "emi": "\u20b96,816/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Apple+iPhone+16"
+        },
+        {
+          "name": "Croma",
+          "price": 81243,
+          "delivery": "\u20b999",
+          "emi": "\u20b96,770/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Apple+iPhone+16"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 81007,
+          "delivery": "Free",
+          "emi": "\u20b96,750/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Apple+iPhone+16"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 83522,
+          "delivery": "\u20b9150",
+          "emi": "\u20b96,960/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Apple+iPhone+16"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "brand": "Apple",
+      "name": "iPhone 15 Pro Max",
+      "category": "smartphones",
+      "price": 149900,
+      "originalPrice": 159900,
+      "image": "https://images.unsplash.com/photo-1511707171699?w=400",
+      "specs": "6.7\" Super Retina XDR, A17 Pro, 48MP Pro Camera System, Titanium",
+      "storage": "256GB",
+      "rating": 4.4,
+      "reviews": 807,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 149900,
+          "delivery": "Free",
+          "emi": "\u20b912,491/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Apple+iPhone+15+Pro+Max"
+        },
+        {
+          "name": "Amazon",
+          "price": 158826,
+          "delivery": "Free",
+          "emi": "\u20b913,235/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Apple+iPhone+15+Pro+Max"
+        },
+        {
+          "name": "Croma",
+          "price": 150597,
+          "delivery": "\u20b999",
+          "emi": "\u20b912,549/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Apple+iPhone+15+Pro+Max"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 148745,
+          "delivery": "Free",
+          "emi": "\u20b912,395/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Apple+iPhone+15+Pro+Max"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 154416,
+          "delivery": "\u20b9150",
+          "emi": "\u20b912,868/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Apple+iPhone+15+Pro+Max"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "brand": "Apple",
+      "name": "iPhone 15 Pro",
+      "category": "smartphones",
+      "price": 124900,
+      "originalPrice": 134900,
+      "image": "https://images.unsplash.com/photo-1511707171712?w=400",
+      "specs": "6.1\" Super Retina XDR, A17 Pro, 48MP Pro Camera System, Titanium",
+      "storage": "128GB",
+      "rating": 4.7,
+      "reviews": 6291,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 124900,
+          "delivery": "Free",
+          "emi": "\u20b910,408/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Apple+iPhone+15+Pro"
+        },
+        {
+          "name": "Amazon",
+          "price": 130554,
+          "delivery": "Free",
+          "emi": "\u20b910,879/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Apple+iPhone+15+Pro"
+        },
+        {
+          "name": "Croma",
+          "price": 128475,
+          "delivery": "\u20b999",
+          "emi": "\u20b910,706/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Apple+iPhone+15+Pro"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 123973,
+          "delivery": "Free",
+          "emi": "\u20b910,331/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Apple+iPhone+15+Pro"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 130649,
+          "delivery": "\u20b9150",
+          "emi": "\u20b910,887/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Apple+iPhone+15+Pro"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "brand": "Apple",
+      "name": "iPhone 15 Plus",
+      "category": "smartphones",
+      "price": 89900,
+      "originalPrice": 99900,
+      "image": "https://images.unsplash.com/photo-1511707171725?w=400",
+      "specs": "6.7\" Super Retina XDR, A16, 48MP Dual Camera, Aluminum",
+      "storage": "128GB",
+      "rating": 4.6,
+      "reviews": 3147,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 89900,
+          "delivery": "Free",
+          "emi": "\u20b97,491/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Apple+iPhone+15+Plus"
+        },
+        {
+          "name": "Amazon",
+          "price": 92052,
+          "delivery": "Free",
+          "emi": "\u20b97,671/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Apple+iPhone+15+Plus"
+        },
+        {
+          "name": "Croma",
+          "price": 91225,
+          "delivery": "\u20b999",
+          "emi": "\u20b97,602/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Apple+iPhone+15+Plus"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 88880,
+          "delivery": "Free",
+          "emi": "\u20b97,406/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Apple+iPhone+15+Plus"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 93130,
+          "delivery": "\u20b9150",
+          "emi": "\u20b97,760/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Apple+iPhone+15+Plus"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "brand": "Apple",
+      "name": "iPhone 15",
+      "category": "smartphones",
+      "price": 69900,
+      "originalPrice": 79900,
+      "image": "https://images.unsplash.com/photo-1511707171738?w=400",
+      "specs": "6.1\" Super Retina XDR, A16, 48MP Dual Camera, Aluminum",
+      "storage": "128GB",
+      "rating": 4.2,
+      "reviews": 6930,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 69900,
+          "delivery": "Free",
+          "emi": "\u20b95,825/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Apple+iPhone+15"
+        },
+        {
+          "name": "Amazon",
+          "price": 73575,
+          "delivery": "Free",
+          "emi": "\u20b96,131/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Apple+iPhone+15"
+        },
+        {
+          "name": "Croma",
+          "price": 69747,
+          "delivery": "\u20b999",
+          "emi": "\u20b95,812/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Apple+iPhone+15"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 69714,
+          "delivery": "Free",
+          "emi": "\u20b95,809/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Apple+iPhone+15"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 72668,
+          "delivery": "\u20b9150",
+          "emi": "\u20b96,055/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Apple+iPhone+15"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "brand": "Apple",
+      "name": "iPhone 14 Pro Max",
+      "category": "smartphones",
+      "price": 139900,
+      "originalPrice": 149900,
+      "image": "https://images.unsplash.com/photo-1511707171751?w=400",
+      "specs": "6.7\" Super Retina XDR, A16 Bionic, 48MP Pro Camera System",
+      "storage": "128GB",
+      "rating": 4.7,
+      "reviews": 5026,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 139900,
+          "delivery": "Free",
+          "emi": "\u20b911,658/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Apple+iPhone+14+Pro+Max"
+        },
+        {
+          "name": "Amazon",
+          "price": 142793,
+          "delivery": "Free",
+          "emi": "\u20b911,899/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Apple+iPhone+14+Pro+Max"
+        },
+        {
+          "name": "Croma",
+          "price": 144250,
+          "delivery": "\u20b999",
+          "emi": "\u20b912,020/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Apple+iPhone+14+Pro+Max"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 141433,
+          "delivery": "Free",
+          "emi": "\u20b911,786/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Apple+iPhone+14+Pro+Max"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 142359,
+          "delivery": "\u20b9150",
+          "emi": "\u20b911,863/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Apple+iPhone+14+Pro+Max"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "brand": "Apple",
+      "name": "iPhone 14 Pro",
+      "category": "smartphones",
+      "price": 114900,
+      "originalPrice": 124900,
+      "image": "https://images.unsplash.com/photo-1511707171764?w=400",
+      "specs": "6.1\" Super Retina XDR, A16 Bionic, 48MP Pro Camera System",
+      "storage": "128GB",
+      "rating": 4.7,
+      "reviews": 4481,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 114900,
+          "delivery": "Free",
+          "emi": "\u20b99,575/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Apple+iPhone+14+Pro"
+        },
+        {
+          "name": "Amazon",
+          "price": 117868,
+          "delivery": "Free",
+          "emi": "\u20b99,822/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Apple+iPhone+14+Pro"
+        },
+        {
+          "name": "Croma",
+          "price": 112636,
+          "delivery": "\u20b999",
+          "emi": "\u20b99,386/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Apple+iPhone+14+Pro"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 115623,
+          "delivery": "Free",
+          "emi": "\u20b99,635/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Apple+iPhone+14+Pro"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 120358,
+          "delivery": "\u20b9150",
+          "emi": "\u20b910,029/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Apple+iPhone+14+Pro"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "brand": "Apple",
+      "name": "iPhone 14",
+      "category": "smartphones",
+      "price": 59900,
+      "originalPrice": 69900,
+      "image": "https://images.unsplash.com/photo-1511707171777?w=400",
+      "specs": "6.1\" Super Retina XDR, A15 Bionic, 12MP Dual Camera",
+      "storage": "128GB",
+      "rating": 4.2,
+      "reviews": 4653,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 59900,
+          "delivery": "Free",
+          "emi": "\u20b94,991/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Apple+iPhone+14"
+        },
+        {
+          "name": "Amazon",
+          "price": 61737,
+          "delivery": "Free",
+          "emi": "\u20b95,144/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Apple+iPhone+14"
+        },
+        {
+          "name": "Croma",
+          "price": 60205,
+          "delivery": "\u20b999",
+          "emi": "\u20b95,017/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Apple+iPhone+14"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 59223,
+          "delivery": "Free",
+          "emi": "\u20b94,935/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Apple+iPhone+14"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 61732,
+          "delivery": "\u20b9150",
+          "emi": "\u20b95,144/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Apple+iPhone+14"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "brand": "Apple",
+      "name": "iPhone 13",
+      "category": "smartphones",
+      "price": 49900,
+      "originalPrice": 59900,
+      "image": "https://images.unsplash.com/photo-1511707171790?w=400",
+      "specs": "6.1\" Super Retina XDR, A15 Bionic, 12MP Dual Camera",
+      "storage": "128GB",
+      "rating": 4.8,
+      "reviews": 4786,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 49900,
+          "delivery": "Free",
+          "emi": "\u20b94,158/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Apple+iPhone+13"
+        },
+        {
+          "name": "Amazon",
+          "price": 52031,
+          "delivery": "Free",
+          "emi": "\u20b94,335/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Apple+iPhone+13"
+        },
+        {
+          "name": "Croma",
+          "price": 51504,
+          "delivery": "\u20b999",
+          "emi": "\u20b94,292/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Apple+iPhone+13"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 48718,
+          "delivery": "Free",
+          "emi": "\u20b94,059/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Apple+iPhone+13"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 50972,
+          "delivery": "\u20b9150",
+          "emi": "\u20b94,247/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Apple+iPhone+13"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "brand": "Apple",
+      "name": "iPhone SE 2024",
+      "category": "smartphones",
+      "price": 43900,
+      "originalPrice": 49900,
+      "image": "https://images.unsplash.com/photo-1511707171803?w=400",
+      "specs": "4.7\" Retina HD, A15 Bionic, 12MP Single Camera, Touch ID",
+      "storage": "64GB",
+      "rating": 4.1,
+      "reviews": 1148,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 43900,
+          "delivery": "Free",
+          "emi": "\u20b93,658/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Apple+iPhone+SE+2024"
+        },
+        {
+          "name": "Amazon",
+          "price": 45597,
+          "delivery": "Free",
+          "emi": "\u20b93,799/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Apple+iPhone+SE+2024"
+        },
+        {
+          "name": "Croma",
+          "price": 44375,
+          "delivery": "\u20b999",
+          "emi": "\u20b93,697/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Apple+iPhone+SE+2024"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 43459,
+          "delivery": "Free",
+          "emi": "\u20b93,621/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Apple+iPhone+SE+2024"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 44719,
+          "delivery": "\u20b9150",
+          "emi": "\u20b93,726/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Apple+iPhone+SE+2024"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "brand": "Samsung",
+      "name": "Galaxy S25 Ultra",
+      "category": "smartphones",
+      "price": 134999,
+      "originalPrice": 144999,
+      "image": "https://images.unsplash.com/photo-1511707171816?w=400",
+      "specs": "6.8\" Dynamic AMOLED 2X, Snapdragon 8 Elite, 200MP Quad Camera, S Pen",
+      "storage": "256GB",
+      "rating": 4.2,
+      "reviews": 1331,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 134999,
+          "delivery": "Free",
+          "emi": "\u20b911,249/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Samsung+Galaxy+S25+Ultra"
+        },
+        {
+          "name": "Amazon",
+          "price": 142232,
+          "delivery": "Free",
+          "emi": "\u20b911,852/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Samsung+Galaxy+S25+Ultra"
+        },
+        {
+          "name": "Croma",
+          "price": 134398,
+          "delivery": "\u20b999",
+          "emi": "\u20b911,199/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Samsung+Galaxy+S25+Ultra"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 134560,
+          "delivery": "Free",
+          "emi": "\u20b911,213/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Samsung+Galaxy+S25+Ultra"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 137346,
+          "delivery": "\u20b9150",
+          "emi": "\u20b911,445/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Samsung+Galaxy+S25+Ultra"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "brand": "Samsung",
+      "name": "Galaxy S24 Ultra",
+      "category": "smartphones",
+      "price": 124999,
+      "originalPrice": 134999,
+      "image": "https://images.unsplash.com/photo-1511707171829?w=400",
+      "specs": "6.8\" Dynamic AMOLED 2X, Snapdragon 8 Gen 3, 200MP Quad Camera, S Pen",
+      "storage": "256GB",
+      "rating": 4.2,
+      "reviews": 3272,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 124999,
+          "delivery": "Free",
+          "emi": "\u20b910,416/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Samsung+Galaxy+S24+Ultra"
+        },
+        {
+          "name": "Amazon",
+          "price": 128308,
+          "delivery": "Free",
+          "emi": "\u20b910,692/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Samsung+Galaxy+S24+Ultra"
+        },
+        {
+          "name": "Croma",
+          "price": 127017,
+          "delivery": "\u20b999",
+          "emi": "\u20b910,584/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Samsung+Galaxy+S24+Ultra"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 122937,
+          "delivery": "Free",
+          "emi": "\u20b910,244/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Samsung+Galaxy+S24+Ultra"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 129318,
+          "delivery": "\u20b9150",
+          "emi": "\u20b910,776/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Samsung+Galaxy+S24+Ultra"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "brand": "Samsung",
+      "name": "Galaxy S24 Plus",
+      "category": "smartphones",
+      "price": 99999,
+      "originalPrice": 109999,
+      "image": "https://images.unsplash.com/photo-1511707171842?w=400",
+      "specs": "6.7\" Dynamic AMOLED 2X, Snapdragon 8 Gen 3, 50MP Triple Camera",
+      "storage": "256GB",
+      "rating": 4.3,
+      "reviews": 2490,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 99999,
+          "delivery": "Free",
+          "emi": "\u20b98,333/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Samsung+Galaxy+S24+Plus"
+        },
+        {
+          "name": "Amazon",
+          "price": 104254,
+          "delivery": "Free",
+          "emi": "\u20b98,687/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Samsung+Galaxy+S24+Plus"
+        },
+        {
+          "name": "Croma",
+          "price": 99032,
+          "delivery": "\u20b999",
+          "emi": "\u20b98,252/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Samsung+Galaxy+S24+Plus"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 96212,
+          "delivery": "Free",
+          "emi": "\u20b98,017/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Samsung+Galaxy+S24+Plus"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 101561,
+          "delivery": "\u20b9150",
+          "emi": "\u20b98,463/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Samsung+Galaxy+S24+Plus"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "brand": "Samsung",
+      "name": "Galaxy S24",
+      "category": "smartphones",
+      "price": 79999,
+      "originalPrice": 89999,
+      "image": "https://images.unsplash.com/photo-1511707171855?w=400",
+      "specs": "6.2\" Dynamic AMOLED 2X, Snapdragon 8 Gen 3, 50MP Triple Camera",
+      "storage": "128GB",
+      "rating": 4.7,
+      "reviews": 2798,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 79999,
+          "delivery": "Free",
+          "emi": "\u20b96,666/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Samsung+Galaxy+S24"
+        },
+        {
+          "name": "Amazon",
+          "price": 82563,
+          "delivery": "Free",
+          "emi": "\u20b96,880/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Samsung+Galaxy+S24"
+        },
+        {
+          "name": "Croma",
+          "price": 78475,
+          "delivery": "\u20b999",
+          "emi": "\u20b96,539/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Samsung+Galaxy+S24"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 79612,
+          "delivery": "Free",
+          "emi": "\u20b96,634/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Samsung+Galaxy+S24"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 81656,
+          "delivery": "\u20b9150",
+          "emi": "\u20b96,804/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Samsung+Galaxy+S24"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "brand": "Samsung",
+      "name": "Galaxy Z Fold 6",
+      "category": "smartphones",
+      "price": 164999,
+      "originalPrice": 174999,
+      "image": "https://images.unsplash.com/photo-1511707171868?w=400",
+      "specs": "7.6\" Foldable Dynamic AMOLED, Snapdragon 8 Gen 3, 50MP Triple Camera",
+      "storage": "256GB",
+      "rating": 4.0,
+      "reviews": 1349,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 164999,
+          "delivery": "Free",
+          "emi": "\u20b913,749/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Samsung+Galaxy+Z+Fold+6"
+        },
+        {
+          "name": "Amazon",
+          "price": 172195,
+          "delivery": "Free",
+          "emi": "\u20b914,349/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Samsung+Galaxy+Z+Fold+6"
+        },
+        {
+          "name": "Croma",
+          "price": 163375,
+          "delivery": "\u20b999",
+          "emi": "\u20b913,614/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Samsung+Galaxy+Z+Fold+6"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 166541,
+          "delivery": "Free",
+          "emi": "\u20b913,878/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Samsung+Galaxy+Z+Fold+6"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 172000,
+          "delivery": "\u20b9150",
+          "emi": "\u20b914,333/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Samsung+Galaxy+Z+Fold+6"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "brand": "Samsung",
+      "name": "Galaxy Z Flip 6",
+      "category": "smartphones",
+      "price": 109999,
+      "originalPrice": 119999,
+      "image": "https://images.unsplash.com/photo-1511707171881?w=400",
+      "specs": "6.7\" Foldable Dynamic AMOLED, Snapdragon 8 Gen 3, 50MP Dual Camera",
+      "storage": "256GB",
+      "rating": 4.7,
+      "reviews": 6760,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 109999,
+          "delivery": "Free",
+          "emi": "\u20b99,166/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Samsung+Galaxy+Z+Flip+6"
+        },
+        {
+          "name": "Amazon",
+          "price": 116060,
+          "delivery": "Free",
+          "emi": "\u20b99,671/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Samsung+Galaxy+Z+Flip+6"
+        },
+        {
+          "name": "Croma",
+          "price": 114181,
+          "delivery": "\u20b999",
+          "emi": "\u20b99,515/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Samsung+Galaxy+Z+Flip+6"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 111890,
+          "delivery": "Free",
+          "emi": "\u20b99,324/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Samsung+Galaxy+Z+Flip+6"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 113930,
+          "delivery": "\u20b9150",
+          "emi": "\u20b99,494/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Samsung+Galaxy+Z+Flip+6"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "brand": "Samsung",
+      "name": "Galaxy A55 5G",
+      "category": "smartphones",
+      "price": 39999,
+      "originalPrice": 44999,
+      "image": "https://images.unsplash.com/photo-1511707171894?w=400",
+      "specs": "6.6\" Super AMOLED, Exynos 1480, 50MP Triple Camera",
+      "storage": "128GB",
+      "rating": 4.6,
+      "reviews": 4366,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 39999,
+          "delivery": "Free",
+          "emi": "\u20b93,333/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Samsung+Galaxy+A55+5G"
+        },
+        {
+          "name": "Amazon",
+          "price": 42310,
+          "delivery": "Free",
+          "emi": "\u20b93,525/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Samsung+Galaxy+A55+5G"
+        },
+        {
+          "name": "Croma",
+          "price": 40422,
+          "delivery": "\u20b999",
+          "emi": "\u20b93,368/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Samsung+Galaxy+A55+5G"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 38639,
+          "delivery": "Free",
+          "emi": "\u20b93,219/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Samsung+Galaxy+A55+5G"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 41125,
+          "delivery": "\u20b9150",
+          "emi": "\u20b93,427/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Samsung+Galaxy+A55+5G"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "brand": "Samsung",
+      "name": "Galaxy A35 5G",
+      "category": "smartphones",
+      "price": 30999,
+      "originalPrice": 35999,
+      "image": "https://images.unsplash.com/photo-1511707171907?w=400",
+      "specs": "6.6\" Super AMOLED, Exynos 1380, 50MP Triple Camera",
+      "storage": "128GB",
+      "rating": 4.4,
+      "reviews": 970,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 30999,
+          "delivery": "Free",
+          "emi": "\u20b92,583/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Samsung+Galaxy+A35+5G"
+        },
+        {
+          "name": "Amazon",
+          "price": 32732,
+          "delivery": "Free",
+          "emi": "\u20b92,727/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Samsung+Galaxy+A35+5G"
+        },
+        {
+          "name": "Croma",
+          "price": 32008,
+          "delivery": "\u20b999",
+          "emi": "\u20b92,667/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Samsung+Galaxy+A35+5G"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 30607,
+          "delivery": "Free",
+          "emi": "\u20b92,550/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Samsung+Galaxy+A35+5G"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 32056,
+          "delivery": "\u20b9150",
+          "emi": "\u20b92,671/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Samsung+Galaxy+A35+5G"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "brand": "Samsung",
+      "name": "Galaxy A25 5G",
+      "category": "smartphones",
+      "price": 26999,
+      "originalPrice": 30999,
+      "image": "https://images.unsplash.com/photo-1511707171920?w=400",
+      "specs": "6.5\" Super AMOLED, Exynos 1280, 50MP Triple Camera",
+      "storage": "128GB",
+      "rating": 4.6,
+      "reviews": 1083,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 26999,
+          "delivery": "Free",
+          "emi": "\u20b92,249/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Samsung+Galaxy+A25+5G"
+        },
+        {
+          "name": "Amazon",
+          "price": 28260,
+          "delivery": "Free",
+          "emi": "\u20b92,355/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Samsung+Galaxy+A25+5G"
+        },
+        {
+          "name": "Croma",
+          "price": 27500,
+          "delivery": "\u20b999",
+          "emi": "\u20b92,291/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Samsung+Galaxy+A25+5G"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 26588,
+          "delivery": "Free",
+          "emi": "\u20b92,215/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Samsung+Galaxy+A25+5G"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 27475,
+          "delivery": "\u20b9150",
+          "emi": "\u20b92,289/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Samsung+Galaxy+A25+5G"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "brand": "Samsung",
+      "name": "Galaxy A15 5G",
+      "category": "smartphones",
+      "price": 18999,
+      "originalPrice": 21999,
+      "image": "https://images.unsplash.com/photo-1511707171933?w=400",
+      "specs": "6.5\" Super AMOLED, Dimensity 6100+, 50MP Triple Camera",
+      "storage": "128GB",
+      "rating": 4.5,
+      "reviews": 4788,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 18999,
+          "delivery": "Free",
+          "emi": "\u20b91,583/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Samsung+Galaxy+A15+5G"
+        },
+        {
+          "name": "Amazon",
+          "price": 20131,
+          "delivery": "Free",
+          "emi": "\u20b91,677/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Samsung+Galaxy+A15+5G"
+        },
+        {
+          "name": "Croma",
+          "price": 19360,
+          "delivery": "\u20b999",
+          "emi": "\u20b91,613/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Samsung+Galaxy+A15+5G"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 19007,
+          "delivery": "Free",
+          "emi": "\u20b91,583/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Samsung+Galaxy+A15+5G"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 19716,
+          "delivery": "\u20b9150",
+          "emi": "\u20b91,643/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Samsung+Galaxy+A15+5G"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "brand": "Samsung",
+      "name": "Galaxy M55 5G",
+      "category": "smartphones",
+      "price": 26999,
+      "originalPrice": 30999,
+      "image": "https://images.unsplash.com/photo-1511707171946?w=400",
+      "specs": "6.7\" Super AMOLED+, Snapdragon 7 Gen 1, 50MP Triple Camera",
+      "storage": "128GB",
+      "rating": 4.7,
+      "reviews": 4084,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 26999,
+          "delivery": "Free",
+          "emi": "\u20b92,249/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Samsung+Galaxy+M55+5G"
+        },
+        {
+          "name": "Amazon",
+          "price": 27818,
+          "delivery": "Free",
+          "emi": "\u20b92,318/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Samsung+Galaxy+M55+5G"
+        },
+        {
+          "name": "Croma",
+          "price": 26942,
+          "delivery": "\u20b999",
+          "emi": "\u20b92,245/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Samsung+Galaxy+M55+5G"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 26375,
+          "delivery": "Free",
+          "emi": "\u20b92,197/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Samsung+Galaxy+M55+5G"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 27293,
+          "delivery": "\u20b9150",
+          "emi": "\u20b92,274/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Samsung+Galaxy+M55+5G"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "brand": "Samsung",
+      "name": "Galaxy M35 5G",
+      "category": "smartphones",
+      "price": 19999,
+      "originalPrice": 22999,
+      "image": "https://images.unsplash.com/photo-1511707171959?w=400",
+      "specs": "6.6\" Super AMOLED, Exynos 1380, 50MP Triple Camera",
+      "storage": "128GB",
+      "rating": 4.3,
+      "reviews": 6859,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 19999,
+          "delivery": "Free",
+          "emi": "\u20b91,666/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Samsung+Galaxy+M35+5G"
+        },
+        {
+          "name": "Amazon",
+          "price": 20428,
+          "delivery": "Free",
+          "emi": "\u20b91,702/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Samsung+Galaxy+M35+5G"
+        },
+        {
+          "name": "Croma",
+          "price": 19946,
+          "delivery": "\u20b999",
+          "emi": "\u20b91,662/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Samsung+Galaxy+M35+5G"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 19330,
+          "delivery": "Free",
+          "emi": "\u20b91,610/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Samsung+Galaxy+M35+5G"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 20460,
+          "delivery": "\u20b9150",
+          "emi": "\u20b91,705/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Samsung+Galaxy+M35+5G"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "brand": "OnePlus",
+      "name": "OnePlus 13",
+      "category": "smartphones",
+      "price": 69999,
+      "originalPrice": 74999,
+      "image": "https://images.unsplash.com/photo-1511707171972?w=400",
+      "specs": "6.82\" LTPO AMOLED, Snapdragon 8 Elite, 50MP Hasselblad Triple Camera",
+      "storage": "256GB",
+      "rating": 4.4,
+      "reviews": 1700,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 69999,
+          "delivery": "Free",
+          "emi": "\u20b95,833/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=OnePlus+OnePlus+13"
+        },
+        {
+          "name": "Amazon",
+          "price": 72903,
+          "delivery": "Free",
+          "emi": "\u20b96,075/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=OnePlus+OnePlus+13"
+        },
+        {
+          "name": "Croma",
+          "price": 70168,
+          "delivery": "\u20b999",
+          "emi": "\u20b95,847/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=OnePlus+OnePlus+13"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 67245,
+          "delivery": "Free",
+          "emi": "\u20b95,603/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=OnePlus+OnePlus+13"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 72534,
+          "delivery": "\u20b9150",
+          "emi": "\u20b96,044/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=OnePlus+OnePlus+13"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "brand": "OnePlus",
+      "name": "OnePlus 12",
+      "category": "smartphones",
+      "price": 64999,
+      "originalPrice": 69999,
+      "image": "https://images.unsplash.com/photo-1511707171985?w=400",
+      "specs": "6.82\" LTPO AMOLED, Snapdragon 8 Gen 3, 50MP Hasselblad Triple Camera",
+      "storage": "256GB",
+      "rating": 4.7,
+      "reviews": 5387,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 64999,
+          "delivery": "Free",
+          "emi": "\u20b95,416/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=OnePlus+OnePlus+12"
+        },
+        {
+          "name": "Amazon",
+          "price": 67213,
+          "delivery": "Free",
+          "emi": "\u20b95,601/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=OnePlus+OnePlus+12"
+        },
+        {
+          "name": "Croma",
+          "price": 66686,
+          "delivery": "\u20b999",
+          "emi": "\u20b95,557/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=OnePlus+OnePlus+12"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 64912,
+          "delivery": "Free",
+          "emi": "\u20b95,409/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=OnePlus+OnePlus+12"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 67424,
+          "delivery": "\u20b9150",
+          "emi": "\u20b95,618/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=OnePlus+OnePlus+12"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "brand": "OnePlus",
+      "name": "OnePlus 12R",
+      "category": "smartphones",
+      "price": 42999,
+      "originalPrice": 47999,
+      "image": "https://images.unsplash.com/photo-1511707171998?w=400",
+      "specs": "6.78\" LTPO AMOLED, Snapdragon 8s Gen 3, 50MP Triple Camera",
+      "storage": "128GB",
+      "rating": 4.4,
+      "reviews": 2081,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 42999,
+          "delivery": "Free",
+          "emi": "\u20b93,583/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=OnePlus+OnePlus+12R"
+        },
+        {
+          "name": "Amazon",
+          "price": 45467,
+          "delivery": "Free",
+          "emi": "\u20b93,788/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=OnePlus+OnePlus+12R"
+        },
+        {
+          "name": "Croma",
+          "price": 42652,
+          "delivery": "\u20b999",
+          "emi": "\u20b93,554/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=OnePlus+OnePlus+12R"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 41320,
+          "delivery": "Free",
+          "emi": "\u20b93,443/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=OnePlus+OnePlus+12R"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 43948,
+          "delivery": "\u20b9150",
+          "emi": "\u20b93,662/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=OnePlus+OnePlus+12R"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "brand": "OnePlus",
+      "name": "OnePlus 11",
+      "category": "smartphones",
+      "price": 56999,
+      "originalPrice": 61999,
+      "image": "https://images.unsplash.com/photo-1511707172011?w=400",
+      "specs": "6.7\" LTPO AMOLED, Snapdragon 8 Gen 2, 50MP Hasselblad Triple Camera",
+      "storage": "128GB",
+      "rating": 4.0,
+      "reviews": 5374,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 56999,
+          "delivery": "Free",
+          "emi": "\u20b94,749/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=OnePlus+OnePlus+11"
+        },
+        {
+          "name": "Amazon",
+          "price": 60039,
+          "delivery": "Free",
+          "emi": "\u20b95,003/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=OnePlus+OnePlus+11"
+        },
+        {
+          "name": "Croma",
+          "price": 57310,
+          "delivery": "\u20b999",
+          "emi": "\u20b94,775/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=OnePlus+OnePlus+11"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 57165,
+          "delivery": "Free",
+          "emi": "\u20b94,763/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=OnePlus+OnePlus+11"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 58062,
+          "delivery": "\u20b9150",
+          "emi": "\u20b94,838/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=OnePlus+OnePlus+11"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "brand": "OnePlus",
+      "name": "OnePlus 11R",
+      "category": "smartphones",
+      "price": 39999,
+      "originalPrice": 44999,
+      "image": "https://images.unsplash.com/photo-1511707172024?w=400",
+      "specs": "6.74\" AMOLED, Snapdragon 8+ Gen 1, 50MP Triple Camera",
+      "storage": "128GB",
+      "rating": 4.6,
+      "reviews": 661,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 39999,
+          "delivery": "Free",
+          "emi": "\u20b93,333/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=OnePlus+OnePlus+11R"
+        },
+        {
+          "name": "Amazon",
+          "price": 42313,
+          "delivery": "Free",
+          "emi": "\u20b93,526/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=OnePlus+OnePlus+11R"
+        },
+        {
+          "name": "Croma",
+          "price": 40117,
+          "delivery": "\u20b999",
+          "emi": "\u20b93,343/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=OnePlus+OnePlus+11R"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 40144,
+          "delivery": "Free",
+          "emi": "\u20b93,345/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=OnePlus+OnePlus+11R"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 41642,
+          "delivery": "\u20b9150",
+          "emi": "\u20b93,470/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=OnePlus+OnePlus+11R"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "brand": "OnePlus",
+      "name": "Nord 4",
+      "category": "smartphones",
+      "price": 29999,
+      "originalPrice": 34999,
+      "image": "https://images.unsplash.com/photo-1511707172037?w=400",
+      "specs": "6.74\" AMOLED, Snapdragon 7+ Gen 3, 50MP Dual Camera",
+      "storage": "128GB",
+      "rating": 4.3,
+      "reviews": 4759,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 29999,
+          "delivery": "Free",
+          "emi": "\u20b92,499/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=OnePlus+Nord+4"
+        },
+        {
+          "name": "Amazon",
+          "price": 30873,
+          "delivery": "Free",
+          "emi": "\u20b92,572/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=OnePlus+Nord+4"
+        },
+        {
+          "name": "Croma",
+          "price": 29745,
+          "delivery": "\u20b999",
+          "emi": "\u20b92,478/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=OnePlus+Nord+4"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 29460,
+          "delivery": "Free",
+          "emi": "\u20b92,455/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=OnePlus+Nord+4"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 31412,
+          "delivery": "\u20b9150",
+          "emi": "\u20b92,617/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=OnePlus+Nord+4"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "brand": "OnePlus",
+      "name": "Nord CE 4",
+      "category": "smartphones",
+      "price": 24999,
+      "originalPrice": 28999,
+      "image": "https://images.unsplash.com/photo-1511707172050?w=400",
+      "specs": "6.7\" AMOLED, Snapdragon 7 Gen 3, 50MP Dual Camera",
+      "storage": "128GB",
+      "rating": 4.2,
+      "reviews": 5442,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 24999,
+          "delivery": "Free",
+          "emi": "\u20b92,083/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=OnePlus+Nord+CE+4"
+        },
+        {
+          "name": "Amazon",
+          "price": 25819,
+          "delivery": "Free",
+          "emi": "\u20b92,151/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=OnePlus+Nord+CE+4"
+        },
+        {
+          "name": "Croma",
+          "price": 25212,
+          "delivery": "\u20b999",
+          "emi": "\u20b92,101/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=OnePlus+Nord+CE+4"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 24998,
+          "delivery": "Free",
+          "emi": "\u20b92,083/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=OnePlus+Nord+CE+4"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 25566,
+          "delivery": "\u20b9150",
+          "emi": "\u20b92,130/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=OnePlus+Nord+CE+4"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "brand": "OnePlus",
+      "name": "Nord CE 4 Lite",
+      "category": "smartphones",
+      "price": 19999,
+      "originalPrice": 23999,
+      "image": "https://images.unsplash.com/photo-1511707172063?w=400",
+      "specs": "6.67\" AMOLED, Snapdragon 695, 50MP Dual Camera",
+      "storage": "128GB",
+      "rating": 4.5,
+      "reviews": 2442,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 19999,
+          "delivery": "Free",
+          "emi": "\u20b91,666/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=OnePlus+Nord+CE+4+Lite"
+        },
+        {
+          "name": "Amazon",
+          "price": 21167,
+          "delivery": "Free",
+          "emi": "\u20b91,763/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=OnePlus+Nord+CE+4+Lite"
+        },
+        {
+          "name": "Croma",
+          "price": 19631,
+          "delivery": "\u20b999",
+          "emi": "\u20b91,635/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=OnePlus+Nord+CE+4+Lite"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 20259,
+          "delivery": "Free",
+          "emi": "\u20b91,688/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=OnePlus+Nord+CE+4+Lite"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 20274,
+          "delivery": "\u20b9150",
+          "emi": "\u20b91,689/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=OnePlus+Nord+CE+4+Lite"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "brand": "OnePlus",
+      "name": "OnePlus Open",
+      "category": "smartphones",
+      "price": 139999,
+      "originalPrice": 149999,
+      "image": "https://images.unsplash.com/photo-1511707172076?w=400",
+      "specs": "7.82\" Foldable LTPO AMOLED, Snapdragon 8 Gen 2, 48MP Hasselblad Triple Camera",
+      "storage": "512GB",
+      "rating": 4.2,
+      "reviews": 6562,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 139999,
+          "delivery": "Free",
+          "emi": "\u20b911,666/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=OnePlus+OnePlus+Open"
+        },
+        {
+          "name": "Amazon",
+          "price": 144345,
+          "delivery": "Free",
+          "emi": "\u20b912,028/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=OnePlus+OnePlus+Open"
+        },
+        {
+          "name": "Croma",
+          "price": 143564,
+          "delivery": "\u20b999",
+          "emi": "\u20b911,963/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=OnePlus+OnePlus+Open"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 141602,
+          "delivery": "Free",
+          "emi": "\u20b911,800/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=OnePlus+OnePlus+Open"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 143875,
+          "delivery": "\u20b9150",
+          "emi": "\u20b911,989/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=OnePlus+OnePlus+Open"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "brand": "Xiaomi",
+      "name": "Xiaomi 15 Ultra",
+      "category": "smartphones",
+      "price": 94999,
+      "originalPrice": 104999,
+      "image": "https://images.unsplash.com/photo-1511707172089?w=400",
+      "specs": "6.73\" LTPO AMOLED, Snapdragon 8 Elite, 50MP Leica Triple Camera",
+      "storage": "256GB",
+      "rating": 4.1,
+      "reviews": 5697,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 94999,
+          "delivery": "Free",
+          "emi": "\u20b97,916/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Xiaomi+Xiaomi+15+Ultra"
+        },
+        {
+          "name": "Amazon",
+          "price": 98113,
+          "delivery": "Free",
+          "emi": "\u20b98,176/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Xiaomi+Xiaomi+15+Ultra"
+        },
+        {
+          "name": "Croma",
+          "price": 93493,
+          "delivery": "\u20b999",
+          "emi": "\u20b97,791/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Xiaomi+Xiaomi+15+Ultra"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 95845,
+          "delivery": "Free",
+          "emi": "\u20b97,987/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Xiaomi+Xiaomi+15+Ultra"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 98590,
+          "delivery": "\u20b9150",
+          "emi": "\u20b98,215/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Xiaomi+Xiaomi+15+Ultra"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "brand": "Xiaomi",
+      "name": "Xiaomi 15 Pro",
+      "category": "smartphones",
+      "price": 79999,
+      "originalPrice": 89999,
+      "image": "https://images.unsplash.com/photo-1511707172102?w=400",
+      "specs": "6.73\" LTPO AMOLED, Snapdragon 8 Elite, 50MP Leica Triple Camera",
+      "storage": "256GB",
+      "rating": 4.3,
+      "reviews": 2598,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 79999,
+          "delivery": "Free",
+          "emi": "\u20b96,666/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Xiaomi+Xiaomi+15+Pro"
+        },
+        {
+          "name": "Amazon",
+          "price": 82696,
+          "delivery": "Free",
+          "emi": "\u20b96,891/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Xiaomi+Xiaomi+15+Pro"
+        },
+        {
+          "name": "Croma",
+          "price": 82565,
+          "delivery": "\u20b999",
+          "emi": "\u20b96,880/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Xiaomi+Xiaomi+15+Pro"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 77552,
+          "delivery": "Free",
+          "emi": "\u20b96,462/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Xiaomi+Xiaomi+15+Pro"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 82525,
+          "delivery": "\u20b9150",
+          "emi": "\u20b96,877/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Xiaomi+Xiaomi+15+Pro"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "brand": "Xiaomi",
+      "name": "Xiaomi 14 Ultra",
+      "category": "smartphones",
+      "price": 99999,
+      "originalPrice": 109999,
+      "image": "https://images.unsplash.com/photo-1511707172115?w=400",
+      "specs": "6.73\" LTPO AMOLED, Snapdragon 8 Gen 3, 50MP Leica Quad Camera",
+      "storage": "512GB",
+      "rating": 4.7,
+      "reviews": 4701,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 99999,
+          "delivery": "Free",
+          "emi": "\u20b98,333/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Xiaomi+Xiaomi+14+Ultra"
+        },
+        {
+          "name": "Amazon",
+          "price": 103608,
+          "delivery": "Free",
+          "emi": "\u20b98,634/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Xiaomi+Xiaomi+14+Ultra"
+        },
+        {
+          "name": "Croma",
+          "price": 102404,
+          "delivery": "\u20b999",
+          "emi": "\u20b98,533/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Xiaomi+Xiaomi+14+Ultra"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 99037,
+          "delivery": "Free",
+          "emi": "\u20b98,253/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Xiaomi+Xiaomi+14+Ultra"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 104831,
+          "delivery": "\u20b9150",
+          "emi": "\u20b98,735/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Xiaomi+Xiaomi+14+Ultra"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "brand": "Xiaomi",
+      "name": "Xiaomi 14",
+      "category": "smartphones",
+      "price": 54999,
+      "originalPrice": 64999,
+      "image": "https://images.unsplash.com/photo-1511707172128?w=400",
+      "specs": "6.36\" LTPO AMOLED, Snapdragon 8 Gen 3, 50MP Leica Triple Camera",
+      "storage": "256GB",
+      "rating": 4.7,
+      "reviews": 7894,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 54999,
+          "delivery": "Free",
+          "emi": "\u20b94,583/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Xiaomi+Xiaomi+14"
+        },
+        {
+          "name": "Amazon",
+          "price": 57141,
+          "delivery": "Free",
+          "emi": "\u20b94,761/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Xiaomi+Xiaomi+14"
+        },
+        {
+          "name": "Croma",
+          "price": 56784,
+          "delivery": "\u20b999",
+          "emi": "\u20b94,732/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Xiaomi+Xiaomi+14"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 54437,
+          "delivery": "Free",
+          "emi": "\u20b94,536/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Xiaomi+Xiaomi+14"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 56392,
+          "delivery": "\u20b9150",
+          "emi": "\u20b94,699/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Xiaomi+Xiaomi+14"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "brand": "Xiaomi",
+      "name": "Redmi Note 15 Pro+",
+      "category": "smartphones",
+      "price": 31999,
+      "originalPrice": 36999,
+      "image": "https://images.unsplash.com/photo-1511707172141?w=400",
+      "specs": "6.67\" AMOLED, Snapdragon 7s Gen 3, 200MP Triple Camera",
+      "storage": "256GB",
+      "rating": 4.7,
+      "reviews": 7508,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 31999,
+          "delivery": "Free",
+          "emi": "\u20b92,666/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Xiaomi+Redmi+Note+15+Pro+"
+        },
+        {
+          "name": "Amazon",
+          "price": 33186,
+          "delivery": "Free",
+          "emi": "\u20b92,765/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Xiaomi+Redmi+Note+15+Pro+"
+        },
+        {
+          "name": "Croma",
+          "price": 32603,
+          "delivery": "\u20b999",
+          "emi": "\u20b92,716/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Xiaomi+Redmi+Note+15+Pro+"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 31703,
+          "delivery": "Free",
+          "emi": "\u20b92,641/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Xiaomi+Redmi+Note+15+Pro+"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 32329,
+          "delivery": "\u20b9150",
+          "emi": "\u20b92,694/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Xiaomi+Redmi+Note+15+Pro+"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "brand": "Xiaomi",
+      "name": "Redmi Note 15 Pro",
+      "category": "smartphones",
+      "price": 26999,
+      "originalPrice": 30999,
+      "image": "https://images.unsplash.com/photo-1511707172154?w=400",
+      "specs": "6.67\" AMOLED, Snapdragon 7s Gen 3, 200MP Triple Camera",
+      "storage": "128GB",
+      "rating": 4.2,
+      "reviews": 4616,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 26999,
+          "delivery": "Free",
+          "emi": "\u20b92,249/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Xiaomi+Redmi+Note+15+Pro"
+        },
+        {
+          "name": "Amazon",
+          "price": 28545,
+          "delivery": "Free",
+          "emi": "\u20b92,378/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Xiaomi+Redmi+Note+15+Pro"
+        },
+        {
+          "name": "Croma",
+          "price": 26598,
+          "delivery": "\u20b999",
+          "emi": "\u20b92,216/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Xiaomi+Redmi+Note+15+Pro"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 26729,
+          "delivery": "Free",
+          "emi": "\u20b92,227/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Xiaomi+Redmi+Note+15+Pro"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 28054,
+          "delivery": "\u20b9150",
+          "emi": "\u20b92,337/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Xiaomi+Redmi+Note+15+Pro"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "brand": "Xiaomi",
+      "name": "Redmi Note 15",
+      "category": "smartphones",
+      "price": 18999,
+      "originalPrice": 22999,
+      "image": "https://images.unsplash.com/photo-1511707172167?w=400",
+      "specs": "6.67\" AMOLED, Snapdragon 685, 108MP Triple Camera",
+      "storage": "128GB",
+      "rating": 4.3,
+      "reviews": 4622,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 18999,
+          "delivery": "Free",
+          "emi": "\u20b91,583/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Xiaomi+Redmi+Note+15"
+        },
+        {
+          "name": "Amazon",
+          "price": 19748,
+          "delivery": "Free",
+          "emi": "\u20b91,645/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Xiaomi+Redmi+Note+15"
+        },
+        {
+          "name": "Croma",
+          "price": 19367,
+          "delivery": "\u20b999",
+          "emi": "\u20b91,613/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Xiaomi+Redmi+Note+15"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 19340,
+          "delivery": "Free",
+          "emi": "\u20b91,611/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Xiaomi+Redmi+Note+15"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 19313,
+          "delivery": "\u20b9150",
+          "emi": "\u20b91,609/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Xiaomi+Redmi+Note+15"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "brand": "Xiaomi",
+      "name": "POCO F6",
+      "category": "smartphones",
+      "price": 29999,
+      "originalPrice": 34999,
+      "image": "https://images.unsplash.com/photo-1511707172180?w=400",
+      "specs": "6.67\" AMOLED, Snapdragon 8s Gen 3, 50MP Triple Camera",
+      "storage": "256GB",
+      "rating": 4.7,
+      "reviews": 7511,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 29999,
+          "delivery": "Free",
+          "emi": "\u20b92,499/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Xiaomi+POCO+F6"
+        },
+        {
+          "name": "Amazon",
+          "price": 31107,
+          "delivery": "Free",
+          "emi": "\u20b92,592/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Xiaomi+POCO+F6"
+        },
+        {
+          "name": "Croma",
+          "price": 30202,
+          "delivery": "\u20b999",
+          "emi": "\u20b92,516/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Xiaomi+POCO+F6"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 29749,
+          "delivery": "Free",
+          "emi": "\u20b92,479/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Xiaomi+POCO+F6"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 30789,
+          "delivery": "\u20b9150",
+          "emi": "\u20b92,565/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Xiaomi+POCO+F6"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "brand": "Xiaomi",
+      "name": "POCO X6 Pro",
+      "category": "smartphones",
+      "price": 26999,
+      "originalPrice": 30999,
+      "image": "https://images.unsplash.com/photo-1511707172193?w=400",
+      "specs": "6.67\" AMOLED, Dimensity 8300 Ultra, 64MP Triple Camera",
+      "storage": "256GB",
+      "rating": 4.7,
+      "reviews": 7224,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 26999,
+          "delivery": "Free",
+          "emi": "\u20b92,249/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Xiaomi+POCO+X6+Pro"
+        },
+        {
+          "name": "Amazon",
+          "price": 27912,
+          "delivery": "Free",
+          "emi": "\u20b92,326/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Xiaomi+POCO+X6+Pro"
+        },
+        {
+          "name": "Croma",
+          "price": 27652,
+          "delivery": "\u20b999",
+          "emi": "\u20b92,304/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Xiaomi+POCO+X6+Pro"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 26430,
+          "delivery": "Free",
+          "emi": "\u20b92,202/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Xiaomi+POCO+X6+Pro"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 27621,
+          "delivery": "\u20b9150",
+          "emi": "\u20b92,301/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Xiaomi+POCO+X6+Pro"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "brand": "Xiaomi",
+      "name": "POCO M6 Pro",
+      "category": "smartphones",
+      "price": 14999,
+      "originalPrice": 17999,
+      "image": "https://images.unsplash.com/photo-1511707172206?w=400",
+      "specs": "6.67\" AMOLED, Helio G99 Ultra, 50MP Dual Camera",
+      "storage": "128GB",
+      "rating": 4.4,
+      "reviews": 3440,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 14999,
+          "delivery": "Free",
+          "emi": "\u20b91,249/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Xiaomi+POCO+M6+Pro"
+        },
+        {
+          "name": "Amazon",
+          "price": 15321,
+          "delivery": "Free",
+          "emi": "\u20b91,276/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Xiaomi+POCO+M6+Pro"
+        },
+        {
+          "name": "Croma",
+          "price": 15104,
+          "delivery": "\u20b999",
+          "emi": "\u20b91,258/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Xiaomi+POCO+M6+Pro"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 15178,
+          "delivery": "Free",
+          "emi": "\u20b91,264/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Xiaomi+POCO+M6+Pro"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 15569,
+          "delivery": "\u20b9150",
+          "emi": "\u20b91,297/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Xiaomi+POCO+M6+Pro"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "brand": "Xiaomi",
+      "name": "Redmi 13C",
+      "category": "smartphones",
+      "price": 10999,
+      "originalPrice": 12999,
+      "image": "https://images.unsplash.com/photo-1511707172219?w=400",
+      "specs": "6.74\" IPS LCD, Helio G85, 50MP Dual Camera",
+      "storage": "128GB",
+      "rating": 4.4,
+      "reviews": 4222,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 10999,
+          "delivery": "Free",
+          "emi": "\u20b9916/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Xiaomi+Redmi+13C"
+        },
+        {
+          "name": "Amazon",
+          "price": 11525,
+          "delivery": "Free",
+          "emi": "\u20b9960/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Xiaomi+Redmi+13C"
+        },
+        {
+          "name": "Croma",
+          "price": 11293,
+          "delivery": "\u20b999",
+          "emi": "\u20b9941/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Xiaomi+Redmi+13C"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 10630,
+          "delivery": "Free",
+          "emi": "\u20b9885/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Xiaomi+Redmi+13C"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 11178,
+          "delivery": "\u20b9150",
+          "emi": "\u20b9931/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Xiaomi+Redmi+13C"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "brand": "Google",
+      "name": "Pixel 9 Pro XL",
+      "category": "smartphones",
+      "price": 109999,
+      "originalPrice": 119999,
+      "image": "https://images.unsplash.com/photo-1511707172232?w=400",
+      "specs": "6.8\" LTPO OLED, Google Tensor G4, 50MP Pro Triple Camera",
+      "storage": "128GB",
+      "rating": 4.2,
+      "reviews": 4211,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 109999,
+          "delivery": "Free",
+          "emi": "\u20b99,166/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Google+Pixel+9+Pro+XL"
+        },
+        {
+          "name": "Amazon",
+          "price": 113585,
+          "delivery": "Free",
+          "emi": "\u20b99,465/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Google+Pixel+9+Pro+XL"
+        },
+        {
+          "name": "Croma",
+          "price": 112930,
+          "delivery": "\u20b999",
+          "emi": "\u20b99,410/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Google+Pixel+9+Pro+XL"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 107450,
+          "delivery": "Free",
+          "emi": "\u20b98,954/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Google+Pixel+9+Pro+XL"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 112969,
+          "delivery": "\u20b9150",
+          "emi": "\u20b99,414/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Google+Pixel+9+Pro+XL"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "brand": "Google",
+      "name": "Pixel 9 Pro",
+      "category": "smartphones",
+      "price": 99999,
+      "originalPrice": 109999,
+      "image": "https://images.unsplash.com/photo-1511707172245?w=400",
+      "specs": "6.3\" LTPO OLED, Google Tensor G4, 50MP Pro Triple Camera",
+      "storage": "128GB",
+      "rating": 4.4,
+      "reviews": 821,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 99999,
+          "delivery": "Free",
+          "emi": "\u20b98,333/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Google+Pixel+9+Pro"
+        },
+        {
+          "name": "Amazon",
+          "price": 104350,
+          "delivery": "Free",
+          "emi": "\u20b98,695/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Google+Pixel+9+Pro"
+        },
+        {
+          "name": "Croma",
+          "price": 102805,
+          "delivery": "\u20b999",
+          "emi": "\u20b98,567/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Google+Pixel+9+Pro"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 100798,
+          "delivery": "Free",
+          "emi": "\u20b98,399/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Google+Pixel+9+Pro"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 104282,
+          "delivery": "\u20b9150",
+          "emi": "\u20b98,690/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Google+Pixel+9+Pro"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "brand": "Google",
+      "name": "Pixel 9",
+      "category": "smartphones",
+      "price": 79999,
+      "originalPrice": 89999,
+      "image": "https://images.unsplash.com/photo-1511707172258?w=400",
+      "specs": "6.3\" OLED, Google Tensor G4, 50MP Dual Camera",
+      "storage": "128GB",
+      "rating": 4.1,
+      "reviews": 3116,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 79999,
+          "delivery": "Free",
+          "emi": "\u20b96,666/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Google+Pixel+9"
+        },
+        {
+          "name": "Amazon",
+          "price": 84202,
+          "delivery": "Free",
+          "emi": "\u20b97,016/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Google+Pixel+9"
+        },
+        {
+          "name": "Croma",
+          "price": 82602,
+          "delivery": "\u20b999",
+          "emi": "\u20b96,883/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Google+Pixel+9"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 77951,
+          "delivery": "Free",
+          "emi": "\u20b96,495/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Google+Pixel+9"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 82540,
+          "delivery": "\u20b9150",
+          "emi": "\u20b96,878/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Google+Pixel+9"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "brand": "Google",
+      "name": "Pixel 8 Pro",
+      "category": "smartphones",
+      "price": 106999,
+      "originalPrice": 116999,
+      "image": "https://images.unsplash.com/photo-1511707172271?w=400",
+      "specs": "6.7\" LTPO OLED, Google Tensor G3, 50MP Pro Triple Camera",
+      "storage": "128GB",
+      "rating": 4.3,
+      "reviews": 7456,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 106999,
+          "delivery": "Free",
+          "emi": "\u20b98,916/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Google+Pixel+8+Pro"
+        },
+        {
+          "name": "Amazon",
+          "price": 109237,
+          "delivery": "Free",
+          "emi": "\u20b99,103/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Google+Pixel+8+Pro"
+        },
+        {
+          "name": "Croma",
+          "price": 105887,
+          "delivery": "\u20b999",
+          "emi": "\u20b98,823/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Google+Pixel+8+Pro"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 104015,
+          "delivery": "Free",
+          "emi": "\u20b98,667/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Google+Pixel+8+Pro"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 108859,
+          "delivery": "\u20b9150",
+          "emi": "\u20b99,071/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Google+Pixel+8+Pro"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "brand": "Google",
+      "name": "Pixel 8",
+      "category": "smartphones",
+      "price": 75999,
+      "originalPrice": 85999,
+      "image": "https://images.unsplash.com/photo-1511707172284?w=400",
+      "specs": "6.2\" OLED, Google Tensor G3, 50MP Dual Camera",
+      "storage": "128GB",
+      "rating": 4.1,
+      "reviews": 3553,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 75999,
+          "delivery": "Free",
+          "emi": "\u20b96,333/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Google+Pixel+8"
+        },
+        {
+          "name": "Amazon",
+          "price": 79305,
+          "delivery": "Free",
+          "emi": "\u20b96,608/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Google+Pixel+8"
+        },
+        {
+          "name": "Croma",
+          "price": 78158,
+          "delivery": "\u20b999",
+          "emi": "\u20b96,513/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Google+Pixel+8"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 74813,
+          "delivery": "Free",
+          "emi": "\u20b96,234/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Google+Pixel+8"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 79438,
+          "delivery": "\u20b9150",
+          "emi": "\u20b96,619/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Google+Pixel+8"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "brand": "Google",
+      "name": "Pixel 8a",
+      "category": "smartphones",
+      "price": 52999,
+      "originalPrice": 57999,
+      "image": "https://images.unsplash.com/photo-1511707172297?w=400",
+      "specs": "6.1\" OLED, Google Tensor G3, 64MP Dual Camera",
+      "storage": "128GB",
+      "rating": 4.7,
+      "reviews": 6123,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 52999,
+          "delivery": "Free",
+          "emi": "\u20b94,416/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Google+Pixel+8a"
+        },
+        {
+          "name": "Amazon",
+          "price": 55532,
+          "delivery": "Free",
+          "emi": "\u20b94,627/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Google+Pixel+8a"
+        },
+        {
+          "name": "Croma",
+          "price": 54935,
+          "delivery": "\u20b999",
+          "emi": "\u20b94,577/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Google+Pixel+8a"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 52165,
+          "delivery": "Free",
+          "emi": "\u20b94,347/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Google+Pixel+8a"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 55500,
+          "delivery": "\u20b9150",
+          "emi": "\u20b94,625/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Google+Pixel+8a"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "brand": "Google",
+      "name": "Pixel 7a",
+      "category": "smartphones",
+      "price": 43999,
+      "originalPrice": 48999,
+      "image": "https://images.unsplash.com/photo-1511707172310?w=400",
+      "specs": "6.1\" OLED, Google Tensor G2, 64MP Dual Camera",
+      "storage": "128GB",
+      "rating": 4.7,
+      "reviews": 7423,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 43999,
+          "delivery": "Free",
+          "emi": "\u20b93,666/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Google+Pixel+7a"
+        },
+        {
+          "name": "Amazon",
+          "price": 45853,
+          "delivery": "Free",
+          "emi": "\u20b93,821/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Google+Pixel+7a"
+        },
+        {
+          "name": "Croma",
+          "price": 45175,
+          "delivery": "\u20b999",
+          "emi": "\u20b93,764/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Google+Pixel+7a"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 42486,
+          "delivery": "Free",
+          "emi": "\u20b93,540/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Google+Pixel+7a"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 45655,
+          "delivery": "\u20b9150",
+          "emi": "\u20b93,804/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Google+Pixel+7a"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "brand": "Google",
+      "name": "Pixel Fold",
+      "category": "smartphones",
+      "price": 175999,
+      "originalPrice": 185999,
+      "image": "https://images.unsplash.com/photo-1511707172323?w=400",
+      "specs": "7.6\" Foldable OLED, Google Tensor G2, 48MP Triple Camera",
+      "storage": "256GB",
+      "rating": 4.2,
+      "reviews": 3341,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 175999,
+          "delivery": "Free",
+          "emi": "\u20b914,666/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Google+Pixel+Fold"
+        },
+        {
+          "name": "Amazon",
+          "price": 186165,
+          "delivery": "Free",
+          "emi": "\u20b915,513/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Google+Pixel+Fold"
+        },
+        {
+          "name": "Croma",
+          "price": 182467,
+          "delivery": "\u20b999",
+          "emi": "\u20b915,205/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Google+Pixel+Fold"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 172354,
+          "delivery": "Free",
+          "emi": "\u20b914,362/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Google+Pixel+Fold"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 179313,
+          "delivery": "\u20b9150",
+          "emi": "\u20b914,942/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Google+Pixel+Fold"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "brand": "Vivo",
+      "name": "Vivo X100 Pro",
+      "category": "smartphones",
+      "price": 74999,
+      "originalPrice": 84999,
+      "image": "https://images.unsplash.com/photo-1511707172336?w=400",
+      "specs": "6.78\" LTPO AMOLED, Dimensity 9300, 50MP Zeiss Triple Camera",
+      "storage": "256GB",
+      "rating": 4.3,
+      "reviews": 5465,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 74999,
+          "delivery": "Free",
+          "emi": "\u20b96,249/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Vivo+Vivo+X100+Pro"
+        },
+        {
+          "name": "Amazon",
+          "price": 79278,
+          "delivery": "Free",
+          "emi": "\u20b96,606/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Vivo+Vivo+X100+Pro"
+        },
+        {
+          "name": "Croma",
+          "price": 76953,
+          "delivery": "\u20b999",
+          "emi": "\u20b96,412/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Vivo+Vivo+X100+Pro"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 75444,
+          "delivery": "Free",
+          "emi": "\u20b96,287/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Vivo+Vivo+X100+Pro"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 78519,
+          "delivery": "\u20b9150",
+          "emi": "\u20b96,543/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Vivo+Vivo+X100+Pro"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "brand": "Vivo",
+      "name": "Vivo V30 Pro",
+      "category": "smartphones",
+      "price": 41999,
+      "originalPrice": 46999,
+      "image": "https://images.unsplash.com/photo-1511707172349?w=400",
+      "specs": "6.78\" AMOLED, Dimensity 8200, 50MP Zeiss Triple Camera",
+      "storage": "256GB",
+      "rating": 4.1,
+      "reviews": 7496,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 41999,
+          "delivery": "Free",
+          "emi": "\u20b93,499/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Vivo+Vivo+V30+Pro"
+        },
+        {
+          "name": "Amazon",
+          "price": 43768,
+          "delivery": "Free",
+          "emi": "\u20b93,647/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Vivo+Vivo+V30+Pro"
+        },
+        {
+          "name": "Croma",
+          "price": 42180,
+          "delivery": "\u20b999",
+          "emi": "\u20b93,515/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Vivo+Vivo+V30+Pro"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 41254,
+          "delivery": "Free",
+          "emi": "\u20b93,437/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Vivo+Vivo+V30+Pro"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 44009,
+          "delivery": "\u20b9150",
+          "emi": "\u20b93,667/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Vivo+Vivo+V30+Pro"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "brand": "Vivo",
+      "name": "Vivo T3 5G",
+      "category": "smartphones",
+      "price": 19999,
+      "originalPrice": 23999,
+      "image": "https://images.unsplash.com/photo-1511707172362?w=400",
+      "specs": "6.67\" AMOLED, Dimensity 7200, 50MP Dual Camera",
+      "storage": "128GB",
+      "rating": 4.4,
+      "reviews": 3452,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 19999,
+          "delivery": "Free",
+          "emi": "\u20b91,666/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Vivo+Vivo+T3+5G"
+        },
+        {
+          "name": "Amazon",
+          "price": 20961,
+          "delivery": "Free",
+          "emi": "\u20b91,746/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Vivo+Vivo+T3+5G"
+        },
+        {
+          "name": "Croma",
+          "price": 20463,
+          "delivery": "\u20b999",
+          "emi": "\u20b91,705/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Vivo+Vivo+T3+5G"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 19427,
+          "delivery": "Free",
+          "emi": "\u20b91,618/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Vivo+Vivo+T3+5G"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 20403,
+          "delivery": "\u20b9150",
+          "emi": "\u20b91,700/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Vivo+Vivo+T3+5G"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "brand": "iQOO",
+      "name": "iQOO 13",
+      "category": "smartphones",
+      "price": 52999,
+      "originalPrice": 57999,
+      "image": "https://images.unsplash.com/photo-1511707172375?w=400",
+      "specs": "6.78\" LTPO AMOLED, Snapdragon 8 Elite, 50MP Triple Camera",
+      "storage": "256GB",
+      "rating": 4.5,
+      "reviews": 5152,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 52999,
+          "delivery": "Free",
+          "emi": "\u20b94,416/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=iQOO+iQOO+13"
+        },
+        {
+          "name": "Amazon",
+          "price": 55797,
+          "delivery": "Free",
+          "emi": "\u20b94,649/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=iQOO+iQOO+13"
+        },
+        {
+          "name": "Croma",
+          "price": 52457,
+          "delivery": "\u20b999",
+          "emi": "\u20b94,371/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=iQOO+iQOO+13"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 53112,
+          "delivery": "Free",
+          "emi": "\u20b94,426/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=iQOO+iQOO+13"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 55361,
+          "delivery": "\u20b9150",
+          "emi": "\u20b94,613/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=iQOO+iQOO+13"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "brand": "iQOO",
+      "name": "iQOO Neo 9 Pro",
+      "category": "smartphones",
+      "price": 35999,
+      "originalPrice": 40999,
+      "image": "https://images.unsplash.com/photo-1511707172388?w=400",
+      "specs": "6.78\" LTPO AMOLED, Snapdragon 8 Gen 2, 50MP Dual Camera",
+      "storage": "256GB",
+      "rating": 4.1,
+      "reviews": 954,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 35999,
+          "delivery": "Free",
+          "emi": "\u20b92,999/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=iQOO+iQOO+Neo+9+Pro"
+        },
+        {
+          "name": "Amazon",
+          "price": 37165,
+          "delivery": "Free",
+          "emi": "\u20b93,097/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=iQOO+iQOO+Neo+9+Pro"
+        },
+        {
+          "name": "Croma",
+          "price": 35626,
+          "delivery": "\u20b999",
+          "emi": "\u20b92,968/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=iQOO+iQOO+Neo+9+Pro"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 35271,
+          "delivery": "Free",
+          "emi": "\u20b92,939/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=iQOO+iQOO+Neo+9+Pro"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 37537,
+          "delivery": "\u20b9150",
+          "emi": "\u20b93,128/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=iQOO+iQOO+Neo+9+Pro"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "brand": "iQOO",
+      "name": "iQOO Z9 Pro",
+      "category": "smartphones",
+      "price": 23999,
+      "originalPrice": 27999,
+      "image": "https://images.unsplash.com/photo-1511707172401?w=400",
+      "specs": "6.78\" AMOLED, Snapdragon 7 Gen 3, 50MP Dual Camera",
+      "storage": "128GB",
+      "rating": 4.5,
+      "reviews": 7540,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 23999,
+          "delivery": "Free",
+          "emi": "\u20b91,999/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=iQOO+iQOO+Z9+Pro"
+        },
+        {
+          "name": "Amazon",
+          "price": 25395,
+          "delivery": "Free",
+          "emi": "\u20b92,116/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=iQOO+iQOO+Z9+Pro"
+        },
+        {
+          "name": "Croma",
+          "price": 24835,
+          "delivery": "\u20b999",
+          "emi": "\u20b92,069/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=iQOO+iQOO+Z9+Pro"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 23410,
+          "delivery": "Free",
+          "emi": "\u20b91,950/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=iQOO+iQOO+Z9+Pro"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 25095,
+          "delivery": "\u20b9150",
+          "emi": "\u20b92,091/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=iQOO+iQOO+Z9+Pro"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "brand": "Realme",
+      "name": "Realme GT 6",
+      "category": "smartphones",
+      "price": 40999,
+      "originalPrice": 45999,
+      "image": "https://images.unsplash.com/photo-1511707172414?w=400",
+      "specs": "6.78\" LTPO AMOLED, Snapdragon 8s Gen 3, 50MP OIS Triple Camera",
+      "storage": "256GB",
+      "rating": 4.3,
+      "reviews": 4204,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 40999,
+          "delivery": "Free",
+          "emi": "\u20b93,416/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Realme+Realme+GT+6"
+        },
+        {
+          "name": "Amazon",
+          "price": 43038,
+          "delivery": "Free",
+          "emi": "\u20b93,586/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Realme+Realme+GT+6"
+        },
+        {
+          "name": "Croma",
+          "price": 41679,
+          "delivery": "\u20b999",
+          "emi": "\u20b93,473/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Realme+Realme+GT+6"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 40004,
+          "delivery": "Free",
+          "emi": "\u20b93,333/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Realme+Realme+GT+6"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 41477,
+          "delivery": "\u20b9150",
+          "emi": "\u20b93,456/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Realme+Realme+GT+6"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "brand": "Realme",
+      "name": "Realme 13 Pro+",
+      "category": "smartphones",
+      "price": 29999,
+      "originalPrice": 34999,
+      "image": "https://images.unsplash.com/photo-1511707172427?w=400",
+      "specs": "6.7\" AMOLED, Snapdragon 7s Gen 2, 50MP OIS Triple Camera",
+      "storage": "256GB",
+      "rating": 4.4,
+      "reviews": 4021,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 29999,
+          "delivery": "Free",
+          "emi": "\u20b92,499/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Realme+Realme+13+Pro+"
+        },
+        {
+          "name": "Amazon",
+          "price": 31142,
+          "delivery": "Free",
+          "emi": "\u20b92,595/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Realme+Realme+13+Pro+"
+        },
+        {
+          "name": "Croma",
+          "price": 30986,
+          "delivery": "\u20b999",
+          "emi": "\u20b92,582/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Realme+Realme+13+Pro+"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 29522,
+          "delivery": "Free",
+          "emi": "\u20b92,460/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Realme+Realme+13+Pro+"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 31394,
+          "delivery": "\u20b9150",
+          "emi": "\u20b92,616/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Realme+Realme+13+Pro+"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "brand": "Realme",
+      "name": "Realme 13 Pro",
+      "category": "smartphones",
+      "price": 25999,
+      "originalPrice": 29999,
+      "image": "https://images.unsplash.com/photo-1511707172440?w=400",
+      "specs": "6.7\" AMOLED, Snapdragon 7s Gen 2, 50MP OIS Triple Camera",
+      "storage": "128GB",
+      "rating": 4.6,
+      "reviews": 3635,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 25999,
+          "delivery": "Free",
+          "emi": "\u20b92,166/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Realme+Realme+13+Pro"
+        },
+        {
+          "name": "Amazon",
+          "price": 27094,
+          "delivery": "Free",
+          "emi": "\u20b92,257/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Realme+Realme+13+Pro"
+        },
+        {
+          "name": "Croma",
+          "price": 26758,
+          "delivery": "\u20b999",
+          "emi": "\u20b92,229/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Realme+Realme+13+Pro"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 25874,
+          "delivery": "Free",
+          "emi": "\u20b92,156/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Realme+Realme+13+Pro"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 26376,
+          "delivery": "\u20b9150",
+          "emi": "\u20b92,198/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Realme+Realme+13+Pro"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "brand": "Realme",
+      "name": "Realme P2 Pro",
+      "category": "smartphones",
+      "price": 21999,
+      "originalPrice": 25999,
+      "image": "https://images.unsplash.com/photo-1511707172453?w=400",
+      "specs": "6.7\" AMOLED, Snapdragon 7s Gen 2, 50MP OIS Triple Camera",
+      "storage": "256GB",
+      "rating": 4.1,
+      "reviews": 3958,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 21999,
+          "delivery": "Free",
+          "emi": "\u20b91,833/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Realme+Realme+P2+Pro"
+        },
+        {
+          "name": "Amazon",
+          "price": 22591,
+          "delivery": "Free",
+          "emi": "\u20b91,882/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Realme+Realme+P2+Pro"
+        },
+        {
+          "name": "Croma",
+          "price": 22533,
+          "delivery": "\u20b999",
+          "emi": "\u20b91,877/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Realme+Realme+P2+Pro"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 21686,
+          "delivery": "Free",
+          "emi": "\u20b91,807/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Realme+Realme+P2+Pro"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 22937,
+          "delivery": "\u20b9150",
+          "emi": "\u20b91,911/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Realme+Realme+P2+Pro"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "brand": "Realme",
+      "name": "Realme Narzo 70 Pro",
+      "category": "smartphones",
+      "price": 16999,
+      "originalPrice": 19999,
+      "image": "https://images.unsplash.com/photo-1511707172466?w=400",
+      "specs": "6.72\" IPS LCD, Dimensity 6300, 50MP Dual Camera",
+      "storage": "128GB",
+      "rating": 4.7,
+      "reviews": 5172,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 16999,
+          "delivery": "Free",
+          "emi": "\u20b91,416/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Realme+Realme+Narzo+70+Pro"
+        },
+        {
+          "name": "Amazon",
+          "price": 17961,
+          "delivery": "Free",
+          "emi": "\u20b91,496/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Realme+Realme+Narzo+70+Pro"
+        },
+        {
+          "name": "Croma",
+          "price": 17300,
+          "delivery": "\u20b999",
+          "emi": "\u20b91,441/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Realme+Realme+Narzo+70+Pro"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 17044,
+          "delivery": "Free",
+          "emi": "\u20b91,420/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Realme+Realme+Narzo+70+Pro"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 17375,
+          "delivery": "\u20b9150",
+          "emi": "\u20b91,447/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Realme+Realme+Narzo+70+Pro"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "brand": "Realme",
+      "name": "Realme C67",
+      "category": "smartphones",
+      "price": 9999,
+      "originalPrice": 12999,
+      "image": "https://images.unsplash.com/photo-1511707172479?w=400",
+      "specs": "6.72\" IPS LCD, Helio G81 Ultra, 50MP Dual Camera",
+      "storage": "128GB",
+      "rating": 4.6,
+      "reviews": 3401,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 9999,
+          "delivery": "Free",
+          "emi": "\u20b9833/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Realme+Realme+C67"
+        },
+        {
+          "name": "Amazon",
+          "price": 10515,
+          "delivery": "Free",
+          "emi": "\u20b9876/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Realme+Realme+C67"
+        },
+        {
+          "name": "Croma",
+          "price": 9956,
+          "delivery": "\u20b999",
+          "emi": "\u20b9829/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Realme+Realme+C67"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 9599,
+          "delivery": "Free",
+          "emi": "\u20b9799/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Realme+Realme+C67"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 10343,
+          "delivery": "\u20b9150",
+          "emi": "\u20b9861/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Realme+Realme+C67"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "brand": "OPPO",
+      "name": "OPPO Find X8 Pro",
+      "category": "smartphones",
+      "price": 79999,
+      "originalPrice": 89999,
+      "image": "https://images.unsplash.com/photo-1511707172492?w=400",
+      "specs": "6.78\" LTPO AMOLED, Snapdragon 8 Elite, 50MP Hasselblad Triple Camera",
+      "storage": "256GB",
+      "rating": 4.0,
+      "reviews": 5721,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 79999,
+          "delivery": "Free",
+          "emi": "\u20b96,666/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=OPPO+OPPO+Find+X8+Pro"
+        },
+        {
+          "name": "Amazon",
+          "price": 83490,
+          "delivery": "Free",
+          "emi": "\u20b96,957/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=OPPO+OPPO+Find+X8+Pro"
+        },
+        {
+          "name": "Croma",
+          "price": 79578,
+          "delivery": "\u20b999",
+          "emi": "\u20b96,631/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=OPPO+OPPO+Find+X8+Pro"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 79005,
+          "delivery": "Free",
+          "emi": "\u20b96,583/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=OPPO+OPPO+Find+X8+Pro"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 81219,
+          "delivery": "\u20b9150",
+          "emi": "\u20b96,768/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=OPPO+OPPO+Find+X8+Pro"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "brand": "OPPO",
+      "name": "OPPO Reno 12 Pro",
+      "category": "smartphones",
+      "price": 39999,
+      "originalPrice": 44999,
+      "image": "https://images.unsplash.com/photo-1511707172505?w=400",
+      "specs": "6.7\" AMOLED, Snapdragon 7 Gen 3, 50MP Triple Camera",
+      "storage": "256GB",
+      "rating": 4.3,
+      "reviews": 3961,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 39999,
+          "delivery": "Free",
+          "emi": "\u20b93,333/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=OPPO+OPPO+Reno+12+Pro"
+        },
+        {
+          "name": "Amazon",
+          "price": 41041,
+          "delivery": "Free",
+          "emi": "\u20b93,420/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=OPPO+OPPO+Reno+12+Pro"
+        },
+        {
+          "name": "Croma",
+          "price": 41050,
+          "delivery": "\u20b999",
+          "emi": "\u20b93,420/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=OPPO+OPPO+Reno+12+Pro"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 40664,
+          "delivery": "Free",
+          "emi": "\u20b93,388/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=OPPO+OPPO+Reno+12+Pro"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 41750,
+          "delivery": "\u20b9150",
+          "emi": "\u20b93,479/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=OPPO+OPPO+Reno+12+Pro"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "brand": "OPPO",
+      "name": "OPPO A80 5G",
+      "category": "smartphones",
+      "price": 21999,
+      "originalPrice": 25999,
+      "image": "https://images.unsplash.com/photo-1511707172518?w=400",
+      "specs": "6.67\" IPS LCD, Snapdragon 6 Gen 1, 50MP Dual Camera",
+      "storage": "128GB",
+      "rating": 4.3,
+      "reviews": 1481,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 21999,
+          "delivery": "Free",
+          "emi": "\u20b91,833/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=OPPO+OPPO+A80+5G"
+        },
+        {
+          "name": "Amazon",
+          "price": 22750,
+          "delivery": "Free",
+          "emi": "\u20b91,895/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=OPPO+OPPO+A80+5G"
+        },
+        {
+          "name": "Croma",
+          "price": 22086,
+          "delivery": "\u20b999",
+          "emi": "\u20b91,840/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=OPPO+OPPO+A80+5G"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 22376,
+          "delivery": "Free",
+          "emi": "\u20b91,864/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=OPPO+OPPO+A80+5G"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 22754,
+          "delivery": "\u20b9150",
+          "emi": "\u20b91,896/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=OPPO+OPPO+A80+5G"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "brand": "OPPO",
+      "name": "OPPO F27 5G",
+      "category": "smartphones",
+      "price": 24999,
+      "originalPrice": 28999,
+      "image": "https://images.unsplash.com/photo-1511707172531?w=400",
+      "specs": "6.67\" AMOLED, Snapdragon 6 Gen 1, 50MP Dual Camera",
+      "storage": "128GB",
+      "rating": 4.2,
+      "reviews": 6140,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 24999,
+          "delivery": "Free",
+          "emi": "\u20b92,083/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=OPPO+OPPO+F27+5G"
+        },
+        {
+          "name": "Amazon",
+          "price": 26101,
+          "delivery": "Free",
+          "emi": "\u20b92,175/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=OPPO+OPPO+F27+5G"
+        },
+        {
+          "name": "Croma",
+          "price": 24717,
+          "delivery": "\u20b999",
+          "emi": "\u20b92,059/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=OPPO+OPPO+F27+5G"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 25292,
+          "delivery": "Free",
+          "emi": "\u20b92,107/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=OPPO+OPPO+F27+5G"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 25887,
+          "delivery": "\u20b9150",
+          "emi": "\u20b92,157/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=OPPO+OPPO+F27+5G"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "brand": "Motorola",
+      "name": "Motorola Edge 50 Pro",
+      "category": "smartphones",
+      "price": 31999,
+      "originalPrice": 36999,
+      "image": "https://images.unsplash.com/photo-1511707172544?w=400",
+      "specs": "6.7\" pOLED, Snapdragon 7 Gen 3, 50MP OIS Triple Camera",
+      "storage": "256GB",
+      "rating": 4.4,
+      "reviews": 4375,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 31999,
+          "delivery": "Free",
+          "emi": "\u20b92,666/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Motorola+Motorola+Edge+50+Pro"
+        },
+        {
+          "name": "Amazon",
+          "price": 33109,
+          "delivery": "Free",
+          "emi": "\u20b92,759/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Motorola+Motorola+Edge+50+Pro"
+        },
+        {
+          "name": "Croma",
+          "price": 32660,
+          "delivery": "\u20b999",
+          "emi": "\u20b92,721/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Motorola+Motorola+Edge+50+Pro"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 32529,
+          "delivery": "Free",
+          "emi": "\u20b92,710/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Motorola+Motorola+Edge+50+Pro"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 33418,
+          "delivery": "\u20b9150",
+          "emi": "\u20b92,784/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Motorola+Motorola+Edge+50+Pro"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "brand": "Motorola",
+      "name": "Moto G85 5G",
+      "category": "smartphones",
+      "price": 17999,
+      "originalPrice": 20999,
+      "image": "https://images.unsplash.com/photo-1511707172557?w=400",
+      "specs": "6.67\" pOLED, Snapdragon 6s Gen 3, 50MP OIS Dual Camera",
+      "storage": "128GB",
+      "rating": 4.2,
+      "reviews": 4041,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 17999,
+          "delivery": "Free",
+          "emi": "\u20b91,499/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Motorola+Moto+G85+5G"
+        },
+        {
+          "name": "Amazon",
+          "price": 18974,
+          "delivery": "Free",
+          "emi": "\u20b91,581/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Motorola+Moto+G85+5G"
+        },
+        {
+          "name": "Croma",
+          "price": 17680,
+          "delivery": "\u20b999",
+          "emi": "\u20b91,473/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Motorola+Moto+G85+5G"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 17970,
+          "delivery": "Free",
+          "emi": "\u20b91,497/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Motorola+Moto+G85+5G"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 18301,
+          "delivery": "\u20b9150",
+          "emi": "\u20b91,525/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Motorola+Moto+G85+5G"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "brand": "Motorola",
+      "name": "Moto G74 5G",
+      "category": "smartphones",
+      "price": 15999,
+      "originalPrice": 18999,
+      "image": "https://images.unsplash.com/photo-1511707172570?w=400",
+      "specs": "6.5\" IPS LCD, Snapdragon 695, 50MP Dual Camera",
+      "storage": "128GB",
+      "rating": 4.3,
+      "reviews": 3424,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 15999,
+          "delivery": "Free",
+          "emi": "\u20b91,333/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Motorola+Moto+G74+5G"
+        },
+        {
+          "name": "Amazon",
+          "price": 16866,
+          "delivery": "Free",
+          "emi": "\u20b91,405/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Motorola+Moto+G74+5G"
+        },
+        {
+          "name": "Croma",
+          "price": 16088,
+          "delivery": "\u20b999",
+          "emi": "\u20b91,340/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Motorola+Moto+G74+5G"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 15670,
+          "delivery": "Free",
+          "emi": "\u20b91,305/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Motorola+Moto+G74+5G"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 16742,
+          "delivery": "\u20b9150",
+          "emi": "\u20b91,395/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Motorola+Moto+G74+5G"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "brand": "Nothing",
+      "name": "Nothing Phone 2a Plus",
+      "category": "smartphones",
+      "price": 29999,
+      "originalPrice": 33999,
+      "image": "https://images.unsplash.com/photo-1511707172583?w=400",
+      "specs": "6.7\" AMOLED, Dimensity 7350 Pro, 50MP Dual Camera, Glyph Interface",
+      "storage": "256GB",
+      "rating": 4.3,
+      "reviews": 2114,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 29999,
+          "delivery": "Free",
+          "emi": "\u20b92,499/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Nothing+Nothing+Phone+2a+Plus"
+        },
+        {
+          "name": "Amazon",
+          "price": 31272,
+          "delivery": "Free",
+          "emi": "\u20b92,606/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Nothing+Nothing+Phone+2a+Plus"
+        },
+        {
+          "name": "Croma",
+          "price": 31044,
+          "delivery": "\u20b999",
+          "emi": "\u20b92,587/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Nothing+Nothing+Phone+2a+Plus"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 29458,
+          "delivery": "Free",
+          "emi": "\u20b92,454/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Nothing+Nothing+Phone+2a+Plus"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 31425,
+          "delivery": "\u20b9150",
+          "emi": "\u20b92,618/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Nothing+Nothing+Phone+2a+Plus"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "brand": "Nothing",
+      "name": "Nothing Phone 2a",
+      "category": "smartphones",
+      "price": 25999,
+      "originalPrice": 29999,
+      "image": "https://images.unsplash.com/photo-1511707172596?w=400",
+      "specs": "6.7\" AMOLED, Dimensity 7200 Pro, 50MP Dual Camera, Glyph Interface",
+      "storage": "128GB",
+      "rating": 4.5,
+      "reviews": 1965,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 25999,
+          "delivery": "Free",
+          "emi": "\u20b92,166/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Nothing+Nothing+Phone+2a"
+        },
+        {
+          "name": "Amazon",
+          "price": 26583,
+          "delivery": "Free",
+          "emi": "\u20b92,215/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Nothing+Nothing+Phone+2a"
+        },
+        {
+          "name": "Croma",
+          "price": 26358,
+          "delivery": "\u20b999",
+          "emi": "\u20b92,196/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Nothing+Nothing+Phone+2a"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 25596,
+          "delivery": "Free",
+          "emi": "\u20b92,133/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Nothing+Nothing+Phone+2a"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 27128,
+          "delivery": "\u20b9150",
+          "emi": "\u20b92,260/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Nothing+Nothing+Phone+2a"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "brand": "Nothing",
+      "name": "Nothing Phone 2",
+      "category": "smartphones",
+      "price": 44999,
+      "originalPrice": 49999,
+      "image": "https://images.unsplash.com/photo-1511707172609?w=400",
+      "specs": "6.7\" LTPO AMOLED, Snapdragon 8+ Gen 1, 50MP Dual Camera, Glyph Interface",
+      "storage": "128GB",
+      "rating": 4.8,
+      "reviews": 4351,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 44999,
+          "delivery": "Free",
+          "emi": "\u20b93,749/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Nothing+Nothing+Phone+2"
+        },
+        {
+          "name": "Amazon",
+          "price": 47548,
+          "delivery": "Free",
+          "emi": "\u20b93,962/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Nothing+Nothing+Phone+2"
+        },
+        {
+          "name": "Croma",
+          "price": 44412,
+          "delivery": "\u20b999",
+          "emi": "\u20b93,701/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Nothing+Nothing+Phone+2"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 44777,
+          "delivery": "Free",
+          "emi": "\u20b93,731/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Nothing+Nothing+Phone+2"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 45753,
+          "delivery": "\u20b9150",
+          "emi": "\u20b93,812/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Nothing+Nothing+Phone+2"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "brand": "Honor",
+      "name": "Honor Magic 6 Pro",
+      "category": "smartphones",
+      "price": 74999,
+      "originalPrice": 84999,
+      "image": "https://images.unsplash.com/photo-1511707172622?w=400",
+      "specs": "6.8\" LTPO OLED, Snapdragon 8 Gen 3, 50MP Triple Camera",
+      "storage": "256GB",
+      "rating": 4.1,
+      "reviews": 6132,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 74999,
+          "delivery": "Free",
+          "emi": "\u20b96,249/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Honor+Honor+Magic+6+Pro"
+        },
+        {
+          "name": "Amazon",
+          "price": 78304,
+          "delivery": "Free",
+          "emi": "\u20b96,525/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Honor+Honor+Magic+6+Pro"
+        },
+        {
+          "name": "Croma",
+          "price": 74345,
+          "delivery": "\u20b999",
+          "emi": "\u20b96,195/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Honor+Honor+Magic+6+Pro"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 76271,
+          "delivery": "Free",
+          "emi": "\u20b96,355/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Honor+Honor+Magic+6+Pro"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 76990,
+          "delivery": "\u20b9150",
+          "emi": "\u20b96,415/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Honor+Honor+Magic+6+Pro"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "brand": "Honor",
+      "name": "Honor 200 Pro",
+      "category": "smartphones",
+      "price": 32999,
+      "originalPrice": 37999,
+      "image": "https://images.unsplash.com/photo-1511707172635?w=400",
+      "specs": "6.78\" AMOLED, Snapdragon 7 Gen 3, 50MP Triple Camera",
+      "storage": "256GB",
+      "rating": 4.4,
+      "reviews": 7875,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 32999,
+          "delivery": "Free",
+          "emi": "\u20b92,749/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Honor+Honor+200+Pro"
+        },
+        {
+          "name": "Amazon",
+          "price": 34325,
+          "delivery": "Free",
+          "emi": "\u20b92,860/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Honor+Honor+200+Pro"
+        },
+        {
+          "name": "Croma",
+          "price": 32396,
+          "delivery": "\u20b999",
+          "emi": "\u20b92,699/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Honor+Honor+200+Pro"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 33437,
+          "delivery": "Free",
+          "emi": "\u20b92,786/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Honor+Honor+200+Pro"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 34515,
+          "delivery": "\u20b9150",
+          "emi": "\u20b92,876/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Honor+Honor+200+Pro"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "brand": "Honor",
+      "name": "Honor X9c",
+      "category": "smartphones",
+      "price": 19999,
+      "originalPrice": 23999,
+      "image": "https://images.unsplash.com/photo-1511707172648?w=400",
+      "specs": "6.78\" AMOLED, Snapdragon 6 Gen 1, 108MP Triple Camera",
+      "storage": "256GB",
+      "rating": 4.2,
+      "reviews": 1521,
+      "retailers": [
+        {
+          "name": "Flipkart",
+          "price": 19999,
+          "delivery": "Free",
+          "emi": "\u20b91,666/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.flipkart.com/search?q=Honor+Honor+X9c"
+        },
+        {
+          "name": "Amazon",
+          "price": 20685,
+          "delivery": "Free",
+          "emi": "\u20b91,723/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Honor+Honor+X9c"
+        },
+        {
+          "name": "Croma",
+          "price": 20788,
+          "delivery": "\u20b999",
+          "emi": "\u20b91,732/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Honor+Honor+X9c"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 19221,
+          "delivery": "Free",
+          "emi": "\u20b91,601/month",
+          "cashback": "\u20b92000 Off",
+          "url": "https://www.vijaysales.com/search?query=Honor+Honor+X9c"
+        },
+        {
+          "name": "Reliance Digital",
+          "price": 20441,
+          "delivery": "\u20b9150",
+          "emi": "\u20b91,703/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.reliancedigital.in/search?q=Honor+Honor+X9c"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "brand": "Sony",
+      "name": "WH-1000XM5",
+      "category": "headphones",
+      "price": 29990,
+      "originalPrice": 34990,
+      "image": "https://images.unsplash.com/photo-1505740422271?w=400",
+      "specs": "Industry Leading Noise Canceling, 30hr Battery, Hi-Res Audio",
+      "rating": 4.0,
+      "reviews": 2417,
+      "retailers": [
+        {
+          "name": "Amazon",
+          "price": 29990,
+          "delivery": "Free",
+          "emi": "\u20b94,998/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.amazon.in/s?k=Sony+WH-1000XM5"
+        },
+        {
+          "name": "Flipkart",
+          "price": 30348,
+          "delivery": "Free",
+          "emi": "\u20b95,058/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.flipkart.com/search?q=Sony+WH-1000XM5"
+        },
+        {
+          "name": "Croma",
+          "price": 30771,
+          "delivery": "Free",
+          "emi": "\u20b95,128/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Sony+WH-1000XM5"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 29572,
+          "delivery": "\u20b999",
+          "emi": "\u20b94,928/month",
+          "cashback": "\u20b91000 Off",
+          "url": "https://www.vijaysales.com/search?query=Sony+WH-1000XM5"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "brand": "Sony",
+      "name": "WH-1000XM4",
+      "category": "headphones",
+      "price": 24990,
+      "originalPrice": 29990,
+      "image": "https://images.unsplash.com/photo-1505740422288?w=400",
+      "specs": "Industry Leading Noise Canceling, 30hr Battery, LDAC",
+      "rating": 4.4,
+      "reviews": 4571,
+      "retailers": [
+        {
+          "name": "Amazon",
+          "price": 24990,
+          "delivery": "Free",
+          "emi": "\u20b94,165/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.amazon.in/s?k=Sony+WH-1000XM4"
+        },
+        {
+          "name": "Flipkart",
+          "price": 25755,
+          "delivery": "Free",
+          "emi": "\u20b94,292/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.flipkart.com/search?q=Sony+WH-1000XM4"
+        },
+        {
+          "name": "Croma",
+          "price": 25989,
+          "delivery": "Free",
+          "emi": "\u20b94,331/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Sony+WH-1000XM4"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 25025,
+          "delivery": "\u20b999",
+          "emi": "\u20b94,170/month",
+          "cashback": "\u20b91000 Off",
+          "url": "https://www.vijaysales.com/search?query=Sony+WH-1000XM4"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "brand": "Sony",
+      "name": "WH-CH720N",
+      "category": "headphones",
+      "price": 8990,
+      "originalPrice": 10990,
+      "image": "https://images.unsplash.com/photo-1505740422305?w=400",
+      "specs": "Noise Canceling, 35hr Battery, V1 Processor",
+      "rating": 4.5,
+      "reviews": 242,
+      "retailers": [
+        {
+          "name": "Amazon",
+          "price": 8990,
+          "delivery": "Free",
+          "emi": "No Cost EMI",
+          "cashback": "5% Cashback",
+          "url": "https://www.amazon.in/s?k=Sony+WH-CH720N"
+        },
+        {
+          "name": "Flipkart",
+          "price": 9405,
+          "delivery": "Free",
+          "emi": "No Cost EMI",
+          "cashback": "3% Cashback",
+          "url": "https://www.flipkart.com/search?q=Sony+WH-CH720N"
+        },
+        {
+          "name": "Croma",
+          "price": 9324,
+          "delivery": "Free",
+          "emi": "No Cost EMI",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Sony+WH-CH720N"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 8889,
+          "delivery": "\u20b999",
+          "emi": "No Cost EMI",
+          "cashback": "\u20b91000 Off",
+          "url": "https://www.vijaysales.com/search?query=Sony+WH-CH720N"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "brand": "Bose",
+      "name": "QuietComfort Ultra",
+      "category": "headphones",
+      "price": 39900,
+      "originalPrice": 44900,
+      "image": "https://images.unsplash.com/photo-1505740422322?w=400",
+      "specs": "World-class Noise Cancellation, Spatial Audio, 24hr Battery",
+      "rating": 4.2,
+      "reviews": 4137,
+      "retailers": [
+        {
+          "name": "Amazon",
+          "price": 39900,
+          "delivery": "Free",
+          "emi": "\u20b96,650/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.amazon.in/s?k=Bose+QuietComfort+Ultra"
+        },
+        {
+          "name": "Flipkart",
+          "price": 41519,
+          "delivery": "Free",
+          "emi": "\u20b96,919/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.flipkart.com/search?q=Bose+QuietComfort+Ultra"
+        },
+        {
+          "name": "Croma",
+          "price": 41720,
+          "delivery": "Free",
+          "emi": "\u20b96,953/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Bose+QuietComfort+Ultra"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 41014,
+          "delivery": "\u20b999",
+          "emi": "\u20b96,835/month",
+          "cashback": "\u20b91000 Off",
+          "url": "https://www.vijaysales.com/search?query=Bose+QuietComfort+Ultra"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "brand": "Bose",
+      "name": "QuietComfort 45",
+      "category": "headphones",
+      "price": 32900,
+      "originalPrice": 37900,
+      "image": "https://images.unsplash.com/photo-1505740422339?w=400",
+      "specs": "Quiet and Aware modes, 24hr Battery, TriPort acoustic",
+      "rating": 3.9,
+      "reviews": 681,
+      "retailers": [
+        {
+          "name": "Amazon",
+          "price": 32900,
+          "delivery": "Free",
+          "emi": "\u20b95,483/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.amazon.in/s?k=Bose+QuietComfort+45"
+        },
+        {
+          "name": "Flipkart",
+          "price": 33884,
+          "delivery": "Free",
+          "emi": "\u20b95,647/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.flipkart.com/search?q=Bose+QuietComfort+45"
+        },
+        {
+          "name": "Croma",
+          "price": 33763,
+          "delivery": "Free",
+          "emi": "\u20b95,627/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Bose+QuietComfort+45"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 33386,
+          "delivery": "\u20b999",
+          "emi": "\u20b95,564/month",
+          "cashback": "\u20b91000 Off",
+          "url": "https://www.vijaysales.com/search?query=Bose+QuietComfort+45"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "brand": "Sennheiser",
+      "name": "Momentum 4",
+      "category": "headphones",
+      "price": 34990,
+      "originalPrice": 39990,
+      "image": "https://images.unsplash.com/photo-1505740422356?w=400",
+      "specs": "Audiophile-inspired sound, 60hr Battery, Adaptive ANC",
+      "rating": 4.5,
+      "reviews": 3574,
+      "retailers": [
+        {
+          "name": "Amazon",
+          "price": 34990,
+          "delivery": "Free",
+          "emi": "\u20b95,831/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.amazon.in/s?k=Sennheiser+Momentum+4"
+        },
+        {
+          "name": "Flipkart",
+          "price": 35609,
+          "delivery": "Free",
+          "emi": "\u20b95,934/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.flipkart.com/search?q=Sennheiser+Momentum+4"
+        },
+        {
+          "name": "Croma",
+          "price": 36702,
+          "delivery": "Free",
+          "emi": "\u20b96,117/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Sennheiser+Momentum+4"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 35429,
+          "delivery": "\u20b999",
+          "emi": "\u20b95,904/month",
+          "cashback": "\u20b91000 Off",
+          "url": "https://www.vijaysales.com/search?query=Sennheiser+Momentum+4"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "brand": "Audio-Technica",
+      "name": "ATH-M50xBT2",
+      "category": "headphones",
+      "price": 15990,
+      "originalPrice": 18990,
+      "image": "https://images.unsplash.com/photo-1505740422373?w=400",
+      "specs": "Professional Monitor, 50hr Battery, Multipoint Connection",
+      "rating": 4.7,
+      "reviews": 2460,
+      "retailers": [
+        {
+          "name": "Amazon",
+          "price": 15990,
+          "delivery": "Free",
+          "emi": "\u20b92,665/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.amazon.in/s?k=Audio-Technica+ATH-M50xBT2"
+        },
+        {
+          "name": "Flipkart",
+          "price": 16540,
+          "delivery": "Free",
+          "emi": "\u20b92,756/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.flipkart.com/search?q=Audio-Technica+ATH-M50xBT2"
+        },
+        {
+          "name": "Croma",
+          "price": 16748,
+          "delivery": "Free",
+          "emi": "\u20b92,791/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Audio-Technica+ATH-M50xBT2"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 16254,
+          "delivery": "\u20b999",
+          "emi": "\u20b92,709/month",
+          "cashback": "\u20b91000 Off",
+          "url": "https://www.vijaysales.com/search?query=Audio-Technica+ATH-M50xBT2"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "brand": "Apple",
+      "name": "AirPods Pro 2",
+      "category": "headphones",
+      "price": 24900,
+      "originalPrice": 26900,
+      "image": "https://images.unsplash.com/photo-1505740422390?w=400",
+      "specs": "Active Noise Cancellation, Spatial Audio, 6hr Playback",
+      "rating": 4.6,
+      "reviews": 2278,
+      "retailers": [
+        {
+          "name": "Amazon",
+          "price": 24900,
+          "delivery": "Free",
+          "emi": "\u20b94,150/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.amazon.in/s?k=Apple+AirPods+Pro+2"
+        },
+        {
+          "name": "Flipkart",
+          "price": 25903,
+          "delivery": "Free",
+          "emi": "\u20b94,317/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.flipkart.com/search?q=Apple+AirPods+Pro+2"
+        },
+        {
+          "name": "Croma",
+          "price": 25739,
+          "delivery": "Free",
+          "emi": "\u20b94,289/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Apple+AirPods+Pro+2"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 25460,
+          "delivery": "\u20b999",
+          "emi": "\u20b94,243/month",
+          "cashback": "\u20b91000 Off",
+          "url": "https://www.vijaysales.com/search?query=Apple+AirPods+Pro+2"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "brand": "Apple",
+      "name": "AirPods 3",
+      "category": "headphones",
+      "price": 19900,
+      "originalPrice": 21900,
+      "image": "https://images.unsplash.com/photo-1505740422407?w=400",
+      "specs": "Spatial Audio, Adaptive EQ, 6hr Playbook",
+      "rating": 4.0,
+      "reviews": 2990,
+      "retailers": [
+        {
+          "name": "Amazon",
+          "price": 19900,
+          "delivery": "Free",
+          "emi": "\u20b93,316/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.amazon.in/s?k=Apple+AirPods+3"
+        },
+        {
+          "name": "Flipkart",
+          "price": 20577,
+          "delivery": "Free",
+          "emi": "\u20b93,429/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.flipkart.com/search?q=Apple+AirPods+3"
+        },
+        {
+          "name": "Croma",
+          "price": 20711,
+          "delivery": "Free",
+          "emi": "\u20b93,451/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Apple+AirPods+3"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 19750,
+          "delivery": "\u20b999",
+          "emi": "\u20b93,291/month",
+          "cashback": "\u20b91000 Off",
+          "url": "https://www.vijaysales.com/search?query=Apple+AirPods+3"
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "brand": "Sony",
+      "name": "WF-1000XM4",
+      "category": "headphones",
+      "price": 19990,
+      "originalPrice": 22990,
+      "image": "https://images.unsplash.com/photo-1505740422424?w=400",
+      "specs": "Industry Leading NC, 8hr Battery, Hi-Res Audio",
+      "rating": 3.9,
+      "reviews": 860,
+      "retailers": [
+        {
+          "name": "Amazon",
+          "price": 19990,
+          "delivery": "Free",
+          "emi": "\u20b93,331/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.amazon.in/s?k=Sony+WF-1000XM4"
+        },
+        {
+          "name": "Flipkart",
+          "price": 20608,
+          "delivery": "Free",
+          "emi": "\u20b93,434/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.flipkart.com/search?q=Sony+WF-1000XM4"
+        },
+        {
+          "name": "Croma",
+          "price": 20781,
+          "delivery": "Free",
+          "emi": "\u20b93,463/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Sony+WF-1000XM4"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 19905,
+          "delivery": "\u20b999",
+          "emi": "\u20b93,317/month",
+          "cashback": "\u20b91000 Off",
+          "url": "https://www.vijaysales.com/search?query=Sony+WF-1000XM4"
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "brand": "Samsung",
+      "name": "Galaxy Buds 3 Pro",
+      "category": "headphones",
+      "price": 19999,
+      "originalPrice": 22999,
+      "image": "https://images.unsplash.com/photo-1505740422441?w=400",
+      "specs": "Intelligent ANC, 6hr Playback, Galaxy AI",
+      "rating": 3.8,
+      "reviews": 3059,
+      "retailers": [
+        {
+          "name": "Amazon",
+          "price": 19999,
+          "delivery": "Free",
+          "emi": "\u20b93,333/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.amazon.in/s?k=Samsung+Galaxy+Buds+3+Pro"
+        },
+        {
+          "name": "Flipkart",
+          "price": 20764,
+          "delivery": "Free",
+          "emi": "\u20b93,460/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.flipkart.com/search?q=Samsung+Galaxy+Buds+3+Pro"
+        },
+        {
+          "name": "Croma",
+          "price": 20710,
+          "delivery": "Free",
+          "emi": "\u20b93,451/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Samsung+Galaxy+Buds+3+Pro"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 20478,
+          "delivery": "\u20b999",
+          "emi": "\u20b93,413/month",
+          "cashback": "\u20b91000 Off",
+          "url": "https://www.vijaysales.com/search?query=Samsung+Galaxy+Buds+3+Pro"
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "brand": "OnePlus",
+      "name": "Buds Pro 3",
+      "category": "headphones",
+      "price": 11999,
+      "originalPrice": 13999,
+      "image": "https://images.unsplash.com/photo-1505740422458?w=400",
+      "specs": "Smart Adaptive NC, 10hr Battery, Golden Sound",
+      "rating": 4.3,
+      "reviews": 3418,
+      "retailers": [
+        {
+          "name": "Amazon",
+          "price": 11999,
+          "delivery": "Free",
+          "emi": "\u20b91,999/month",
+          "cashback": "5% Cashback",
+          "url": "https://www.amazon.in/s?k=OnePlus+Buds+Pro+3"
+        },
+        {
+          "name": "Flipkart",
+          "price": 12350,
+          "delivery": "Free",
+          "emi": "\u20b92,058/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.flipkart.com/search?q=OnePlus+Buds+Pro+3"
+        },
+        {
+          "name": "Croma",
+          "price": 12252,
+          "delivery": "Free",
+          "emi": "\u20b92,042/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=OnePlus+Buds+Pro+3"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 12123,
+          "delivery": "\u20b999",
+          "emi": "\u20b92,020/month",
+          "cashback": "\u20b91000 Off",
+          "url": "https://www.vijaysales.com/search?query=OnePlus+Buds+Pro+3"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "brand": "Realme",
+      "name": "Buds Air 6 Pro",
+      "category": "headphones",
+      "price": 4999,
+      "originalPrice": 5999,
+      "image": "https://images.unsplash.com/photo-1505740422475?w=400",
+      "specs": "50dB ANC, 12.4mm Driver, 38hr Battery",
+      "rating": 3.9,
+      "reviews": 815,
+      "retailers": [
+        {
+          "name": "Amazon",
+          "price": 4999,
+          "delivery": "Free",
+          "emi": "No Cost EMI",
+          "cashback": "5% Cashback",
+          "url": "https://www.amazon.in/s?k=Realme+Buds+Air+6+Pro"
+        },
+        {
+          "name": "Flipkart",
+          "price": 5159,
+          "delivery": "Free",
+          "emi": "No Cost EMI",
+          "cashback": "3% Cashback",
+          "url": "https://www.flipkart.com/search?q=Realme+Buds+Air+6+Pro"
+        },
+        {
+          "name": "Croma",
+          "price": 5240,
+          "delivery": "Free",
+          "emi": "No Cost EMI",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Realme+Buds+Air+6+Pro"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 5145,
+          "delivery": "\u20b999",
+          "emi": "No Cost EMI",
+          "cashback": "\u20b91000 Off",
+          "url": "https://www.vijaysales.com/search?query=Realme+Buds+Air+6+Pro"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "brand": "JBL",
+      "name": "Live Pro 2",
+      "category": "headphones",
+      "price": 9999,
+      "originalPrice": 11999,
+      "image": "https://images.unsplash.com/photo-1505740422492?w=400",
+      "specs": "Adaptive Noise Cancelling, 40hr Battery, JBL Spatial Sound",
+      "rating": 4.7,
+      "reviews": 4538,
+      "retailers": [
+        {
+          "name": "Amazon",
+          "price": 9999,
+          "delivery": "Free",
+          "emi": "No Cost EMI",
+          "cashback": "5% Cashback",
+          "url": "https://www.amazon.in/s?k=JBL+Live+Pro+2"
+        },
+        {
+          "name": "Flipkart",
+          "price": 10468,
+          "delivery": "Free",
+          "emi": "\u20b91,744/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.flipkart.com/search?q=JBL+Live+Pro+2"
+        },
+        {
+          "name": "Croma",
+          "price": 10370,
+          "delivery": "Free",
+          "emi": "\u20b91,728/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=JBL+Live+Pro+2"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 10141,
+          "delivery": "\u20b999",
+          "emi": "\u20b91,690/month",
+          "cashback": "\u20b91000 Off",
+          "url": "https://www.vijaysales.com/search?query=JBL+Live+Pro+2"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "brand": "Boat",
+      "name": "Airdopes 800",
+      "category": "headphones",
+      "price": 2999,
+      "originalPrice": 3999,
+      "image": "https://images.unsplash.com/photo-1505740422509?w=400",
+      "specs": "ENx Technology, Beast Mode Gaming, 40hr Battery",
+      "rating": 4.7,
+      "reviews": 1605,
+      "retailers": [
+        {
+          "name": "Amazon",
+          "price": 2999,
+          "delivery": "Free",
+          "emi": "No Cost EMI",
+          "cashback": "5% Cashback",
+          "url": "https://www.amazon.in/s?k=Boat+Airdopes+800"
+        },
+        {
+          "name": "Flipkart",
+          "price": 3115,
+          "delivery": "Free",
+          "emi": "No Cost EMI",
+          "cashback": "3% Cashback",
+          "url": "https://www.flipkart.com/search?q=Boat+Airdopes+800"
+        },
+        {
+          "name": "Croma",
+          "price": 3127,
+          "delivery": "Free",
+          "emi": "No Cost EMI",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Boat+Airdopes+800"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 3009,
+          "delivery": "\u20b999",
+          "emi": "No Cost EMI",
+          "cashback": "\u20b91000 Off",
+          "url": "https://www.vijaysales.com/search?query=Boat+Airdopes+800"
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "brand": "Boat",
+      "name": "Rockerz 550",
+      "category": "headphones",
+      "price": 1999,
+      "originalPrice": 2999,
+      "image": "https://images.unsplash.com/photo-1505740422526?w=400",
+      "specs": "50mm Dynamic Drivers, 20hr Playback, Physical Noise Isolation",
+      "rating": 4.2,
+      "reviews": 499,
+      "retailers": [
+        {
+          "name": "Amazon",
+          "price": 1999,
+          "delivery": "Free",
+          "emi": "No Cost EMI",
+          "cashback": "5% Cashback",
+          "url": "https://www.amazon.in/s?k=Boat+Rockerz+550"
+        },
+        {
+          "name": "Flipkart",
+          "price": 2066,
+          "delivery": "Free",
+          "emi": "No Cost EMI",
+          "cashback": "3% Cashback",
+          "url": "https://www.flipkart.com/search?q=Boat+Rockerz+550"
+        },
+        {
+          "name": "Croma",
+          "price": 2113,
+          "delivery": "Free",
+          "emi": "No Cost EMI",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Boat+Rockerz+550"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 2057,
+          "delivery": "\u20b999",
+          "emi": "No Cost EMI",
+          "cashback": "\u20b91000 Off",
+          "url": "https://www.vijaysales.com/search?query=Boat+Rockerz+550"
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "brand": "Noise",
+      "name": "Buds VS402",
+      "category": "headphones",
+      "price": 1499,
+      "originalPrice": 1999,
+      "image": "https://images.unsplash.com/photo-1505740422543?w=400",
+      "specs": "32dB ANC, Quad Mic ENC, 50hr Battery",
+      "rating": 4.0,
+      "reviews": 2452,
+      "retailers": [
+        {
+          "name": "Amazon",
+          "price": 1499,
+          "delivery": "Free",
+          "emi": "No Cost EMI",
+          "cashback": "5% Cashback",
+          "url": "https://www.amazon.in/s?k=Noise+Buds+VS402"
+        },
+        {
+          "name": "Flipkart",
+          "price": 1569,
+          "delivery": "Free",
+          "emi": "No Cost EMI",
+          "cashback": "3% Cashback",
+          "url": "https://www.flipkart.com/search?q=Noise+Buds+VS402"
+        },
+        {
+          "name": "Croma",
+          "price": 1556,
+          "delivery": "Free",
+          "emi": "No Cost EMI",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Noise+Buds+VS402"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 1529,
+          "delivery": "\u20b999",
+          "emi": "No Cost EMI",
+          "cashback": "\u20b91000 Off",
+          "url": "https://www.vijaysales.com/search?query=Noise+Buds+VS402"
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "brand": "Logitech",
+      "name": "G502 Hero",
+      "category": "gaming",
+      "price": 4495,
+      "originalPrice": 5495,
+      "image": "https://images.unsplash.com/photo-1527864552241?w=400",
+      "specs": "25600 DPI, 11 Programmable Buttons, RGB Lighting",
+      "rating": 4.4,
+      "reviews": 3317,
+      "retailers": [
+        {
+          "name": "Amazon",
+          "price": 4495,
+          "delivery": "Free",
+          "emi": "No Cost EMI",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Logitech+G502+Hero"
+        },
+        {
+          "name": "Flipkart",
+          "price": 4643,
+          "delivery": "\u20b940",
+          "emi": "No Cost EMI",
+          "cashback": "4% Cashback",
+          "url": "https://www.flipkart.com/search?q=Logitech+G502+Hero"
+        },
+        {
+          "name": "Croma",
+          "price": 4524,
+          "delivery": "Free",
+          "emi": "No Cost EMI",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Logitech+G502+Hero"
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "brand": "Logitech",
+      "name": "G Pro X Superlight",
+      "category": "gaming",
+      "price": 13499,
+      "originalPrice": 15499,
+      "image": "https://images.unsplash.com/photo-1527864552260?w=400",
+      "specs": "25600 DPI, Ultra-lightweight 63g, Pro Wireless",
+      "rating": 4.5,
+      "reviews": 3001,
+      "retailers": [
+        {
+          "name": "Amazon",
+          "price": 13499,
+          "delivery": "Free",
+          "emi": "\u20b92,249/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Logitech+G+Pro+X+Superlight"
+        },
+        {
+          "name": "Flipkart",
+          "price": 13816,
+          "delivery": "\u20b940",
+          "emi": "\u20b92,302/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.flipkart.com/search?q=Logitech+G+Pro+X+Superlight"
+        },
+        {
+          "name": "Croma",
+          "price": 13812,
+          "delivery": "Free",
+          "emi": "\u20b92,302/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Logitech+G+Pro+X+Superlight"
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "brand": "Razer",
+      "name": "DeathAdder V3",
+      "category": "gaming",
+      "price": 6999,
+      "originalPrice": 7999,
+      "image": "https://images.unsplash.com/photo-1527864552279?w=400",
+      "specs": "30000 DPI, Focus Pro 30K Sensor, Ergonomic Design",
+      "rating": 4.3,
+      "reviews": 1167,
+      "retailers": [
+        {
+          "name": "Amazon",
+          "price": 6999,
+          "delivery": "Free",
+          "emi": "\u20b91,166/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Razer+DeathAdder+V3"
+        },
+        {
+          "name": "Flipkart",
+          "price": 7435,
+          "delivery": "\u20b940",
+          "emi": "\u20b91,239/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.flipkart.com/search?q=Razer+DeathAdder+V3"
+        },
+        {
+          "name": "Croma",
+          "price": 7179,
+          "delivery": "Free",
+          "emi": "\u20b91,196/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Razer+DeathAdder+V3"
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "brand": "Razer",
+      "name": "Basilisk V3",
+      "category": "gaming",
+      "price": 7999,
+      "originalPrice": 8999,
+      "image": "https://images.unsplash.com/photo-1527864552298?w=400",
+      "specs": "26000 DPI, 11 Programmable Buttons, HyperScroll Wheel",
+      "rating": 4.3,
+      "reviews": 3493,
+      "retailers": [
+        {
+          "name": "Amazon",
+          "price": 7999,
+          "delivery": "Free",
+          "emi": "\u20b91,333/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Razer+Basilisk+V3"
+        },
+        {
+          "name": "Flipkart",
+          "price": 8188,
+          "delivery": "\u20b940",
+          "emi": "\u20b91,364/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.flipkart.com/search?q=Razer+Basilisk+V3"
+        },
+        {
+          "name": "Croma",
+          "price": 8202,
+          "delivery": "Free",
+          "emi": "\u20b91,367/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Razer+Basilisk+V3"
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "brand": "Corsair",
+      "name": "M65 RGB Elite",
+      "category": "gaming",
+      "price": 5999,
+      "originalPrice": 6999,
+      "image": "https://images.unsplash.com/photo-1527864552317?w=400",
+      "specs": "18000 DPI, Adjustable Weight, Sniper Button",
+      "rating": 4.1,
+      "reviews": 2522,
+      "retailers": [
+        {
+          "name": "Amazon",
+          "price": 5999,
+          "delivery": "Free",
+          "emi": "\u20b9999/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Corsair+M65+RGB+Elite"
+        },
+        {
+          "name": "Flipkart",
+          "price": 6407,
+          "delivery": "\u20b940",
+          "emi": "\u20b91,067/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.flipkart.com/search?q=Corsair+M65+RGB+Elite"
+        },
+        {
+          "name": "Croma",
+          "price": 6136,
+          "delivery": "Free",
+          "emi": "\u20b91,022/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Corsair+M65+RGB+Elite"
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "brand": "Logitech",
+      "name": "G915 TKL",
+      "category": "gaming",
+      "price": 22999,
+      "originalPrice": 25999,
+      "image": "https://images.unsplash.com/photo-1527864552336?w=400",
+      "specs": "GL Tactile Switches, Wireless, Low Profile Design",
+      "rating": 4.3,
+      "reviews": 472,
+      "retailers": [
+        {
+          "name": "Amazon",
+          "price": 22999,
+          "delivery": "Free",
+          "emi": "\u20b93,833/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Logitech+G915+TKL"
+        },
+        {
+          "name": "Flipkart",
+          "price": 24341,
+          "delivery": "\u20b940",
+          "emi": "\u20b94,056/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.flipkart.com/search?q=Logitech+G915+TKL"
+        },
+        {
+          "name": "Croma",
+          "price": 22723,
+          "delivery": "Free",
+          "emi": "\u20b93,787/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Logitech+G915+TKL"
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "brand": "Razer",
+      "name": "Huntsman V2",
+      "category": "gaming",
+      "price": 16999,
+      "originalPrice": 19999,
+      "image": "https://images.unsplash.com/photo-1527864552355?w=400",
+      "specs": "Linear Optical Switches, Doubleshot PBT Keycaps",
+      "rating": 4.2,
+      "reviews": 3250,
+      "retailers": [
+        {
+          "name": "Amazon",
+          "price": 16999,
+          "delivery": "Free",
+          "emi": "\u20b92,833/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Razer+Huntsman+V2"
+        },
+        {
+          "name": "Flipkart",
+          "price": 18135,
+          "delivery": "\u20b940",
+          "emi": "\u20b93,022/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.flipkart.com/search?q=Razer+Huntsman+V2"
+        },
+        {
+          "name": "Croma",
+          "price": 16950,
+          "delivery": "Free",
+          "emi": "\u20b92,825/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Razer+Huntsman+V2"
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "brand": "Corsair",
+      "name": "K95 RGB Platinum",
+      "category": "gaming",
+      "price": 18999,
+      "originalPrice": 21999,
+      "image": "https://images.unsplash.com/photo-1527864552374?w=400",
+      "specs": "Cherry MX Speed Switches, Aircraft-grade Aluminum",
+      "rating": 4.5,
+      "reviews": 1366,
+      "retailers": [
+        {
+          "name": "Amazon",
+          "price": 18999,
+          "delivery": "Free",
+          "emi": "\u20b93,166/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Corsair+K95+RGB+Platinum"
+        },
+        {
+          "name": "Flipkart",
+          "price": 19523,
+          "delivery": "\u20b940",
+          "emi": "\u20b93,253/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.flipkart.com/search?q=Corsair+K95+RGB+Platinum"
+        },
+        {
+          "name": "Croma",
+          "price": 18890,
+          "delivery": "Free",
+          "emi": "\u20b93,148/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Corsair+K95+RGB+Platinum"
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "brand": "SteelSeries",
+      "name": "Arctis 7P",
+      "category": "gaming",
+      "price": 14999,
+      "originalPrice": 17999,
+      "image": "https://images.unsplash.com/photo-1527864552393?w=400",
+      "specs": "2.4GHz Wireless, DTS Headphone:X v2.0, 24hr Battery",
+      "rating": 4.1,
+      "reviews": 2431,
+      "retailers": [
+        {
+          "name": "Amazon",
+          "price": 14999,
+          "delivery": "Free",
+          "emi": "\u20b92,499/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=SteelSeries+Arctis+7P"
+        },
+        {
+          "name": "Flipkart",
+          "price": 15352,
+          "delivery": "\u20b940",
+          "emi": "\u20b92,558/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.flipkart.com/search?q=SteelSeries+Arctis+7P"
+        },
+        {
+          "name": "Croma",
+          "price": 15425,
+          "delivery": "Free",
+          "emi": "\u20b92,570/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=SteelSeries+Arctis+7P"
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "brand": "HyperX",
+      "name": "Cloud Alpha",
+      "category": "gaming",
+      "price": 9999,
+      "originalPrice": 11999,
+      "image": "https://images.unsplash.com/photo-1527864552412?w=400",
+      "specs": "Dual Chamber Drivers, Detachable Noise-canceling Mic",
+      "rating": 4.6,
+      "reviews": 2912,
+      "retailers": [
+        {
+          "name": "Amazon",
+          "price": 9999,
+          "delivery": "Free",
+          "emi": "\u20b91,666/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=HyperX+Cloud+Alpha"
+        },
+        {
+          "name": "Flipkart",
+          "price": 10322,
+          "delivery": "\u20b940",
+          "emi": "\u20b91,720/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.flipkart.com/search?q=HyperX+Cloud+Alpha"
+        },
+        {
+          "name": "Croma",
+          "price": 9895,
+          "delivery": "Free",
+          "emi": "\u20b91,649/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=HyperX+Cloud+Alpha"
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "brand": "Logitech",
+      "name": "G733 Lightspeed",
+      "category": "gaming",
+      "price": 12999,
+      "originalPrice": 14999,
+      "image": "https://images.unsplash.com/photo-1527864552431?w=400",
+      "specs": "Wireless Gaming, Blue VO!CE Filters, RGB Lighting",
+      "rating": 4.5,
+      "reviews": 1254,
+      "retailers": [
+        {
+          "name": "Amazon",
+          "price": 12999,
+          "delivery": "Free",
+          "emi": "\u20b92,166/month",
+          "cashback": "3% Cashback",
+          "url": "https://www.amazon.in/s?k=Logitech+G733+Lightspeed"
+        },
+        {
+          "name": "Flipkart",
+          "price": 13270,
+          "delivery": "\u20b940",
+          "emi": "\u20b92,211/month",
+          "cashback": "4% Cashback",
+          "url": "https://www.flipkart.com/search?q=Logitech+G733+Lightspeed"
+        },
+        {
+          "name": "Croma",
+          "price": 12935,
+          "delivery": "Free",
+          "emi": "\u20b92,155/month",
+          "cashback": "2% Cashback",
+          "url": "https://www.croma.com/search?q=Logitech+G733+Lightspeed"
+        }
+      ]
+    }
+  ],
+  "total_products": 106,
+  "categories": [
+    {
+      "name": "Smartphones",
+      "slug": "smartphones",
+      "count": 78
+    },
+    {
+      "name": "Headphones",
+      "slug": "headphones",
+      "count": 17
+    },
+    {
+      "name": "Gaming",
+      "slug": "gaming",
+      "count": 11
+    }
+  ],
+  "brands": [
+    "Apple",
+    "Audio-Technica",
+    "Boat",
+    "Bose",
+    "Corsair",
+    "Google",
+    "Honor",
+    "HyperX",
+    "JBL",
+    "Logitech",
+    "Motorola",
+    "Noise",
+    "Nothing",
+    "OPPO",
+    "OnePlus",
+    "Razer",
+    "Realme",
+    "Samsung",
+    "Sennheiser",
+    "Sony",
+    "SteelSeries",
+    "Vivo",
+    "Xiaomi",
+    "iQOO"
+  ],
+  "retailers": [
+    "Flipkart",
+    "Amazon",
+    "Croma",
+    "Vijay Sales",
+    "Reliance Digital"
+  ]
+}

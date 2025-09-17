@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TechStore India - Electronics Shopping</title>
+    <meta name="description" content="Shop electronics online. Find smartphones, headphones, gaming gear, smartwatches, laptops, and tablets with best prices.">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header__content">
+                <div class="header__logo" onclick="returnToHome()">
+                    <h1>TechStore India</h1>
+                    <span>Electronics Shopping</span>
+                </div>
+                
+                <div class="header__search">
+                    <div class="search-container">
+                        <input type="text" id="main-search" class="search-input" placeholder="Search for any device..." autocomplete="off">
+                        <button class="search-btn" onclick="performSearch()">
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <circle cx="11" cy="11" r="8"></circle>
+                                <path d="m21 21-4.35-4.35"></path>
+                            </svg>
+                        </button>
+                        <div class="search-suggestions hidden" id="search-suggestions"></div>
+                    </div>
+                </div>
+                
+                <nav class="header__nav">
+                    <button class="btn btn--outline" onclick="showCart()" id="cart-btn">Cart (0)</button>
+                </nav>
+            </div>
+            
+            <!-- Navigation -->
+            <nav class="main-navigation">
+                <div class="nav-categories">
+                    <button class="nav-category active" data-category="all" onclick="filterByCategory('all')">
+                        <span class="nav-icon">🌟</span>
+                        <span>All Products</span>
+                    </button>
+                    <button class="nav-category" data-category="smartphones" onclick="filterByCategory('smartphones')">
+                        <span class="nav-icon">📱</span>
+                        <span>Smartphones</span>
+                    </button>
+                    <button class="nav-category" data-category="headphones" onclick="filterByCategory('headphones')">
+                        <span class="nav-icon">🎧</span>
+                        <span>Headphones</span>
+                    </button>
+                    <button class="nav-category" data-category="gaming" onclick="filterByCategory('gaming')">
+                        <span class="nav-icon">🎮</span>
+                        <span>Gaming</span>
+                    </button>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main">
+        <!-- Hero Section -->
+        <section class="hero" id="hero-section">
+            <div class="container">
+                <div class="hero__content">
+                    <h2>Find Any Electronic Device</h2>
+                    <p>Search through 106+ products from top brands and get redirected to real retailer websites for purchase.</p>
+                    
+                    <div class="hero__search-container">
+                        <div class="hero__search">
+                            <input type="text" id="hero-search" class="hero__search-input" placeholder="Search for any device (iPhone, Samsung, Sony, etc.)" autocomplete="off">
+                            <button class="btn btn--primary" onclick="performHeroSearch()">🔍 Search</button>
+                        </div>
+                        <div class="search-suggestions hidden" id="hero-search-suggestions"></div>
+                    </div>
+                    
+                    <div class="hero__categories">
+                        <span>Try searching for:</span>
+                        <button class="category-tag" onclick="searchSpecificDevice('iPhone 16 Pro Max')">📱 iPhone 16 Pro Max</button>
+                        <button class="category-tag" onclick="searchSpecificDevice('Samsung Galaxy S24')">📱 Galaxy S24</button>
+                        <button class="category-tag" onclick="searchSpecificDevice('Sony headphones')">🎧 Sony Headphones</button>
+                        <button class="category-tag" onclick="searchSpecificDevice('Gaming mouse')">🎮 Gaming Mouse</button>
+                    </div>
+                    
+                    <div class="hero__stats">
+                        <div class="stat-item">
+                            <strong id="total-products">106+</strong>
+                            <span>Products</span>
+                        </div>
+                        <div class="stat-item">
+                            <strong>23+</strong>
+                            <span>Brands</span>
+                        </div>
+                        <div class="stat-item">
+                            <strong>5</strong>
+                            <span>Retailers</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Search Results Section -->
+        <section class="search-results hidden" id="search-results">
+            <div class="container">
+                <div class="search-results__header">
+                    <div class="results-info">
+                        <h3 id="results-title">Search Results</h3>
+                        <p id="results-subtitle" class="text-secondary"></p>
+                    </div>
+                    <div class="view-controls">
+                        <div class="sort-controls">
+                            <label for="sort-select" class="form-label">Sort by:</label>
+                            <select id="sort-select" class="form-control" onchange="handleSortChange()">
+                                <option value="relevance">Best Match</option>
+                                <option value="price-low">Price: Low to High</option>
+                                <option value="price-high">Price: High to Low</option>
+                                <option value="rating">Highest Rated</option>
+                                <option value="popular">Most Popular</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="search-results__content">
+                    <aside class="filters-sidebar">
+                        <div class="filters-section">
+                            <h4>🔍 Filters</h4>
+                            
+                            <div class="filter-group">
+                                <label class="filter-label">Category</label>
+                                <select id="category-filter" class="form-control" onchange="handleFilterChange()">
+                                    <option value="">All Categories</option>
+                                    <option value="smartphones">Smartphones</option>
+                                    <option value="headphones">Headphones</option>
+                                    <option value="gaming">Gaming</option>
+                                </select>
+                            </div>
+                            
+                            <div class="filter-group">
+                                <label class="filter-label">Brand</label>
+                                <select id="brand-filter" class="form-control" onchange="handleFilterChange()">
+                                    <option value="">All Brands</option>
+                                </select>
+                            </div>
+                            
+                            <div class="filter-group">
+                                <label class="filter-label">Price Range (₹)</label>
+                                <select id="price-filter" class="form-control" onchange="handleFilterChange()">
+                                    <option value="">Any Price</option>
+                                    <option value="0-25000">Under ₹25,000</option>
+                                    <option value="25000-50000">₹25,000 - ₹50,000</option>
+                                    <option value="50000-100000">₹50,000 - ₹1,00,000</option>
+                                    <option value="100000-500000">Above ₹1,00,000</option>
+                                </select>
+                            </div>
+                            
+                            <div class="filter-group">
+                                <label class="filter-label">Rating</label>
+                                <select id="rating-filter" class="form-control" onchange="handleFilterChange()">
+                                    <option value="">Any Rating</option>
+                                    <option value="4.0">4.0★ & Above</option>
+                                    <option value="4.5">4.5★ & Above</option>
+                                </select>
+                            </div>
+                            
+                            <button class="btn btn--secondary btn--full-width" onclick="clearFilters()">Clear All Filters</button>
+                        </div>
+                    </aside>
+                    
+                    <div class="products-section">
+                        <div class="products-grid" id="products-container">
+                            <!-- Products will be dynamically loaded here -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Categories Overview -->
+        <section class="categories-overview" id="categories-section">
+            <div class="container">
+                <div class="section-header">
+                    <h3>Shop by Category</h3>
+                    <p>Browse our electronics collection by category</p>
+                </div>
+                <div class="categories-grid">
+                    <div class="category-showcase" onclick="filterByCategory('smartphones')">
+                        <div class="category-icon">📱</div>
+                        <h4>Smartphones</h4>
+                        <p>Latest smartphones from Apple, Samsung, OnePlus, Xiaomi, and more</p>
+                        <span class="category-count" id="smartphones-count">Loading...</span>
+                    </div>
+                    
+                    <div class="category-showcase" onclick="filterByCategory('headphones')">
+                        <div class="category-icon">🎧</div>
+                        <h4>Headphones</h4>
+                        <p>Premium headphones and earbuds from Sony, Bose, Apple, and others</p>
+                        <span class="category-count" id="headphones-count">Loading...</span>
+                    </div>
+                    
+                    <div class="category-showcase" onclick="filterByCategory('gaming')">
+                        <div class="category-icon">🎮</div>
+                        <h4>Gaming</h4>
+                        <p>Gaming mice, keyboards, and accessories from top gaming brands</p>
+                        <span class="category-count" id="gaming-count">Loading...</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Featured Products -->
+        <section class="featured-section" id="featured-section">
+            <div class="container">
+                <div class="section-header">
+                    <h3>Featured Products</h3>
+                    <p>Top-rated electronics with the best prices across retailers</p>
+                </div>
+                <div class="products-grid" id="featured-products">
+                    <!-- Featured products will be loaded here -->
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Shopping Cart -->
+    <div class="cart-container">
+        <div class="cart-widget hidden" id="cart-widget">
+            <div class="cart-header">
+                <h4>🛒 Shopping Cart</h4>
+                <button class="cart-close" onclick="showCart()">×</button>
+            </div>
+            
+            <div class="cart-items" id="cart-items">
+                <div class="cart-empty text-center">
+                    <p>Your cart is empty</p>
+                    <p class="text-secondary">Add some products to get started</p>
+                </div>
+            </div>
+            
+            <div class="cart-footer" id="cart-footer" style="display: none;">
+                <div class="cart-total">
+                    <strong id="cart-total">Total: ₹0</strong>
+                </div>
+                <button class="btn btn--primary btn--full-width">Proceed to Checkout</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Product Detail Modal -->
+    <div class="modal hidden" id="product-modal">
+        <div class="modal-backdrop" onclick="closeProductModal()"></div>
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 id="modal-title">Product Details</h3>
+                <button class="modal-close" onclick="closeProductModal()">×</button>
+            </div>
+            <div class="modal-body" id="modal-body">
+                <!-- Product details will be loaded here -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Loading Spinner -->
+    <div class="loading-spinner" id="loading-spinner">
+        <div class="spinner"></div>
+        <p>Loading products from database...</p>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
