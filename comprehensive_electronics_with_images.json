@@ -1,0 +1,3868 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "brand": "Apple",
+      "name": "iPhone 16 Pro Max",
+      "price": 144900,
+      "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=400",
+      "category": "Smartphones",
+      "rating": 4.5,
+      "reviews": 1713,
+      "specs": "6.9\" OLED, A18 Pro, 48MP Triple Camera, 256GB",
+      "sites": [
+        {
+          "name": "Flipkart",
+          "price": 129316,
+          "url": "https://www.flipkart.com/search?q=Apple+iPhone+16+Pro+Max",
+          "delivery": "3 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 150681,
+          "url": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro+Max",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 135562,
+          "url": "https://www.croma.com/search?q=Apple+iPhone+16+Pro+Max",
+          "delivery": "6 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 148495,
+          "url": "https://www.vijaysales.com/search?query=Apple+iPhone+16+Pro+Max",
+          "delivery": "2 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "brand": "Apple",
+      "name": "iPhone 16 Pro",
+      "price": 119900,
+      "image": "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?w=400",
+      "category": "Smartphones",
+      "rating": 4.3,
+      "reviews": 6191,
+      "specs": "6.3\" OLED, A18 Pro, 48MP Triple Camera, 128GB",
+      "sites": [
+        {
+          "name": "Croma",
+          "price": 113460,
+          "url": "https://www.croma.com/search?q=Apple+iPhone+16+Pro",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 130188,
+          "url": "https://www.flipkart.com/search?q=Apple+iPhone+16+Pro",
+          "delivery": "5 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 107584,
+          "url": "https://www.vijaysales.com/search?query=Apple+iPhone+16+Pro",
+          "delivery": "7 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 126806,
+          "url": "https://www.amazon.in/s?k=Apple+iPhone+16+Pro",
+          "delivery": "2 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "brand": "Apple",
+      "name": "iPhone 16",
+      "price": 79900,
+      "image": "https://images.unsplash.com/photo-1556656793-08538906a9f8?w=400",
+      "category": "Smartphones",
+      "rating": 4.3,
+      "reviews": 1032,
+      "specs": "6.1\" OLED, A18, 48MP Dual Camera, 128GB",
+      "sites": [
+        {
+          "name": "Amazon",
+          "price": 73320,
+          "url": "https://www.amazon.in/s?k=Apple+iPhone+16",
+          "delivery": "6 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 79819,
+          "url": "https://www.croma.com/search?q=Apple+iPhone+16",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 78029,
+          "url": "https://www.vijaysales.com/search?query=Apple+iPhone+16",
+          "delivery": "7 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 72140,
+          "url": "https://www.flipkart.com/search?q=Apple+iPhone+16",
+          "delivery": "4 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "brand": "Apple",
+      "name": "iPhone 15 Pro Max",
+      "price": 134900,
+      "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=400",
+      "category": "Smartphones",
+      "rating": 4.2,
+      "reviews": 7339,
+      "specs": "6.7\" OLED, A17 Pro, 48MP Triple Camera, 256GB",
+      "sites": [
+        {
+          "name": "Vijay Sales",
+          "price": 142904,
+          "url": "https://www.vijaysales.com/search?query=Apple+iPhone+15+Pro+Max",
+          "delivery": "6 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 145614,
+          "url": "https://www.amazon.in/s?k=Apple+iPhone+15+Pro+Max",
+          "delivery": "5 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 136111,
+          "url": "https://www.flipkart.com/search?q=Apple+iPhone+15+Pro+Max",
+          "delivery": "5 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 135304,
+          "url": "https://www.croma.com/search?q=Apple+iPhone+15+Pro+Max",
+          "delivery": "2 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "brand": "Apple",
+      "name": "iPhone 15",
+      "price": 69900,
+      "image": "https://images.unsplash.com/photo-1695048071774-da5ac8c909b6?w=400",
+      "category": "Smartphones",
+      "rating": 4.3,
+      "reviews": 6288,
+      "specs": "6.1\" OLED, A16, 48MP Dual Camera, 128GB",
+      "sites": [
+        {
+          "name": "Amazon",
+          "price": 64108,
+          "url": "https://www.amazon.in/s?k=Apple+iPhone+15",
+          "delivery": "5 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 65511,
+          "url": "https://www.croma.com/search?q=Apple+iPhone+15",
+          "delivery": "5 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 77714,
+          "url": "https://www.flipkart.com/search?q=Apple+iPhone+15",
+          "delivery": "3 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "brand": "Samsung",
+      "name": "Galaxy S24 Ultra",
+      "price": 124999,
+      "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=400",
+      "category": "Smartphones",
+      "rating": 4.1,
+      "reviews": 5880,
+      "specs": "6.8\" AMOLED, Snapdragon 8 Gen 3, 200MP Quad Camera, 256GB",
+      "sites": [
+        {
+          "name": "Vijay Sales",
+          "price": 125835,
+          "url": "https://www.vijaysales.com/search?query=Samsung+Galaxy+S24+Ultra",
+          "delivery": "5 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 115813,
+          "url": "https://www.flipkart.com/search?q=Samsung+Galaxy+S24+Ultra",
+          "delivery": "2 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 135675,
+          "url": "https://www.amazon.in/s?k=Samsung+Galaxy+S24+Ultra",
+          "delivery": "6 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 132109,
+          "url": "https://www.croma.com/search?q=Samsung+Galaxy+S24+Ultra",
+          "delivery": "4 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "brand": "Samsung",
+      "name": "Galaxy S24+",
+      "price": 89999,
+      "image": "https://images.unsplash.com/photo-1580910051074-3eb694886505?w=400",
+      "category": "Smartphones",
+      "rating": 4.4,
+      "reviews": 3150,
+      "specs": "6.7\" AMOLED, Snapdragon 8 Gen 3, 50MP Triple Camera, 256GB",
+      "sites": [
+        {
+          "name": "Croma",
+          "price": 82197,
+          "url": "https://www.croma.com/search?q=Samsung+Galaxy+S24+",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 94345,
+          "url": "https://www.vijaysales.com/search?query=Samsung+Galaxy+S24+",
+          "delivery": "5 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 91971,
+          "url": "https://www.flipkart.com/search?q=Samsung+Galaxy+S24+",
+          "delivery": "7 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 95733,
+          "url": "https://www.amazon.in/s?k=Samsung+Galaxy+S24+",
+          "delivery": "2 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "brand": "Samsung",
+      "name": "Galaxy S24",
+      "price": 74999,
+      "image": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?w=400",
+      "category": "Smartphones",
+      "rating": 4.8,
+      "reviews": 1034,
+      "specs": "6.2\" AMOLED, Snapdragon 8 Gen 3, 50MP Triple Camera, 128GB",
+      "sites": [
+        {
+          "name": "Flipkart",
+          "price": 71670,
+          "url": "https://www.flipkart.com/search?q=Samsung+Galaxy+S24",
+          "delivery": "5 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 71048,
+          "url": "https://www.vijaysales.com/search?query=Samsung+Galaxy+S24",
+          "delivery": "5 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 76261,
+          "url": "https://www.amazon.in/s?k=Samsung+Galaxy+S24",
+          "delivery": "5 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "brand": "Samsung",
+      "name": "Galaxy A55 5G",
+      "price": 39999,
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400",
+      "category": "Smartphones",
+      "rating": 4.1,
+      "reviews": 7576,
+      "specs": "6.6\" AMOLED, Exynos 1480, 50MP Triple Camera, 128GB",
+      "sites": [
+        {
+          "name": "Flipkart",
+          "price": 36777,
+          "url": "https://www.flipkart.com/search?q=Samsung+Galaxy+A55+5G",
+          "delivery": "3 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 37034,
+          "url": "https://www.croma.com/search?q=Samsung+Galaxy+A55+5G",
+          "delivery": "2 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 36072,
+          "url": "https://www.vijaysales.com/search?query=Samsung+Galaxy+A55+5G",
+          "delivery": "2 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "brand": "Samsung",
+      "name": "Galaxy A35 5G",
+      "price": 30999,
+      "image": "https://images.unsplash.com/photo-1574944985070-8f3ebc6b2d49?w=400",
+      "category": "Smartphones",
+      "rating": 4.0,
+      "reviews": 3715,
+      "specs": "6.6\" AMOLED, Exynos 1380, 50MP Triple Camera, 128GB",
+      "sites": [
+        {
+          "name": "Croma",
+          "price": 30529,
+          "url": "https://www.croma.com/search?q=Samsung+Galaxy+A35+5G",
+          "delivery": "6 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 34156,
+          "url": "https://www.flipkart.com/search?q=Samsung+Galaxy+A35+5G",
+          "delivery": "6 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 30305,
+          "url": "https://www.vijaysales.com/search?query=Samsung+Galaxy+A35+5G",
+          "delivery": "5 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "brand": "Samsung",
+      "name": "Galaxy A25 5G",
+      "price": 26999,
+      "image": "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=400",
+      "category": "Smartphones",
+      "rating": 4.3,
+      "reviews": 1270,
+      "specs": "6.5\" AMOLED, Exynos 1280, 50MP Triple Camera, 128GB",
+      "sites": [
+        {
+          "name": "Croma",
+          "price": 29864,
+          "url": "https://www.croma.com/search?q=Samsung+Galaxy+A25+5G",
+          "delivery": "5 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 28366,
+          "url": "https://www.vijaysales.com/search?query=Samsung+Galaxy+A25+5G",
+          "delivery": "6 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 29561,
+          "url": "https://www.flipkart.com/search?q=Samsung+Galaxy+A25+5G",
+          "delivery": "7 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "brand": "Samsung",
+      "name": "Galaxy M34 5G",
+      "price": 18999,
+      "image": "https://images.unsplash.com/photo-1567581935884-3349723552ca?w=400",
+      "category": "Smartphones",
+      "rating": 4.5,
+      "reviews": 6675,
+      "specs": "6.5\" AMOLED, Exynos 1280, 50MP Triple Camera, 128GB",
+      "sites": [
+        {
+          "name": "Amazon",
+          "price": 19871,
+          "url": "https://www.amazon.in/s?k=Samsung+Galaxy+M34+5G",
+          "delivery": "2 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 21031,
+          "url": "https://www.flipkart.com/search?q=Samsung+Galaxy+M34+5G",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 18465,
+          "url": "https://www.croma.com/search?q=Samsung+Galaxy+M34+5G",
+          "delivery": "7 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "brand": "OnePlus",
+      "name": "OnePlus 12",
+      "price": 64999,
+      "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=400",
+      "category": "Smartphones",
+      "rating": 4.7,
+      "reviews": 7736,
+      "specs": "6.82\" AMOLED, Snapdragon 8 Gen 3, 50MP Triple Camera, 256GB",
+      "sites": [
+        {
+          "name": "Croma",
+          "price": 65272,
+          "url": "https://www.croma.com/search?q=OnePlus+OnePlus+12",
+          "delivery": "6 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 66830,
+          "url": "https://www.amazon.in/s?k=OnePlus+OnePlus+12",
+          "delivery": "5 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 62991,
+          "url": "https://www.vijaysales.com/search?query=OnePlus+OnePlus+12",
+          "delivery": "2 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 59116,
+          "url": "https://www.flipkart.com/search?q=OnePlus+OnePlus+12",
+          "delivery": "7 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "brand": "OnePlus",
+      "name": "OnePlus 11R",
+      "price": 39999,
+      "image": "https://images.unsplash.com/photo-1603899122634-f086ca5f5ddd?w=400",
+      "category": "Smartphones",
+      "rating": 4.2,
+      "reviews": 2561,
+      "specs": "6.74\" AMOLED, Snapdragon 8+ Gen 1, 50MP Triple Camera, 128GB",
+      "sites": [
+        {
+          "name": "Amazon",
+          "price": 39754,
+          "url": "https://www.amazon.in/s?k=OnePlus+OnePlus+11R",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 43072,
+          "url": "https://www.vijaysales.com/search?query=OnePlus+OnePlus+11R",
+          "delivery": "3 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 39384,
+          "url": "https://www.croma.com/search?q=OnePlus+OnePlus+11R",
+          "delivery": "5 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "brand": "OnePlus",
+      "name": "Nord 4",
+      "price": 29999,
+      "image": "https://images.unsplash.com/phone-1052023_1920.jpg?w=400",
+      "category": "Smartphones",
+      "rating": 4.5,
+      "reviews": 1412,
+      "specs": "6.74\" AMOLED, Snapdragon 7+ Gen 3, 50MP Dual Camera, 128GB",
+      "sites": [
+        {
+          "name": "Croma",
+          "price": 31489,
+          "url": "https://www.croma.com/search?q=OnePlus+Nord+4",
+          "delivery": "7 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 27580,
+          "url": "https://www.flipkart.com/search?q=OnePlus+Nord+4",
+          "delivery": "2 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 33276,
+          "url": "https://www.amazon.in/s?k=OnePlus+Nord+4",
+          "delivery": "5 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "brand": "OnePlus",
+      "name": "Nord CE 4",
+      "price": 24999,
+      "image": "https://images.unsplash.com/photo-1571068316344-75bc76f77890?w=400",
+      "category": "Smartphones",
+      "rating": 4.3,
+      "reviews": 4909,
+      "specs": "6.7\" AMOLED, Snapdragon 7 Gen 3, 50MP Dual Camera, 128GB",
+      "sites": [
+        {
+          "name": "Amazon",
+          "price": 24163,
+          "url": "https://www.amazon.in/s?k=OnePlus+Nord+CE+4",
+          "delivery": "5 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 24714,
+          "url": "https://www.vijaysales.com/search?query=OnePlus+Nord+CE+4",
+          "delivery": "5 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 23059,
+          "url": "https://www.flipkart.com/search?q=OnePlus+Nord+CE+4",
+          "delivery": "6 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 22364,
+          "url": "https://www.croma.com/search?q=OnePlus+Nord+CE+4",
+          "delivery": "6 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "brand": "Xiaomi",
+      "name": "Xiaomi 14",
+      "price": 54999,
+      "image": "https://images.unsplash.com/photo-1596558450268-9c27524ba856?w=400",
+      "category": "Smartphones",
+      "rating": 4.5,
+      "reviews": 3482,
+      "specs": "6.36\" AMOLED, Snapdragon 8 Gen 3, 50MP Triple Camera, 256GB",
+      "sites": [
+        {
+          "name": "Flipkart",
+          "price": 50692,
+          "url": "https://www.flipkart.com/search?q=Xiaomi+Xiaomi+14",
+          "delivery": "7 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 48620,
+          "url": "https://www.vijaysales.com/search?query=Xiaomi+Xiaomi+14",
+          "delivery": "7 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 49347,
+          "url": "https://www.amazon.in/s?k=Xiaomi+Xiaomi+14",
+          "delivery": "5 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "brand": "Xiaomi",
+      "name": "Redmi Note 13 Pro+",
+      "price": 31999,
+      "image": "https://images.unsplash.com/photo-1520923642038-b4259acecbd7?w=400",
+      "category": "Smartphones",
+      "rating": 4.4,
+      "reviews": 807,
+      "specs": "6.67\" AMOLED, Dimensity 7200 Ultra, 200MP Triple Camera, 256GB",
+      "sites": [
+        {
+          "name": "Flipkart",
+          "price": 32539,
+          "url": "https://www.flipkart.com/search?q=Xiaomi+Redmi+Note+13+Pro+",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 30176,
+          "url": "https://www.amazon.in/s?k=Xiaomi+Redmi+Note+13+Pro+",
+          "delivery": "2 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 32933,
+          "url": "https://www.vijaysales.com/search?query=Xiaomi+Redmi+Note+13+Pro+",
+          "delivery": "4 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "brand": "Xiaomi",
+      "name": "Redmi Note 13 Pro",
+      "price": 24999,
+      "image": "https://images.unsplash.com/photo-1525598912003-663126343e1f?w=400",
+      "category": "Smartphones",
+      "rating": 4.5,
+      "reviews": 7139,
+      "specs": "6.67\" AMOLED, Snapdragon 7s Gen 2, 200MP Triple Camera, 128GB",
+      "sites": [
+        {
+          "name": "Croma",
+          "price": 25575,
+          "url": "https://www.croma.com/search?q=Xiaomi+Redmi+Note+13+Pro",
+          "delivery": "2 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 22787,
+          "url": "https://www.vijaysales.com/search?query=Xiaomi+Redmi+Note+13+Pro",
+          "delivery": "2 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 24752,
+          "url": "https://www.flipkart.com/search?q=Xiaomi+Redmi+Note+13+Pro",
+          "delivery": "3 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 24473,
+          "url": "https://www.amazon.in/s?k=Xiaomi+Redmi+Note+13+Pro",
+          "delivery": "6 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "brand": "Xiaomi",
+      "name": "Redmi Note 13",
+      "price": 17999,
+      "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400",
+      "category": "Smartphones",
+      "rating": 4.5,
+      "reviews": 2187,
+      "specs": "6.67\" AMOLED, Snapdragon 685, 108MP Triple Camera, 128GB",
+      "sites": [
+        {
+          "name": "Vijay Sales",
+          "price": 20110,
+          "url": "https://www.vijaysales.com/search?query=Xiaomi+Redmi+Note+13",
+          "delivery": "3 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 19953,
+          "url": "https://www.croma.com/search?q=Xiaomi+Redmi+Note+13",
+          "delivery": "6 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 18822,
+          "url": "https://www.amazon.in/s?k=Xiaomi+Redmi+Note+13",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 19796,
+          "url": "https://www.flipkart.com/search?q=Xiaomi+Redmi+Note+13",
+          "delivery": "6 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "brand": "Xiaomi",
+      "name": "POCO F6",
+      "price": 29999,
+      "image": "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?w=400",
+      "category": "Smartphones",
+      "rating": 4.7,
+      "reviews": 7176,
+      "specs": "6.67\" AMOLED, Snapdragon 8s Gen 3, 50MP Dual Camera, 256GB",
+      "sites": [
+        {
+          "name": "Amazon",
+          "price": 27154,
+          "url": "https://www.amazon.in/s?k=Xiaomi+POCO+F6",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 27780,
+          "url": "https://www.croma.com/search?q=Xiaomi+POCO+F6",
+          "delivery": "3 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 33186,
+          "url": "https://www.vijaysales.com/search?query=Xiaomi+POCO+F6",
+          "delivery": "5 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "brand": "Xiaomi",
+      "name": "POCO X6 Pro",
+      "price": 26999,
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400",
+      "category": "Smartphones",
+      "rating": 4.2,
+      "reviews": 1308,
+      "specs": "6.67\" AMOLED, Dimensity 8300 Ultra, 64MP Triple Camera, 256GB",
+      "sites": [
+        {
+          "name": "Vijay Sales",
+          "price": 25632,
+          "url": "https://www.vijaysales.com/search?query=Xiaomi+POCO+X6+Pro",
+          "delivery": "3 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 25814,
+          "url": "https://www.croma.com/search?q=Xiaomi+POCO+X6+Pro",
+          "delivery": "2 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 26560,
+          "url": "https://www.flipkart.com/search?q=Xiaomi+POCO+X6+Pro",
+          "delivery": "3 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "brand": "Xiaomi",
+      "name": "Redmi 13C",
+      "price": 10999,
+      "image": "https://images.unsplash.com/photo-1569198126259-342d9d95ca87?w=400",
+      "category": "Smartphones",
+      "rating": 4.1,
+      "reviews": 3590,
+      "specs": "6.74\" IPS, Helio G85, 50MP Triple Camera, 128GB",
+      "sites": [
+        {
+          "name": "Croma",
+          "price": 11161,
+          "url": "https://www.croma.com/search?q=Xiaomi+Redmi+13C",
+          "delivery": "4 days",
+          "shipping": "\u20b982"
+        },
+        {
+          "name": "Amazon",
+          "price": 10520,
+          "url": "https://www.amazon.in/s?k=Xiaomi+Redmi+13C",
+          "delivery": "3 days",
+          "shipping": "\u20b9112"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 11483,
+          "url": "https://www.vijaysales.com/search?query=Xiaomi+Redmi+13C",
+          "delivery": "2 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 11372,
+          "url": "https://www.flipkart.com/search?q=Xiaomi+Redmi+13C",
+          "delivery": "3 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "brand": "Google",
+      "name": "Pixel 8 Pro",
+      "price": 106999,
+      "image": "https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=400",
+      "category": "Smartphones",
+      "rating": 4.4,
+      "reviews": 5811,
+      "specs": "6.7\" OLED, Google Tensor G3, 50MP Triple Camera, 128GB",
+      "sites": [
+        {
+          "name": "Vijay Sales",
+          "price": 115164,
+          "url": "https://www.vijaysales.com/search?query=Google+Pixel+8+Pro",
+          "delivery": "7 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 106232,
+          "url": "https://www.croma.com/search?q=Google+Pixel+8+Pro",
+          "delivery": "3 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 98990,
+          "url": "https://www.flipkart.com/search?q=Google+Pixel+8+Pro",
+          "delivery": "7 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "brand": "Google",
+      "name": "Pixel 8a",
+      "price": 52999,
+      "image": "https://images.unsplash.com/photo-1574944985070-8f3ebc6b2d49?w=400",
+      "category": "Smartphones",
+      "rating": 4.3,
+      "reviews": 6586,
+      "specs": "6.1\" OLED, Google Tensor G3, 64MP Dual Camera, 128GB",
+      "sites": [
+        {
+          "name": "Flipkart",
+          "price": 47085,
+          "url": "https://www.flipkart.com/search?q=Google+Pixel+8a",
+          "delivery": "2 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 52340,
+          "url": "https://www.vijaysales.com/search?query=Google+Pixel+8a",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 55124,
+          "url": "https://www.croma.com/search?q=Google+Pixel+8a",
+          "delivery": "7 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 46875,
+          "url": "https://www.amazon.in/s?k=Google+Pixel+8a",
+          "delivery": "4 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "brand": "Google",
+      "name": "Pixel 7a",
+      "price": 43999,
+      "image": "https://images.unsplash.com/photo-1567581935884-3349723552ca?w=400",
+      "category": "Smartphones",
+      "rating": 4.3,
+      "reviews": 770,
+      "specs": "6.1\" OLED, Google Tensor G2, 64MP Dual Camera, 128GB",
+      "sites": [
+        {
+          "name": "Amazon",
+          "price": 46209,
+          "url": "https://www.amazon.in/s?k=Google+Pixel+7a",
+          "delivery": "7 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 40004,
+          "url": "https://www.vijaysales.com/search?query=Google+Pixel+7a",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 46064,
+          "url": "https://www.flipkart.com/search?q=Google+Pixel+7a",
+          "delivery": "6 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 41887,
+          "url": "https://www.croma.com/search?q=Google+Pixel+7a",
+          "delivery": "4 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "brand": "Realme",
+      "name": "Realme GT 6",
+      "price": 40999,
+      "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=400",
+      "category": "Smartphones",
+      "rating": 4.2,
+      "reviews": 5598,
+      "specs": "6.78\" AMOLED, Snapdragon 8s Gen 3, 50MP Triple Camera, 256GB",
+      "sites": [
+        {
+          "name": "Croma",
+          "price": 38306,
+          "url": "https://www.croma.com/search?q=Realme+Realme+GT+6",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 43814,
+          "url": "https://www.vijaysales.com/search?query=Realme+Realme+GT+6",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 42385,
+          "url": "https://www.amazon.in/s?k=Realme+Realme+GT+6",
+          "delivery": "5 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 44263,
+          "url": "https://www.flipkart.com/search?q=Realme+Realme+GT+6",
+          "delivery": "5 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "brand": "Realme",
+      "name": "Realme 12 Pro+",
+      "price": 29999,
+      "image": "https://images.unsplash.com/photo-1603899122634-f086ca5f5ddd?w=400",
+      "category": "Smartphones",
+      "rating": 4.2,
+      "reviews": 1606,
+      "specs": "6.7\" AMOLED, Snapdragon 7s Gen 2, 64MP Triple Camera, 256GB",
+      "sites": [
+        {
+          "name": "Amazon",
+          "price": 26822,
+          "url": "https://www.amazon.in/s?k=Realme+Realme+12+Pro+",
+          "delivery": "7 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 31895,
+          "url": "https://www.croma.com/search?q=Realme+Realme+12+Pro+",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 31744,
+          "url": "https://www.flipkart.com/search?q=Realme+Realme+12+Pro+",
+          "delivery": "5 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 30795,
+          "url": "https://www.vijaysales.com/search?query=Realme+Realme+12+Pro+",
+          "delivery": "7 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "brand": "Realme",
+      "name": "Realme 12 Pro",
+      "price": 25999,
+      "image": "https://images.unsplash.com/photo-1571068316344-75bc76f77890?w=400",
+      "category": "Smartphones",
+      "rating": 4.2,
+      "reviews": 6930,
+      "specs": "6.7\" AMOLED, Snapdragon 6 Gen 1, 50MP Triple Camera, 128GB",
+      "sites": [
+        {
+          "name": "Vijay Sales",
+          "price": 24824,
+          "url": "https://www.vijaysales.com/search?query=Realme+Realme+12+Pro",
+          "delivery": "7 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 28454,
+          "url": "https://www.amazon.in/s?k=Realme+Realme+12+Pro",
+          "delivery": "7 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 28406,
+          "url": "https://www.flipkart.com/search?q=Realme+Realme+12+Pro",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 26632,
+          "url": "https://www.croma.com/search?q=Realme+Realme+12+Pro",
+          "delivery": "6 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "brand": "Realme",
+      "name": "Realme C67",
+      "price": 13999,
+      "image": "https://images.unsplash.com/photo-1596558450268-9c27524ba856?w=400",
+      "category": "Smartphones",
+      "rating": 4.0,
+      "reviews": 7476,
+      "specs": "6.72\" IPS, Snapdragon 685, 108MP Dual Camera, 128GB",
+      "sites": [
+        {
+          "name": "Amazon",
+          "price": 15464,
+          "url": "https://www.amazon.in/s?k=Realme+Realme+C67",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 14076,
+          "url": "https://www.croma.com/search?q=Realme+Realme+C67",
+          "delivery": "5 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 14731,
+          "url": "https://www.flipkart.com/search?q=Realme+Realme+C67",
+          "delivery": "7 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "brand": "Vivo",
+      "name": "Vivo V30 Pro",
+      "price": 41999,
+      "image": "https://images.unsplash.com/photo-1520923642038-b4259acecbd7?w=400",
+      "category": "Smartphones",
+      "rating": 4.6,
+      "reviews": 3553,
+      "specs": "6.78\" AMOLED, Dimensity 8200, 50MP Triple Camera, 256GB",
+      "sites": [
+        {
+          "name": "Vijay Sales",
+          "price": 41819,
+          "url": "https://www.vijaysales.com/search?query=Vivo+Vivo+V30+Pro",
+          "delivery": "2 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 40602,
+          "url": "https://www.flipkart.com/search?q=Vivo+Vivo+V30+Pro",
+          "delivery": "6 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 42982,
+          "url": "https://www.amazon.in/s?k=Vivo+Vivo+V30+Pro",
+          "delivery": "5 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 42544,
+          "url": "https://www.croma.com/search?q=Vivo+Vivo+V30+Pro",
+          "delivery": "7 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "brand": "Vivo",
+      "name": "Vivo T3 5G",
+      "price": 19999,
+      "image": "https://images.unsplash.com/photo-1525598912003-663126343e1f?w=400",
+      "category": "Smartphones",
+      "rating": 4.2,
+      "reviews": 5378,
+      "specs": "6.67\" AMOLED, Dimensity 7200, 50MP Dual Camera, 128GB",
+      "sites": [
+        {
+          "name": "Flipkart",
+          "price": 19658,
+          "url": "https://www.flipkart.com/search?q=Vivo+Vivo+T3+5G",
+          "delivery": "7 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 19064,
+          "url": "https://www.croma.com/search?q=Vivo+Vivo+T3+5G",
+          "delivery": "6 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 21066,
+          "url": "https://www.vijaysales.com/search?query=Vivo+Vivo+T3+5G",
+          "delivery": "6 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 19637,
+          "url": "https://www.amazon.in/s?k=Vivo+Vivo+T3+5G",
+          "delivery": "5 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "brand": "Vivo",
+      "name": "iQOO Neo 9 Pro",
+      "price": 35999,
+      "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400",
+      "category": "Smartphones",
+      "rating": 4.4,
+      "reviews": 540,
+      "specs": "6.78\" AMOLED, Snapdragon 8 Gen 2, 50MP Dual Camera, 256GB",
+      "sites": [
+        {
+          "name": "Croma",
+          "price": 39502,
+          "url": "https://www.croma.com/search?q=Vivo+iQOO+Neo+9+Pro",
+          "delivery": "3 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 35608,
+          "url": "https://www.flipkart.com/search?q=Vivo+iQOO+Neo+9+Pro",
+          "delivery": "3 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 40201,
+          "url": "https://www.amazon.in/s?k=Vivo+iQOO+Neo+9+Pro",
+          "delivery": "4 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "brand": "Nothing",
+      "name": "Nothing Phone 2a",
+      "price": 25999,
+      "image": "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?w=400",
+      "category": "Smartphones",
+      "rating": 4.6,
+      "reviews": 5623,
+      "specs": "6.7\" AMOLED, Dimensity 7200 Pro, 50MP Dual Camera, 128GB",
+      "sites": [
+        {
+          "name": "Croma",
+          "price": 27025,
+          "url": "https://www.croma.com/search?q=Nothing+Nothing+Phone+2a",
+          "delivery": "7 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 28158,
+          "url": "https://www.vijaysales.com/search?query=Nothing+Nothing+Phone+2a",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 25736,
+          "url": "https://www.flipkart.com/search?q=Nothing+Nothing+Phone+2a",
+          "delivery": "3 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 23336,
+          "url": "https://www.amazon.in/s?k=Nothing+Nothing+Phone+2a",
+          "delivery": "5 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "brand": "Motorola",
+      "name": "Moto Edge 50 Pro",
+      "price": 31999,
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400",
+      "category": "Smartphones",
+      "rating": 4.8,
+      "reviews": 7726,
+      "specs": "6.7\" pOLED, Snapdragon 7 Gen 3, 50MP Triple Camera, 256GB",
+      "sites": [
+        {
+          "name": "Flipkart",
+          "price": 29183,
+          "url": "https://www.flipkart.com/search?q=Motorola+Moto+Edge+50+Pro",
+          "delivery": "5 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 31482,
+          "url": "https://www.croma.com/search?q=Motorola+Moto+Edge+50+Pro",
+          "delivery": "6 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 30355,
+          "url": "https://www.vijaysales.com/search?query=Motorola+Moto+Edge+50+Pro",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 31218,
+          "url": "https://www.amazon.in/s?k=Motorola+Moto+Edge+50+Pro",
+          "delivery": "3 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "brand": "Motorola",
+      "name": "Moto G85 5G",
+      "price": 17999,
+      "image": "https://images.unsplash.com/photo-1569198126259-342d9d95ca87?w=400",
+      "category": "Smartphones",
+      "rating": 4.2,
+      "reviews": 2686,
+      "specs": "6.67\" pOLED, Snapdragon 6s Gen 3, 50MP Dual Camera, 128GB",
+      "sites": [
+        {
+          "name": "Amazon",
+          "price": 16146,
+          "url": "https://www.amazon.in/s?k=Motorola+Moto+G85+5G",
+          "delivery": "5 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 16663,
+          "url": "https://www.croma.com/search?q=Motorola+Moto+G85+5G",
+          "delivery": "6 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 16903,
+          "url": "https://www.vijaysales.com/search?query=Motorola+Moto+G85+5G",
+          "delivery": "3 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "brand": "Sony",
+      "name": "WH-1000XM5",
+      "price": 29990,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
+      "category": "Headphones",
+      "rating": 4.3,
+      "reviews": 2658,
+      "specs": "Noise Cancelling, 30hr Battery, Hi-Res Audio",
+      "sites": [
+        {
+          "name": "Flipkart",
+          "price": 29478,
+          "url": "https://www.flipkart.com/search?q=Sony+WH-1000XM5",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 28069,
+          "url": "https://www.croma.com/search?q=Sony+WH-1000XM5",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 27805,
+          "url": "https://www.amazon.in/s?k=Sony+WH-1000XM5",
+          "delivery": "4 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "brand": "Bose",
+      "name": "QuietComfort 45",
+      "price": 32900,
+      "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=400",
+      "category": "Headphones",
+      "rating": 4.2,
+      "reviews": 4416,
+      "specs": "Active Noise Cancelling, 24hr Battery, Bluetooth 5.1",
+      "sites": [
+        {
+          "name": "Croma",
+          "price": 32643,
+          "url": "https://www.croma.com/search?q=Bose+QuietComfort+45",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 35208,
+          "url": "https://www.vijaysales.com/search?query=Bose+QuietComfort+45",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 29119,
+          "url": "https://www.flipkart.com/search?q=Bose+QuietComfort+45",
+          "delivery": "6 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 31089,
+          "url": "https://www.amazon.in/s?k=Bose+QuietComfort+45",
+          "delivery": "5 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "brand": "Apple",
+      "name": "AirPods Pro 2",
+      "price": 24900,
+      "image": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?w=400",
+      "category": "Headphones",
+      "rating": 4.3,
+      "reviews": 4353,
+      "specs": "Active Noise Cancelling, Spatial Audio, 6hr Battery",
+      "sites": [
+        {
+          "name": "Vijay Sales",
+          "price": 25129,
+          "url": "https://www.vijaysales.com/search?query=Apple+AirPods+Pro+2",
+          "delivery": "6 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 21934,
+          "url": "https://www.amazon.in/s?k=Apple+AirPods+Pro+2",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 23925,
+          "url": "https://www.croma.com/search?q=Apple+AirPods+Pro+2",
+          "delivery": "6 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "brand": "Sennheiser",
+      "name": "Momentum 4",
+      "price": 34990,
+      "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=400",
+      "category": "Headphones",
+      "rating": 4.3,
+      "reviews": 2428,
+      "specs": "Audiophile Sound, 60hr Battery, Adaptive ANC",
+      "sites": [
+        {
+          "name": "Amazon",
+          "price": 35936,
+          "url": "https://www.amazon.in/s?k=Sennheiser+Momentum+4",
+          "delivery": "2 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 34449,
+          "url": "https://www.croma.com/search?q=Sennheiser+Momentum+4",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 37793,
+          "url": "https://www.flipkart.com/search?q=Sennheiser+Momentum+4",
+          "delivery": "6 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 39059,
+          "url": "https://www.vijaysales.com/search?query=Sennheiser+Momentum+4",
+          "delivery": "2 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "brand": "Audio-Technica",
+      "name": "ATH-M50xBT2",
+      "price": 15990,
+      "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=400",
+      "category": "Headphones",
+      "rating": 3.8,
+      "reviews": 3017,
+      "specs": "Studio Monitor, 50hr Battery, Wireless & Wired",
+      "sites": [
+        {
+          "name": "Croma",
+          "price": 15966,
+          "url": "https://www.croma.com/search?q=Audio-Technica+ATH-M50xBT2",
+          "delivery": "7 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 15371,
+          "url": "https://www.flipkart.com/search?q=Audio-Technica+ATH-M50xBT2",
+          "delivery": "3 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 15749,
+          "url": "https://www.amazon.in/s?k=Audio-Technica+ATH-M50xBT2",
+          "delivery": "3 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 15997,
+          "url": "https://www.vijaysales.com/search?query=Audio-Technica+ATH-M50xBT2",
+          "delivery": "7 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "brand": "JBL",
+      "name": "Live 660NC",
+      "price": 9999,
+      "image": "https://images.unsplash.com/photo-1487215078519-e21cc028cb29?w=400",
+      "category": "Headphones",
+      "rating": 4.7,
+      "reviews": 4486,
+      "specs": "Noise Cancelling, 50hr Battery, JBL Signature Sound",
+      "sites": [
+        {
+          "name": "Vijay Sales",
+          "price": 9931,
+          "url": "https://www.vijaysales.com/search?query=JBL+Live+660NC",
+          "delivery": "7 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 10050,
+          "url": "https://www.flipkart.com/search?q=JBL+Live+660NC",
+          "delivery": "6 days",
+          "shipping": "\u20b997"
+        },
+        {
+          "name": "Croma",
+          "price": 9294,
+          "url": "https://www.croma.com/search?q=JBL+Live+660NC",
+          "delivery": "3 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "brand": "Sony",
+      "name": "WH-CH720N",
+      "price": 8990,
+      "image": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=400",
+      "category": "Headphones",
+      "rating": 4.2,
+      "reviews": 4409,
+      "specs": "Noise Cancelling, 35hr Battery, Quick Charge",
+      "sites": [
+        {
+          "name": "Flipkart",
+          "price": 8056,
+          "url": "https://www.flipkart.com/search?q=Sony+WH-CH720N",
+          "delivery": "6 days",
+          "shipping": "\u20b972"
+        },
+        {
+          "name": "Croma",
+          "price": 9841,
+          "url": "https://www.croma.com/search?q=Sony+WH-CH720N",
+          "delivery": "7 days",
+          "shipping": "\u20b985"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 9184,
+          "url": "https://www.vijaysales.com/search?query=Sony+WH-CH720N",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 10022,
+          "url": "https://www.amazon.in/s?k=Sony+WH-CH720N",
+          "delivery": "6 days",
+          "shipping": "\u20b9107"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "brand": "JBL",
+      "name": "Tune 770NC",
+      "price": 7999,
+      "image": "https://images.unsplash.com/photo-1545127398-14699f92334b?w=400",
+      "category": "Headphones",
+      "rating": 4.2,
+      "reviews": 1976,
+      "specs": "Active Noise Cancelling, 70hr Battery, Lightweight",
+      "sites": [
+        {
+          "name": "Vijay Sales",
+          "price": 8331,
+          "url": "https://www.vijaysales.com/search?query=JBL+Tune+770NC",
+          "delivery": "5 days",
+          "shipping": "\u20b9105"
+        },
+        {
+          "name": "Croma",
+          "price": 7836,
+          "url": "https://www.croma.com/search?q=JBL+Tune+770NC",
+          "delivery": "7 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 7347,
+          "url": "https://www.amazon.in/s?k=JBL+Tune+770NC",
+          "delivery": "5 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 8825,
+          "url": "https://www.flipkart.com/search?q=JBL+Tune+770NC",
+          "delivery": "4 days",
+          "shipping": "\u20b973"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "brand": "Skullcandy",
+      "name": "Crusher Evo",
+      "price": 12999,
+      "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=400",
+      "category": "Headphones",
+      "rating": 4.0,
+      "reviews": 848,
+      "specs": "Sensory Bass, 40hr Battery, Personal Sound",
+      "sites": [
+        {
+          "name": "Vijay Sales",
+          "price": 13704,
+          "url": "https://www.vijaysales.com/search?query=Skullcandy+Crusher+Evo",
+          "delivery": "5 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 13701,
+          "url": "https://www.amazon.in/s?k=Skullcandy+Crusher+Evo",
+          "delivery": "5 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 14244,
+          "url": "https://www.flipkart.com/search?q=Skullcandy+Crusher+Evo",
+          "delivery": "7 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "brand": "Boat",
+      "name": "Rockerz 550",
+      "price": 1999,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
+      "category": "Headphones",
+      "rating": 4.6,
+      "reviews": 2323,
+      "specs": "20hr Battery, Physical Noise Isolation, Bluetooth 5.0",
+      "sites": [
+        {
+          "name": "Flipkart",
+          "price": 1790,
+          "url": "https://www.flipkart.com/search?q=Boat+Rockerz+550",
+          "delivery": "5 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 1786,
+          "url": "https://www.vijaysales.com/search?query=Boat+Rockerz+550",
+          "delivery": "3 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 2193,
+          "url": "https://www.croma.com/search?q=Boat+Rockerz+550",
+          "delivery": "2 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "brand": "Realme",
+      "name": "Buds Air 6 Pro",
+      "price": 4999,
+      "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=400",
+      "category": "Headphones",
+      "rating": 4.6,
+      "reviews": 2425,
+      "specs": "50dB ANC, 38hr Battery, 12.4mm Driver",
+      "sites": [
+        {
+          "name": "Amazon",
+          "price": 4707,
+          "url": "https://www.amazon.in/s?k=Realme+Buds+Air+6+Pro",
+          "delivery": "5 days",
+          "shipping": "\u20b964"
+        },
+        {
+          "name": "Flipkart",
+          "price": 5513,
+          "url": "https://www.flipkart.com/search?q=Realme+Buds+Air+6+Pro",
+          "delivery": "7 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 4863,
+          "url": "https://www.croma.com/search?q=Realme+Buds+Air+6+Pro",
+          "delivery": "7 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 5382,
+          "url": "https://www.vijaysales.com/search?query=Realme+Buds+Air+6+Pro",
+          "delivery": "6 days",
+          "shipping": "\u20b982"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "brand": "OnePlus",
+      "name": "Buds 3",
+      "price": 5499,
+      "image": "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?w=400",
+      "category": "Headphones",
+      "rating": 4.0,
+      "reviews": 1812,
+      "specs": "49dB ANC, 44hr Battery, Dolby Atmos",
+      "sites": [
+        {
+          "name": "Croma",
+          "price": 5100,
+          "url": "https://www.croma.com/search?q=OnePlus+Buds+3",
+          "delivery": "3 days",
+          "shipping": "\u20b9118"
+        },
+        {
+          "name": "Flipkart",
+          "price": 5129,
+          "url": "https://www.flipkart.com/search?q=OnePlus+Buds+3",
+          "delivery": "4 days",
+          "shipping": "\u20b966"
+        },
+        {
+          "name": "Amazon",
+          "price": 5842,
+          "url": "https://www.amazon.in/s?k=OnePlus+Buds+3",
+          "delivery": "5 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "brand": "Boat",
+      "name": "Airdopes 800",
+      "price": 2999,
+      "image": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=400",
+      "category": "Headphones",
+      "rating": 4.0,
+      "reviews": 1526,
+      "specs": "ENx Technology, 40hr Battery, Beast Mode Gaming",
+      "sites": [
+        {
+          "name": "Vijay Sales",
+          "price": 2797,
+          "url": "https://www.vijaysales.com/search?query=Boat+Airdopes+800",
+          "delivery": "7 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 2942,
+          "url": "https://www.flipkart.com/search?q=Boat+Airdopes+800",
+          "delivery": "7 days",
+          "shipping": "\u20b9112"
+        },
+        {
+          "name": "Amazon",
+          "price": 2809,
+          "url": "https://www.amazon.in/s?k=Boat+Airdopes+800",
+          "delivery": "3 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 2855,
+          "url": "https://www.croma.com/search?q=Boat+Airdopes+800",
+          "delivery": "3 days",
+          "shipping": "\u20b958"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "brand": "Noise",
+      "name": "Buds VS402",
+      "price": 1499,
+      "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=400",
+      "category": "Headphones",
+      "rating": 4.6,
+      "reviews": 4187,
+      "specs": "32dB ANC, 50hr Battery, Quad Mic ENC",
+      "sites": [
+        {
+          "name": "Croma",
+          "price": 1367,
+          "url": "https://www.croma.com/search?q=Noise+Buds+VS402",
+          "delivery": "7 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 1615,
+          "url": "https://www.amazon.in/s?k=Noise+Buds+VS402",
+          "delivery": "2 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 1651,
+          "url": "https://www.vijaysales.com/search?query=Noise+Buds+VS402",
+          "delivery": "6 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "brand": "Zebronics",
+      "name": "Zeb-Duke",
+      "price": 899,
+      "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=400",
+      "category": "Headphones",
+      "rating": 4.2,
+      "reviews": 2865,
+      "specs": "16hr Battery, Voice Assistant, Touch Controls",
+      "sites": [
+        {
+          "name": "Flipkart",
+          "price": 964,
+          "url": "https://www.flipkart.com/search?q=Zebronics+Zeb-Duke",
+          "delivery": "3 days",
+          "shipping": "\u20b952"
+        },
+        {
+          "name": "Croma",
+          "price": 837,
+          "url": "https://www.croma.com/search?q=Zebronics+Zeb-Duke",
+          "delivery": "5 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 966,
+          "url": "https://www.amazon.in/s?k=Zebronics+Zeb-Duke",
+          "delivery": "2 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "brand": "Logitech",
+      "name": "G502 Hero",
+      "price": 4495,
+      "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=400",
+      "category": "Gaming",
+      "rating": 4.2,
+      "reviews": 1686,
+      "specs": "25600 DPI, 11 Programmable Buttons, RGB Lighting",
+      "sites": [
+        {
+          "name": "Amazon",
+          "price": 3988,
+          "url": "https://www.amazon.in/s?k=Logitech+G502+Hero",
+          "delivery": "3 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 4475,
+          "url": "https://www.flipkart.com/search?q=Logitech+G502+Hero",
+          "delivery": "5 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 4305,
+          "url": "https://www.croma.com/search?q=Logitech+G502+Hero",
+          "delivery": "4 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "brand": "Razer",
+      "name": "DeathAdder V3",
+      "price": 6999,
+      "image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=400",
+      "category": "Gaming",
+      "rating": 4.4,
+      "reviews": 1005,
+      "specs": "30000 DPI, Focus Pro Sensor, Ergonomic Design",
+      "sites": [
+        {
+          "name": "Amazon",
+          "price": 7623,
+          "url": "https://www.amazon.in/s?k=Razer+DeathAdder+V3",
+          "delivery": "6 days",
+          "shipping": "\u20b996"
+        },
+        {
+          "name": "Flipkart",
+          "price": 6781,
+          "url": "https://www.flipkart.com/search?q=Razer+DeathAdder+V3",
+          "delivery": "7 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 7475,
+          "url": "https://www.croma.com/search?q=Razer+DeathAdder+V3",
+          "delivery": "7 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "brand": "Corsair",
+      "name": "M65 RGB Elite",
+      "price": 5999,
+      "image": "https://images.unsplash.com/photo-1541140532154-b024d705b90a?w=400",
+      "category": "Gaming",
+      "rating": 4.1,
+      "reviews": 1743,
+      "specs": "18000 DPI, Adjustable Weight, Sniper Button",
+      "sites": [
+        {
+          "name": "Croma",
+          "price": 5455,
+          "url": "https://www.croma.com/search?q=Corsair+M65+RGB+Elite",
+          "delivery": "2 days",
+          "shipping": "\u20b995"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 6423,
+          "url": "https://www.vijaysales.com/search?query=Corsair+M65+RGB+Elite",
+          "delivery": "3 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 6421,
+          "url": "https://www.flipkart.com/search?q=Corsair+M65+RGB+Elite",
+          "delivery": "2 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "brand": "SteelSeries",
+      "name": "Rival 650",
+      "price": 7499,
+      "image": "https://images.unsplash.com/photo-1563297007-0686b7003af7?w=400",
+      "category": "Gaming",
+      "rating": 4.1,
+      "reviews": 2085,
+      "specs": "TrueMove3+ Sensor, Dual Sensor, Weight Tuning",
+      "sites": [
+        {
+          "name": "Flipkart",
+          "price": 7137,
+          "url": "https://www.flipkart.com/search?q=SteelSeries+Rival+650",
+          "delivery": "7 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 7944,
+          "url": "https://www.vijaysales.com/search?query=SteelSeries+Rival+650",
+          "delivery": "4 days",
+          "shipping": "\u20b9103"
+        },
+        {
+          "name": "Amazon",
+          "price": 7133,
+          "url": "https://www.amazon.in/s?k=SteelSeries+Rival+650",
+          "delivery": "2 days",
+          "shipping": "\u20b952"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "brand": "HyperX",
+      "name": "Pulsefire Haste",
+      "price": 3999,
+      "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=400",
+      "category": "Gaming",
+      "rating": 4.6,
+      "reviews": 1534,
+      "specs": "16000 DPI, Ultra-lightweight, Hex Shell Design",
+      "sites": [
+        {
+          "name": "Croma",
+          "price": 4409,
+          "url": "https://www.croma.com/search?q=HyperX+Pulsefire+Haste",
+          "delivery": "6 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 4360,
+          "url": "https://www.vijaysales.com/search?query=HyperX+Pulsefire+Haste",
+          "delivery": "7 days",
+          "shipping": "\u20b972"
+        },
+        {
+          "name": "Flipkart",
+          "price": 4243,
+          "url": "https://www.flipkart.com/search?q=HyperX+Pulsefire+Haste",
+          "delivery": "5 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 4063,
+          "url": "https://www.amazon.in/s?k=HyperX+Pulsefire+Haste",
+          "delivery": "7 days",
+          "shipping": "\u20b971"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "brand": "Corsair",
+      "name": "K95 RGB Platinum",
+      "price": 18999,
+      "image": "https://images.unsplash.com/photo-1541140532154-b024d705b90a?w=400",
+      "category": "Gaming",
+      "rating": 4.5,
+      "reviews": 3376,
+      "specs": "Cherry MX Switches, Per-Key RGB, Aircraft-Grade Aluminum",
+      "sites": [
+        {
+          "name": "Amazon",
+          "price": 20104,
+          "url": "https://www.amazon.in/s?k=Corsair+K95+RGB+Platinum",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 20641,
+          "url": "https://www.flipkart.com/search?q=Corsair+K95+RGB+Platinum",
+          "delivery": "5 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 19351,
+          "url": "https://www.croma.com/search?q=Corsair+K95+RGB+Platinum",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 18553,
+          "url": "https://www.vijaysales.com/search?query=Corsair+K95+RGB+Platinum",
+          "delivery": "7 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "brand": "Razer",
+      "name": "Huntsman V2",
+      "price": 16999,
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=400",
+      "category": "Gaming",
+      "rating": 4.4,
+      "reviews": 1397,
+      "specs": "Optical Switches, Doubleshot PBT, Multi-Function Roller",
+      "sites": [
+        {
+          "name": "Croma",
+          "price": 18488,
+          "url": "https://www.croma.com/search?q=Razer+Huntsman+V2",
+          "delivery": "7 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 17613,
+          "url": "https://www.vijaysales.com/search?query=Razer+Huntsman+V2",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 16504,
+          "url": "https://www.amazon.in/s?k=Razer+Huntsman+V2",
+          "delivery": "4 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "brand": "Logitech",
+      "name": "G915 TKL",
+      "price": 22999,
+      "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400",
+      "category": "Gaming",
+      "rating": 4.4,
+      "reviews": 2870,
+      "specs": "GL Tactile Switches, Wireless, Low Profile Design",
+      "sites": [
+        {
+          "name": "Croma",
+          "price": 21821,
+          "url": "https://www.croma.com/search?q=Logitech+G915+TKL",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 25268,
+          "url": "https://www.flipkart.com/search?q=Logitech+G915+TKL",
+          "delivery": "7 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 23801,
+          "url": "https://www.amazon.in/s?k=Logitech+G915+TKL",
+          "delivery": "6 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 20949,
+          "url": "https://www.vijaysales.com/search?query=Logitech+G915+TKL",
+          "delivery": "7 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "brand": "SteelSeries",
+      "name": "Apex Pro",
+      "price": 24999,
+      "image": "https://images.unsplash.com/photo-1541140532154-b024d705b90a?w=400",
+      "category": "Gaming",
+      "rating": 4.2,
+      "reviews": 1725,
+      "specs": "OmniPoint Adjustable, OLED Display, Magnetic Wrist Rest",
+      "sites": [
+        {
+          "name": "Vijay Sales",
+          "price": 27939,
+          "url": "https://www.vijaysales.com/search?query=SteelSeries+Apex+Pro",
+          "delivery": "3 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 25721,
+          "url": "https://www.flipkart.com/search?q=SteelSeries+Apex+Pro",
+          "delivery": "5 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 27467,
+          "url": "https://www.croma.com/search?q=SteelSeries+Apex+Pro",
+          "delivery": "7 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "brand": "HyperX",
+      "name": "Alloy Origins",
+      "price": 8999,
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=400",
+      "category": "Gaming",
+      "rating": 4.1,
+      "reviews": 3668,
+      "specs": "HyperX Red Switches, RGB Lighting, Compact Design",
+      "sites": [
+        {
+          "name": "Amazon",
+          "price": 8118,
+          "url": "https://www.amazon.in/s?k=HyperX+Alloy+Origins",
+          "delivery": "7 days",
+          "shipping": "\u20b948"
+        },
+        {
+          "name": "Flipkart",
+          "price": 9356,
+          "url": "https://www.flipkart.com/search?q=HyperX+Alloy+Origins",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 8713,
+          "url": "https://www.croma.com/search?q=HyperX+Alloy+Origins",
+          "delivery": "5 days",
+          "shipping": "\u20b9111"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 9605,
+          "url": "https://www.vijaysales.com/search?query=HyperX+Alloy+Origins",
+          "delivery": "2 days",
+          "shipping": "\u20b999"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "brand": "SteelSeries",
+      "name": "Arctis 7P",
+      "price": 14999,
+      "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=400",
+      "category": "Gaming",
+      "rating": 4.5,
+      "reviews": 561,
+      "specs": "2.4GHz Wireless, DTS Headphone:X, 24hr Battery",
+      "sites": [
+        {
+          "name": "Vijay Sales",
+          "price": 16430,
+          "url": "https://www.vijaysales.com/search?query=SteelSeries+Arctis+7P",
+          "delivery": "5 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 13303,
+          "url": "https://www.croma.com/search?q=SteelSeries+Arctis+7P",
+          "delivery": "7 days",
+          "shipping": "\u20b968"
+        },
+        {
+          "name": "Amazon",
+          "price": 13437,
+          "url": "https://www.amazon.in/s?k=SteelSeries+Arctis+7P",
+          "delivery": "2 days",
+          "shipping": "\u20b982"
+        },
+        {
+          "name": "Flipkart",
+          "price": 15033,
+          "url": "https://www.flipkart.com/search?q=SteelSeries+Arctis+7P",
+          "delivery": "4 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "brand": "HyperX",
+      "name": "Cloud Alpha",
+      "price": 9999,
+      "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=400",
+      "category": "Gaming",
+      "rating": 4.0,
+      "reviews": 724,
+      "specs": "Dual Chamber Drivers, Detachable Mic, Aluminum Frame",
+      "sites": [
+        {
+          "name": "Croma",
+          "price": 8928,
+          "url": "https://www.croma.com/search?q=HyperX+Cloud+Alpha",
+          "delivery": "2 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 10074,
+          "url": "https://www.amazon.in/s?k=HyperX+Cloud+Alpha",
+          "delivery": "2 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 9370,
+          "url": "https://www.vijaysales.com/search?query=HyperX+Cloud+Alpha",
+          "delivery": "6 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 9059,
+          "url": "https://www.flipkart.com/search?q=HyperX+Cloud+Alpha",
+          "delivery": "5 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "brand": "Logitech",
+      "name": "G733 Lightspeed",
+      "price": 12999,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
+      "category": "Gaming",
+      "rating": 4.6,
+      "reviews": 1982,
+      "specs": "Wireless Gaming, Blue VO!CE Filters, RGB Lighting",
+      "sites": [
+        {
+          "name": "Flipkart",
+          "price": 13822,
+          "url": "https://www.flipkart.com/search?q=Logitech+G733+Lightspeed",
+          "delivery": "7 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 13889,
+          "url": "https://www.vijaysales.com/search?query=Logitech+G733+Lightspeed",
+          "delivery": "3 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 11763,
+          "url": "https://www.croma.com/search?q=Logitech+G733+Lightspeed",
+          "delivery": "6 days",
+          "shipping": "\u20b982"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "brand": "Razer",
+      "name": "BlackShark V2",
+      "price": 8999,
+      "image": "https://images.unsplash.com/photo-1487215078519-e21cc028cb29?w=400",
+      "category": "Gaming",
+      "rating": 4.5,
+      "reviews": 689,
+      "specs": "THX 7.1 Surround, 50mm Drivers, Noise Isolation",
+      "sites": [
+        {
+          "name": "Flipkart",
+          "price": 9370,
+          "url": "https://www.flipkart.com/search?q=Razer+BlackShark+V2",
+          "delivery": "6 days",
+          "shipping": "\u20b9117"
+        },
+        {
+          "name": "Amazon",
+          "price": 9809,
+          "url": "https://www.amazon.in/s?k=Razer+BlackShark+V2",
+          "delivery": "5 days",
+          "shipping": "\u20b951"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 8003,
+          "url": "https://www.vijaysales.com/search?query=Razer+BlackShark+V2",
+          "delivery": "2 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "brand": "Corsair",
+      "name": "HS80 RGB Wireless",
+      "price": 11999,
+      "image": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=400",
+      "category": "Gaming",
+      "rating": 4.5,
+      "reviews": 2387,
+      "specs": "Dolby Atmos, 60ft Range, 20hr Battery",
+      "sites": [
+        {
+          "name": "Vijay Sales",
+          "price": 11145,
+          "url": "https://www.vijaysales.com/search?query=Corsair+HS80+RGB+Wireless",
+          "delivery": "3 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 11179,
+          "url": "https://www.croma.com/search?q=Corsair+HS80+RGB+Wireless",
+          "delivery": "6 days",
+          "shipping": "\u20b9106"
+        },
+        {
+          "name": "Flipkart",
+          "price": 12822,
+          "url": "https://www.flipkart.com/search?q=Corsair+HS80+RGB+Wireless",
+          "delivery": "2 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 11902,
+          "url": "https://www.amazon.in/s?k=Corsair+HS80+RGB+Wireless",
+          "delivery": "5 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "brand": "Cosmic Byte",
+      "name": "Callisto",
+      "price": 2499,
+      "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=400",
+      "category": "Gaming",
+      "rating": 4.3,
+      "reviews": 2587,
+      "specs": "RGB Backlit, Anti-Ghosting, Membrane Switches",
+      "sites": [
+        {
+          "name": "Flipkart",
+          "price": 2242,
+          "url": "https://www.flipkart.com/search?q=Cosmic+Byte+Callisto",
+          "delivery": "7 days",
+          "shipping": "\u20b9108"
+        },
+        {
+          "name": "Croma",
+          "price": 2451,
+          "url": "https://www.croma.com/search?q=Cosmic+Byte+Callisto",
+          "delivery": "5 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 2399,
+          "url": "https://www.vijaysales.com/search?query=Cosmic+Byte+Callisto",
+          "delivery": "4 days",
+          "shipping": "\u20b9120"
+        },
+        {
+          "name": "Amazon",
+          "price": 2276,
+          "url": "https://www.amazon.in/s?k=Cosmic+Byte+Callisto",
+          "delivery": "6 days",
+          "shipping": "\u20b973"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "brand": "Zebronics",
+      "name": "Zeb-Transformer",
+      "price": 1999,
+      "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=400",
+      "category": "Gaming",
+      "rating": 4.3,
+      "reviews": 3591,
+      "specs": "4000 DPI, 6 Buttons, RGB Lighting",
+      "sites": [
+        {
+          "name": "Amazon",
+          "price": 1782,
+          "url": "https://www.amazon.in/s?k=Zebronics+Zeb-Transformer",
+          "delivery": "7 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 1983,
+          "url": "https://www.croma.com/search?q=Zebronics+Zeb-Transformer",
+          "delivery": "5 days",
+          "shipping": "\u20b954"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 1806,
+          "url": "https://www.vijaysales.com/search?query=Zebronics+Zeb-Transformer",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 2224,
+          "url": "https://www.flipkart.com/search?q=Zebronics+Zeb-Transformer",
+          "delivery": "3 days",
+          "shipping": "\u20b9104"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "brand": "Redgear",
+      "name": "A-15",
+      "price": 1299,
+      "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400",
+      "category": "Gaming",
+      "rating": 4.2,
+      "reviews": 3977,
+      "specs": "Membrane Keys, Multimedia Keys, Spill Resistant",
+      "sites": [
+        {
+          "name": "Amazon",
+          "price": 1383,
+          "url": "https://www.amazon.in/s?k=Redgear+A-15",
+          "delivery": "6 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 1454,
+          "url": "https://www.flipkart.com/search?q=Redgear+A-15",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 1449,
+          "url": "https://www.croma.com/search?q=Redgear+A-15",
+          "delivery": "5 days",
+          "shipping": "\u20b9112"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 1243,
+          "url": "https://www.vijaysales.com/search?query=Redgear+A-15",
+          "delivery": "2 days",
+          "shipping": "\u20b947"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "brand": "Apple",
+      "name": "Apple Watch Series 10",
+      "price": 46900,
+      "image": "https://images.unsplash.com/photo-1544117519-31a4b719223d?w=400",
+      "category": "Smartwatches",
+      "rating": 4.5,
+      "reviews": 4235,
+      "specs": "S10 Chip, ECG, Blood Oxygen, 18hr Battery",
+      "sites": [
+        {
+          "name": "Croma",
+          "price": 45369,
+          "url": "https://www.croma.com/search?q=Apple+Apple+Watch+Series+10",
+          "delivery": "6 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 47804,
+          "url": "https://www.amazon.in/s?k=Apple+Apple+Watch+Series+10",
+          "delivery": "6 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 46190,
+          "url": "https://www.vijaysales.com/search?query=Apple+Apple+Watch+Series+10",
+          "delivery": "6 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 43173,
+          "url": "https://www.flipkart.com/search?q=Apple+Apple+Watch+Series+10",
+          "delivery": "6 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "brand": "Apple",
+      "name": "Apple Watch Ultra 2",
+      "price": 89900,
+      "image": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=400",
+      "category": "Smartwatches",
+      "rating": 4.4,
+      "reviews": 4780,
+      "specs": "Titanium Case, Action Button, 72hr Battery, GPS",
+      "sites": [
+        {
+          "name": "Vijay Sales",
+          "price": 97979,
+          "url": "https://www.vijaysales.com/search?query=Apple+Apple+Watch+Ultra+2",
+          "delivery": "3 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 94989,
+          "url": "https://www.croma.com/search?q=Apple+Apple+Watch+Ultra+2",
+          "delivery": "5 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 80407,
+          "url": "https://www.flipkart.com/search?q=Apple+Apple+Watch+Ultra+2",
+          "delivery": "6 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "brand": "Samsung",
+      "name": "Galaxy Watch 7",
+      "price": 32999,
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400",
+      "category": "Smartwatches",
+      "rating": 4.1,
+      "reviews": 5976,
+      "specs": "Exynos W1000, Body Composition, 40hr Battery",
+      "sites": [
+        {
+          "name": "Flipkart",
+          "price": 31394,
+          "url": "https://www.flipkart.com/search?q=Samsung+Galaxy+Watch+7",
+          "delivery": "2 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 30960,
+          "url": "https://www.vijaysales.com/search?query=Samsung+Galaxy+Watch+7",
+          "delivery": "7 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 31154,
+          "url": "https://www.amazon.in/s?k=Samsung+Galaxy+Watch+7",
+          "delivery": "2 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 29436,
+          "url": "https://www.croma.com/search?q=Samsung+Galaxy+Watch+7",
+          "delivery": "3 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "brand": "Samsung",
+      "name": "Galaxy Watch Ultra",
+      "price": 59999,
+      "image": "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?w=400",
+      "category": "Smartwatches",
+      "rating": 4.6,
+      "reviews": 1568,
+      "specs": "Titanium, 10ATM Water Resistant, 100hr Battery",
+      "sites": [
+        {
+          "name": "Vijay Sales",
+          "price": 63876,
+          "url": "https://www.vijaysales.com/search?query=Samsung+Galaxy+Watch+Ultra",
+          "delivery": "2 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 63526,
+          "url": "https://www.amazon.in/s?k=Samsung+Galaxy+Watch+Ultra",
+          "delivery": "5 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 57477,
+          "url": "https://www.flipkart.com/search?q=Samsung+Galaxy+Watch+Ultra",
+          "delivery": "6 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 59550,
+          "url": "https://www.croma.com/search?q=Samsung+Galaxy+Watch+Ultra",
+          "delivery": "4 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "brand": "OnePlus",
+      "name": "Watch 3",
+      "price": 17999,
+      "image": "https://images.unsplash.com/photo-1579586337278-3f436f25d4d6?w=400",
+      "category": "Smartwatches",
+      "rating": 4.2,
+      "reviews": 2063,
+      "specs": "Snapdragon W5, RTOS, 100+ Workout Modes, 4 Days Battery",
+      "sites": [
+        {
+          "name": "Vijay Sales",
+          "price": 18408,
+          "url": "https://www.vijaysales.com/search?query=OnePlus+Watch+3",
+          "delivery": "3 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 16990,
+          "url": "https://www.amazon.in/s?k=OnePlus+Watch+3",
+          "delivery": "6 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 18422,
+          "url": "https://www.flipkart.com/search?q=OnePlus+Watch+3",
+          "delivery": "7 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "brand": "Xiaomi",
+      "name": "Watch S3",
+      "price": 12999,
+      "image": "https://images.unsplash.com/photo-1544117519-31a4b719223d?w=400",
+      "category": "Smartwatches",
+      "rating": 4.6,
+      "reviews": 5825,
+      "specs": "HyperOS, 150+ Sports Modes, 12 Days Battery",
+      "sites": [
+        {
+          "name": "Vijay Sales",
+          "price": 11813,
+          "url": "https://www.vijaysales.com/search?query=Xiaomi+Watch+S3",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 14247,
+          "url": "https://www.amazon.in/s?k=Xiaomi+Watch+S3",
+          "delivery": "7 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 13957,
+          "url": "https://www.croma.com/search?q=Xiaomi+Watch+S3",
+          "delivery": "7 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "brand": "Realme",
+      "name": "Watch S2",
+      "price": 6999,
+      "image": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=400",
+      "category": "Smartwatches",
+      "rating": 4.0,
+      "reviews": 5134,
+      "specs": "1.43\" AMOLED, IP68, 110+ Sports Modes, 12 Days",
+      "sites": [
+        {
+          "name": "Vijay Sales",
+          "price": 7800,
+          "url": "https://www.vijaysales.com/search?query=Realme+Watch+S2",
+          "delivery": "6 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 6647,
+          "url": "https://www.flipkart.com/search?q=Realme+Watch+S2",
+          "delivery": "3 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 7401,
+          "url": "https://www.amazon.in/s?k=Realme+Watch+S2",
+          "delivery": "6 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 7814,
+          "url": "https://www.croma.com/search?q=Realme+Watch+S2",
+          "delivery": "7 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "brand": "Amazfit",
+      "name": "GTR 4",
+      "price": 16999,
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400",
+      "category": "Smartwatches",
+      "rating": 4.4,
+      "reviews": 5523,
+      "specs": "Zepp OS, 150+ Sports, Dual-Band GPS, 14 Days",
+      "sites": [
+        {
+          "name": "Flipkart",
+          "price": 17149,
+          "url": "https://www.flipkart.com/search?q=Amazfit+GTR+4",
+          "delivery": "3 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 17406,
+          "url": "https://www.croma.com/search?q=Amazfit+GTR+4",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 16484,
+          "url": "https://www.amazon.in/s?k=Amazfit+GTR+4",
+          "delivery": "2 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 16455,
+          "url": "https://www.vijaysales.com/search?query=Amazfit+GTR+4",
+          "delivery": "4 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "brand": "Xiaomi",
+      "name": "Mi Band 8 Active",
+      "price": 2299,
+      "image": "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?w=400",
+      "category": "Smartwatches",
+      "rating": 4.1,
+      "reviews": 2617,
+      "specs": "1.47\" Display, 50m Water Resistance, 16 Days Battery",
+      "sites": [
+        {
+          "name": "Flipkart",
+          "price": 2496,
+          "url": "https://www.flipkart.com/search?q=Xiaomi+Mi+Band+8+Active",
+          "delivery": "4 days",
+          "shipping": "\u20b985"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 2124,
+          "url": "https://www.vijaysales.com/search?query=Xiaomi+Mi+Band+8+Active",
+          "delivery": "3 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 2095,
+          "url": "https://www.croma.com/search?q=Xiaomi+Mi+Band+8+Active",
+          "delivery": "3 days",
+          "shipping": "\u20b950"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "brand": "Realme",
+      "name": "Band 2",
+      "price": 2999,
+      "image": "https://images.unsplash.com/photo-1579586337278-3f436f25d4d6?w=400",
+      "category": "Smartwatches",
+      "rating": 4.4,
+      "reviews": 3810,
+      "specs": "1.4\" Color Display, Blood Oxygen, 12 Days Battery",
+      "sites": [
+        {
+          "name": "Croma",
+          "price": 3221,
+          "url": "https://www.croma.com/search?q=Realme+Band+2",
+          "delivery": "3 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 2705,
+          "url": "https://www.amazon.in/s?k=Realme+Band+2",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 3249,
+          "url": "https://www.vijaysales.com/search?query=Realme+Band+2",
+          "delivery": "5 days",
+          "shipping": "\u20b995"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "brand": "Boat",
+      "name": "Wave Call 2",
+      "price": 1999,
+      "image": "https://images.unsplash.com/photo-1544117519-31a4b719223d?w=400",
+      "category": "Smartwatches",
+      "rating": 4.2,
+      "reviews": 688,
+      "specs": "1.83\" Display, Bluetooth Calling, 7 Days Battery",
+      "sites": [
+        {
+          "name": "Flipkart",
+          "price": 2172,
+          "url": "https://www.flipkart.com/search?q=Boat+Wave+Call+2",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 2054,
+          "url": "https://www.vijaysales.com/search?query=Boat+Wave+Call+2",
+          "delivery": "7 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 2165,
+          "url": "https://www.croma.com/search?q=Boat+Wave+Call+2",
+          "delivery": "7 days",
+          "shipping": "\u20b976"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "brand": "Apple",
+      "name": "MacBook Pro 16 M3 Max",
+      "price": 399900,
+      "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=400",
+      "category": "Laptops",
+      "rating": 4.3,
+      "reviews": 1418,
+      "specs": "M3 Max Chip, 36GB RAM, 1TB SSD, 16.2\" Liquid Retina XDR",
+      "sites": [
+        {
+          "name": "Vijay Sales",
+          "price": 433111,
+          "url": "https://www.vijaysales.com/search?query=Apple+MacBook+Pro+16+M3+Max",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 408685,
+          "url": "https://www.amazon.in/s?k=Apple+MacBook+Pro+16+M3+Max",
+          "delivery": "7 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 439586,
+          "url": "https://www.croma.com/search?q=Apple+MacBook+Pro+16+M3+Max",
+          "delivery": "7 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "brand": "Apple",
+      "name": "MacBook Air 15 M3",
+      "price": 134900,
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400",
+      "category": "Laptops",
+      "rating": 4.3,
+      "reviews": 1384,
+      "specs": "M3 Chip, 8GB RAM, 256GB SSD, 15.3\" Liquid Retina",
+      "sites": [
+        {
+          "name": "Amazon",
+          "price": 148351,
+          "url": "https://www.amazon.in/s?k=Apple+MacBook+Air+15+M3",
+          "delivery": "3 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 121441,
+          "url": "https://www.croma.com/search?q=Apple+MacBook+Air+15+M3",
+          "delivery": "2 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 126917,
+          "url": "https://www.flipkart.com/search?q=Apple+MacBook+Air+15+M3",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 132841,
+          "url": "https://www.vijaysales.com/search?query=Apple+MacBook+Air+15+M3",
+          "delivery": "7 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "brand": "Dell",
+      "name": "XPS 13 Plus",
+      "price": 149900,
+      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400",
+      "category": "Laptops",
+      "rating": 4.5,
+      "reviews": 1538,
+      "specs": "Intel Core i7, 16GB RAM, 512GB SSD, 13.4\" OLED",
+      "sites": [
+        {
+          "name": "Flipkart",
+          "price": 166637,
+          "url": "https://www.flipkart.com/search?q=Dell+XPS+13+Plus",
+          "delivery": "5 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 156696,
+          "url": "https://www.vijaysales.com/search?query=Dell+XPS+13+Plus",
+          "delivery": "3 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 131937,
+          "url": "https://www.amazon.in/s?k=Dell+XPS+13+Plus",
+          "delivery": "3 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 137210,
+          "url": "https://www.croma.com/search?q=Dell+XPS+13+Plus",
+          "delivery": "5 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "brand": "HP",
+      "name": "Spectre x360 14",
+      "price": 129900,
+      "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400",
+      "category": "Laptops",
+      "rating": 4.5,
+      "reviews": 805,
+      "specs": "Intel Core i7, 16GB RAM, 1TB SSD, 13.5\" 2K Touch",
+      "sites": [
+        {
+          "name": "Amazon",
+          "price": 138473,
+          "url": "https://www.amazon.in/s?k=HP+Spectre+x360+14",
+          "delivery": "2 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 143861,
+          "url": "https://www.flipkart.com/search?q=HP+Spectre+x360+14",
+          "delivery": "3 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 138884,
+          "url": "https://www.vijaysales.com/search?query=HP+Spectre+x360+14",
+          "delivery": "6 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 121474,
+          "url": "https://www.croma.com/search?q=HP+Spectre+x360+14",
+          "delivery": "2 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "brand": "ASUS",
+      "name": "ROG Strix G16",
+      "price": 124999,
+      "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=400",
+      "category": "Laptops",
+      "rating": 4.5,
+      "reviews": 1215,
+      "specs": "Intel i7-13650HX, RTX 4060, 16GB RAM, 1TB SSD",
+      "sites": [
+        {
+          "name": "Amazon",
+          "price": 124802,
+          "url": "https://www.amazon.in/s?k=ASUS+ROG+Strix+G16",
+          "delivery": "2 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 122137,
+          "url": "https://www.croma.com/search?q=ASUS+ROG+Strix+G16",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 111619,
+          "url": "https://www.flipkart.com/search?q=ASUS+ROG+Strix+G16",
+          "delivery": "2 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 117144,
+          "url": "https://www.vijaysales.com/search?query=ASUS+ROG+Strix+G16",
+          "delivery": "4 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "brand": "MSI",
+      "name": "Katana 15",
+      "price": 89999,
+      "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=400",
+      "category": "Laptops",
+      "rating": 4.2,
+      "reviews": 245,
+      "specs": "Intel i7-13620H, RTX 4050, 16GB RAM, 512GB SSD",
+      "sites": [
+        {
+          "name": "Amazon",
+          "price": 95446,
+          "url": "https://www.amazon.in/s?k=MSI+Katana+15",
+          "delivery": "7 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 92797,
+          "url": "https://www.vijaysales.com/search?query=MSI+Katana+15",
+          "delivery": "6 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 81628,
+          "url": "https://www.flipkart.com/search?q=MSI+Katana+15",
+          "delivery": "4 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "brand": "Lenovo",
+      "name": "Legion 5 Pro",
+      "price": 109999,
+      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400",
+      "category": "Laptops",
+      "rating": 4.0,
+      "reviews": 1110,
+      "specs": "AMD Ryzen 7, RTX 4060, 16GB RAM, 1TB SSD",
+      "sites": [
+        {
+          "name": "Croma",
+          "price": 119560,
+          "url": "https://www.croma.com/search?q=Lenovo+Legion+5+Pro",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 100782,
+          "url": "https://www.vijaysales.com/search?query=Lenovo+Legion+5+Pro",
+          "delivery": "2 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 113042,
+          "url": "https://www.flipkart.com/search?q=Lenovo+Legion+5+Pro",
+          "delivery": "7 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "brand": "HP",
+      "name": "Omen 16",
+      "price": 79999,
+      "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400",
+      "category": "Laptops",
+      "rating": 4.3,
+      "reviews": 800,
+      "specs": "Intel i5-12500H, RTX 4050, 16GB RAM, 512GB SSD",
+      "sites": [
+        {
+          "name": "Vijay Sales",
+          "price": 82843,
+          "url": "https://www.vijaysales.com/search?query=HP+Omen+16",
+          "delivery": "6 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 71843,
+          "url": "https://www.flipkart.com/search?q=HP+Omen+16",
+          "delivery": "7 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 82980,
+          "url": "https://www.croma.com/search?q=HP+Omen+16",
+          "delivery": "7 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 84196,
+          "url": "https://www.amazon.in/s?k=HP+Omen+16",
+          "delivery": "5 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "brand": "Lenovo",
+      "name": "IdeaPad Gaming 3",
+      "price": 54999,
+      "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=400",
+      "category": "Laptops",
+      "rating": 4.2,
+      "reviews": 2840,
+      "specs": "AMD Ryzen 5, GTX 1650, 8GB RAM, 512GB SSD",
+      "sites": [
+        {
+          "name": "Flipkart",
+          "price": 49869,
+          "url": "https://www.flipkart.com/search?q=Lenovo+IdeaPad+Gaming+3",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 49778,
+          "url": "https://www.amazon.in/s?k=Lenovo+IdeaPad+Gaming+3",
+          "delivery": "6 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 57474,
+          "url": "https://www.croma.com/search?q=Lenovo+IdeaPad+Gaming+3",
+          "delivery": "3 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "brand": "HP",
+      "name": "Pavilion 15",
+      "price": 52999,
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400",
+      "category": "Laptops",
+      "rating": 4.2,
+      "reviews": 2836,
+      "specs": "Intel i5-1235U, 8GB RAM, 512GB SSD, 15.6\" FHD",
+      "sites": [
+        {
+          "name": "Croma",
+          "price": 57288,
+          "url": "https://www.croma.com/search?q=HP+Pavilion+15",
+          "delivery": "7 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 53700,
+          "url": "https://www.flipkart.com/search?q=HP+Pavilion+15",
+          "delivery": "3 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 48229,
+          "url": "https://www.vijaysales.com/search?query=HP+Pavilion+15",
+          "delivery": "3 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 57592,
+          "url": "https://www.amazon.in/s?k=HP+Pavilion+15",
+          "delivery": "5 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "brand": "ASUS",
+      "name": "VivoBook 15",
+      "price": 45999,
+      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400",
+      "category": "Laptops",
+      "rating": 4.4,
+      "reviews": 1015,
+      "specs": "Intel i5-1235U, 8GB RAM, 512GB SSD, 15.6\" FHD",
+      "sites": [
+        {
+          "name": "Vijay Sales",
+          "price": 49322,
+          "url": "https://www.vijaysales.com/search?query=ASUS+VivoBook+15",
+          "delivery": "5 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 45312,
+          "url": "https://www.flipkart.com/search?q=ASUS+VivoBook+15",
+          "delivery": "5 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 48787,
+          "url": "https://www.croma.com/search?q=ASUS+VivoBook+15",
+          "delivery": "5 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 44646,
+          "url": "https://www.amazon.in/s?k=ASUS+VivoBook+15",
+          "delivery": "7 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "brand": "Acer",
+      "name": "Aspire 7",
+      "price": 48999,
+      "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400",
+      "category": "Laptops",
+      "rating": 4.3,
+      "reviews": 458,
+      "specs": "AMD Ryzen 5, 8GB RAM, 512GB SSD, 15.6\" FHD",
+      "sites": [
+        {
+          "name": "Croma",
+          "price": 45189,
+          "url": "https://www.croma.com/search?q=Acer+Aspire+7",
+          "delivery": "2 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 47546,
+          "url": "https://www.flipkart.com/search?q=Acer+Aspire+7",
+          "delivery": "2 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 52168,
+          "url": "https://www.amazon.in/s?k=Acer+Aspire+7",
+          "delivery": "2 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 51441,
+          "url": "https://www.vijaysales.com/search?query=Acer+Aspire+7",
+          "delivery": "4 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "brand": "Lenovo",
+      "name": "V15 G4",
+      "price": 32999,
+      "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=400",
+      "category": "Laptops",
+      "rating": 4.2,
+      "reviews": 2098,
+      "specs": "Intel i3-1315U, 8GB RAM, 256GB SSD, 15.6\" HD",
+      "sites": [
+        {
+          "name": "Flipkart",
+          "price": 31527,
+          "url": "https://www.flipkart.com/search?q=Lenovo+V15+G4",
+          "delivery": "2 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 30675,
+          "url": "https://www.croma.com/search?q=Lenovo+V15+G4",
+          "delivery": "6 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 33623,
+          "url": "https://www.vijaysales.com/search?query=Lenovo+V15+G4",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 36623,
+          "url": "https://www.amazon.in/s?k=Lenovo+V15+G4",
+          "delivery": "3 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "brand": "HP",
+      "name": "15s-fq5007TU",
+      "price": 35999,
+      "image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=400",
+      "category": "Laptops",
+      "rating": 4.4,
+      "reviews": 1937,
+      "specs": "Intel i3-1215U, 8GB RAM, 256GB SSD, 15.6\" FHD",
+      "sites": [
+        {
+          "name": "Croma",
+          "price": 33064,
+          "url": "https://www.croma.com/search?q=HP+15s-fq5007TU",
+          "delivery": "6 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 37393,
+          "url": "https://www.vijaysales.com/search?query=HP+15s-fq5007TU",
+          "delivery": "3 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 35050,
+          "url": "https://www.amazon.in/s?k=HP+15s-fq5007TU",
+          "delivery": "3 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "brand": "ASUS",
+      "name": "X515EA",
+      "price": 29999,
+      "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=400",
+      "category": "Laptops",
+      "rating": 4.5,
+      "reviews": 1087,
+      "specs": "Intel i3-1115G4, 4GB RAM, 256GB SSD, 15.6\" FHD",
+      "sites": [
+        {
+          "name": "Flipkart",
+          "price": 30864,
+          "url": "https://www.flipkart.com/search?q=ASUS+X515EA",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 32842,
+          "url": "https://www.vijaysales.com/search?query=ASUS+X515EA",
+          "delivery": "4 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 28981,
+          "url": "https://www.croma.com/search?q=ASUS+X515EA",
+          "delivery": "6 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "brand": "Apple",
+      "name": "iPad Pro 12.9 M4",
+      "price": 119900,
+      "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=400",
+      "category": "Tablets",
+      "rating": 4.1,
+      "reviews": 505,
+      "specs": "M4 Chip, 128GB, 12.9\" Liquid Retina XDR, Face ID",
+      "sites": [
+        {
+          "name": "Flipkart",
+          "price": 109112,
+          "url": "https://www.flipkart.com/search?q=Apple+iPad+Pro+12.9+M4",
+          "delivery": "7 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 108197,
+          "url": "https://www.vijaysales.com/search?query=Apple+iPad+Pro+12.9+M4",
+          "delivery": "7 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 111435,
+          "url": "https://www.croma.com/search?q=Apple+iPad+Pro+12.9+M4",
+          "delivery": "4 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "brand": "Apple",
+      "name": "iPad Air 11 M2",
+      "price": 59900,
+      "image": "https://images.unsplash.com/photo-1527698266440-12104e498b76?w=400",
+      "category": "Tablets",
+      "rating": 4.4,
+      "reviews": 1028,
+      "specs": "M2 Chip, 128GB, 11\" Liquid Retina, Touch ID",
+      "sites": [
+        {
+          "name": "Amazon",
+          "price": 65991,
+          "url": "https://www.amazon.in/s?k=Apple+iPad+Air+11+M2",
+          "delivery": "5 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Croma",
+          "price": 61736,
+          "url": "https://www.croma.com/search?q=Apple+iPad+Air+11+M2",
+          "delivery": "5 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 62796,
+          "url": "https://www.vijaysales.com/search?query=Apple+iPad+Air+11+M2",
+          "delivery": "3 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 56877,
+          "url": "https://www.flipkart.com/search?q=Apple+iPad+Air+11+M2",
+          "delivery": "4 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "brand": "Samsung",
+      "name": "Galaxy Tab S9+",
+      "price": 79999,
+      "image": "https://images.unsplash.com/photo-1561154464-82e9adf32764?w=400",
+      "category": "Tablets",
+      "rating": 4.3,
+      "reviews": 551,
+      "specs": "Snapdragon 8 Gen 2, 256GB, 12.4\" AMOLED, S Pen",
+      "sites": [
+        {
+          "name": "Vijay Sales",
+          "price": 87409,
+          "url": "https://www.vijaysales.com/search?query=Samsung+Galaxy+Tab+S9+",
+          "delivery": "3 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 78775,
+          "url": "https://www.amazon.in/s?k=Samsung+Galaxy+Tab+S9+",
+          "delivery": "2 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 81840,
+          "url": "https://www.flipkart.com/search?q=Samsung+Galaxy+Tab+S9+",
+          "delivery": "6 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "brand": "Samsung",
+      "name": "Galaxy Tab A9+",
+      "price": 24999,
+      "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=400",
+      "category": "Tablets",
+      "rating": 4.5,
+      "reviews": 2233,
+      "specs": "Snapdragon 695, 128GB, 11\" TFT, Quad Speakers",
+      "sites": [
+        {
+          "name": "Amazon",
+          "price": 27937,
+          "url": "https://www.amazon.in/s?k=Samsung+Galaxy+Tab+A9+",
+          "delivery": "7 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 27938,
+          "url": "https://www.flipkart.com/search?q=Samsung+Galaxy+Tab+A9+",
+          "delivery": "6 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 22308,
+          "url": "https://www.vijaysales.com/search?query=Samsung+Galaxy+Tab+A9+",
+          "delivery": "6 days",
+          "shipping": "Free"
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "brand": "Lenovo",
+      "name": "Tab P12",
+      "price": 32999,
+      "image": "https://images.unsplash.com/photo-1527698266440-12104e498b76?w=400",
+      "category": "Tablets",
+      "rating": 4.1,
+      "reviews": 1088,
+      "specs": "Dimensity 7050, 256GB, 12.7\" 2K, Dolby Atmos",
+      "sites": [
+        {
+          "name": "Croma",
+          "price": 32775,
+          "url": "https://www.croma.com/search?q=Lenovo+Tab+P12",
+          "delivery": "7 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Flipkart",
+          "price": 34501,
+          "url": "https://www.flipkart.com/search?q=Lenovo+Tab+P12",
+          "delivery": "6 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Vijay Sales",
+          "price": 32644,
+          "url": "https://www.vijaysales.com/search?query=Lenovo+Tab+P12",
+          "delivery": "2 days",
+          "shipping": "Free"
+        },
+        {
+          "name": "Amazon",
+          "price": 33428,
+          "url": "https://www.amazon.in/s?k=Lenovo+Tab+P12",
+          "delivery": "6 days",
+          "shipping": "Free"
+        }
+      ]
+    }
+  ],
+  "total_products": 100,
+  "categories": [
+    {
+      "name": "Smartphones",
+      "slug": "smartphones"
+    },
+    {
+      "name": "Headphones",
+      "slug": "headphones"
+    },
+    {
+      "name": "Gaming",
+      "slug": "gaming"
+    },
+    {
+      "name": "Smartwatches",
+      "slug": "smartwatches"
+    },
+    {
+      "name": "Laptops",
+      "slug": "laptops"
+    },
+    {
+      "name": "Tablets",
+      "slug": "tablets"
+    }
+  ],
+  "brands": [
+    "ASUS",
+    "Acer",
+    "Amazfit",
+    "Apple",
+    "Audio-Technica",
+    "Boat",
+    "Bose",
+    "Corsair",
+    "Cosmic Byte",
+    "Dell",
+    "Google",
+    "HP",
+    "HyperX",
+    "JBL",
+    "Lenovo",
+    "Logitech",
+    "MSI",
+    "Motorola",
+    "Noise",
+    "Nothing",
+    "OnePlus",
+    "Razer",
+    "Realme",
+    "Redgear",
+    "Samsung",
+    "Sennheiser",
+    "Skullcandy",
+    "Sony",
+    "SteelSeries",
+    "Vivo",
+    "Xiaomi",
+    "Zebronics"
+  ],
+  "price_ranges": [
+    {
+      "label": "Under \u20b95,000",
+      "min": 0,
+      "max": 5000
+    },
+    {
+      "label": "\u20b95,000 - \u20b915,000",
+      "min": 5000,
+      "max": 15000
+    },
+    {
+      "label": "\u20b915,000 - \u20b930,000",
+      "min": 15000,
+      "max": 30000
+    },
+    {
+      "label": "\u20b930,000 - \u20b950,000",
+      "min": 30000,
+      "max": 50000
+    },
+    {
+      "label": "\u20b950,000 - \u20b91,00,000",
+      "min": 50000,
+      "max": 100000
+    },
+    {
+      "label": "Above \u20b91,00,000",
+      "min": 100000,
+      "max": 500000
+    }
+  ]
+}
